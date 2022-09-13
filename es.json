@@ -1,4 +1,4 @@
-[
+{
 	"User Id": "ES:User Id",
 	"Phone Number": "Telefono",
 	"Extension": "Extensionio",
@@ -14,4 +14,4 @@
 	"Time Zone": "Tiempre Zone",
 	"Address": "Addresso",
 	"Network Class of Service": "Network Class of Serviceo"
-]
+}
