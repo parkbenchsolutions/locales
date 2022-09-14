@@ -1,0 +1,17 @@
+{
+	"User Id": "EN:User Id",
+	"Phone Number": "Phone Number",
+	"Extension": "Extension",
+	"First Name": "First Name",
+	"Last Name": "Last Name",
+	"CLID First Name": "CLID First Name",
+	"CLID Last Name": "CLID Last Name",
+	"CLID Phone Number": "CLID Phone Number",
+	"Department": "Department",
+	"Title": "Title",
+	"Mobile": "Mobile",
+	"Email": "Email",
+	"Time Zone": "Time Zone",
+	"Address": "Address",
+	"Network Class of Service": "Network Class of Service"
+}
