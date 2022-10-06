@@ -1,3 +1,14 @@
 {
-	"Edit Profile": "Edit Profile"
+	"Edit Profile": "Edit Profile",
+	"User": "User",
+	"User ID": "User ID",
+	"Task": "Task",
+	"Status": "Status",
+	"Errors": "Errors",
+	"Error": "Error",
+	"Date": "Date",
+	"Failed": "Failed",
+	"All": "All",
+	"Pending": "Pending",
+	"Completed": "Completed"
 }

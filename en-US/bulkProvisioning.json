@@ -1,6 +1,13 @@
 {
   "Bulk Templates": "Bulk Templates-ODIN",
   "Bulk Download CSV Templates": "Bulk Download CSV Templates-ODIN",
+  "Recent Tasks": "Recent Tasks-ODIN",
+  "Task Details": "Task Details-ODIN",
+  "Task Status": "Task Status-ODIN",
+  "Job Status": "Job Status-ODIN",
+  "Edit and Retry Failed Users": "Edit and Retry Failed Users-ODIN",
+  "Retry Entire Task": "Retry Entire Task-ODIN",
+  "Job Details": "Job Details-ODIN",
 
   "Name": "Name-ODIN",
   "Description": "Description-ODIN",
