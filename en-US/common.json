@@ -1,14 +1,14 @@
 {
-	"Edit Profile": "Edit Profile",
-	"User": "User",
-	"User ID": "User ID",
-	"Task": "Task",
-	"Status": "Status",
-	"Errors": "Errors",
-	"Error": "Error",
-	"Date": "Date",
-	"Failed": "Failed",
-	"All": "All",
-	"Pending": "Pending",
-	"Completed": "Completed"
+	"Edit Profile": "Edit Profile-ODIN",
+	"User": "User-ODIN",
+	"User ID": "User ID-ODIN",
+	"Task": "Task-ODIN",
+	"Status": "Status-ODIN",
+	"Errors": "Errors-ODIN",
+	"Error": "Error-ODIN",
+	"Date": "Date-ODIN",
+	"Failed": "Failed-ODIN",
+	"All": "All-ODIN",
+	"Pending": "Pending-ODIN",
+	"Completed": "Completed-ODIN"
 }
