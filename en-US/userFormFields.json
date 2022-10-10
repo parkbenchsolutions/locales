@@ -1,4 +1,21 @@
 {
   "First Name": "First Name-ODIN",
-  "Last Name": "Last Name-ODIN"
+  "Last Name": "Last Name-ODIN",
+  "CLID Last Name": "CLID Last Name",
+  "CLID First Name": "CLID First Name",
+  "Language": "Language",
+  "Time Zone": "Time Zone",
+  "Department": "Department",
+  "Network Class Of Service": "Network Class Of Service",
+  "Title": "Title",
+  "Email Address": "Email Address",
+  "Pager Number": "Pager Number",
+  "Address Location": "Address Location",
+  "Mobile Number": "Mobile Number",
+  "Address Line 1": "Address Line 1",
+  "City": "City",
+  "Address Line 2": "Address Line 2",
+  "Postal Code": "Postal Code",
+  "State/Province": "State/Province",
+  "Country": "Country"
 }
