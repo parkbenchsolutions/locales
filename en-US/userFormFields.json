@@ -17,5 +17,12 @@
   "Address Line 2": "Address Line 2-ODIN",
   "Postal Code": "Postal Code-ODIN",
   "State/Province": "State/Province-ODIN",
-  "Country": "Country-ODIN"
+  "Country": "Country-ODIN",
+  "User Id": "User Id-ODIN",
+  "Phone Number": "Phone Number-ODIN",
+  "Extension": "Extension-ODIN",
+  "CLID Phone Number": "CLID Phone Number-ODIN",
+  "Mobile": "Mobile-ODIN",
+  "Email": "Email-ODIN",
+  "Address": "Address-ODIN",
 }
