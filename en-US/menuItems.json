@@ -5,7 +5,7 @@
   "Resellers": "Resellers-ODIN",
   "Dashboard": "Dashboard-ODIN",
   "VDM": "VDM-ODIN",
-  "Bulk Wizards": "B lk Wizards-ODIN",
+  "Bulk Wizards": "Bulk Wizards-ODIN",
   "Bulk Templates": "Bulk Templates-ODIN",
   "Audit": "Audit-ODIN",
   "Webex Bulk Templates": "Webex Bulk Templates-ODIN",
@@ -117,5 +117,8 @@
   "Shared Call Appearance": "Shared Call Appearance-ODIN",
   "User Service Assignment": "User Service Assignment-ODIN",
   "User ID or Delete": "User ID or Delete-ODIN",
-  "User Call Processing Policy": "User Call Processing Policy-ODIN"
+  "User Call Processing Policy": "User Call Processing Policy-ODIN",
+  "Service Pack Utilization Report": "Service Pack Utilization Report-ODIN",
+  "Service Utilization Report": "Service Utilization Report-ODIN",
+  "Service Provider Report": "Service Provider Report-ODIN"
 }
