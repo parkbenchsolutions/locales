@@ -10,5 +10,11 @@
 	"Failed": "Failed-ODIN",
 	"All": "All-ODIN",
 	"Pending": "Pending-ODIN",
-	"Completed": "Completed-ODIN"
+	"Completed": "Completed-ODIN",
+	"Updated": "Updated-ODIN",
+	"User Profile Policy Read Permission Is Disabled": "User Profile Policy Read Permission Is Disabled-ODIN",
+	"Expiration Days": "Expiration Days-ODIN",
+	"List URI": "List URI-ODIN",
+	"Enable Call Park Notification": "Enable Call Park Notification-ODIN",
+	"Login Enabled": "Login Enabled-ODIN"
 }
