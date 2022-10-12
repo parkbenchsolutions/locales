@@ -8,7 +8,7 @@
   "Edit and Retry Failed Users": "Edit and Retry Failed Users-ODIN",
   "Retry Entire Task": "Retry Entire Task-ODIN",
   "Job Details": "Job Details-ODIN",
-
+  "Import Queued": "Import Queued: {{id}}-ODIN",
   "Name": "Name-ODIN",
   "Description": "Description-ODIN",
   "Bulk Sip Trunking": "Bulk Sip Trunking-ODIN",
@@ -103,5 +103,6 @@
   "Move a user from group A to group B within the same enterprise": "Move a user from group A to group B within the same enterprise-ODIN",
   "User Update": "User Update-ODIN",
   "Update Users in bulk": "Update Users in bulk-ODIN",
-  "Upload Sheet": "Upload Sheet-ODIN"
+  "Upload Sheet": "Upload Sheet-ODIN",
+  "Task": "Task: {{task}}"
 }

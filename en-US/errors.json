@@ -1,5 +1,11 @@
 {
-	"An Error Occurred": "An Error Occurred",
-	"Data Import Error": "Data Import Error",
-	"User not found": "User not found"
+	"An Error Occurred": "An Error Occurred-ODIN",
+	"Data Import Error": "Data Import Error-ODIN",
+	"User not found": "User not found-ODIN",
+	"Error in loading data": "Error in loading data-ODIN",
+	"Task missing or invalid": "Task missing or invalid-ODIN",
+	"Missing required key": "Missing required key: {{key}}-ODIN",
+	"Data Error": "Data Error: {{error}}-ODIN",
+	"This is not a permitted Task": "This is not a permitted Task: {{task}}-ODIN",
+	"Admin is not authorized for": "Admin is not authorized for {{task}} Task-ODIN"
 }
