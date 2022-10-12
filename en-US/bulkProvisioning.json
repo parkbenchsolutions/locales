@@ -106,5 +106,7 @@
   "Upload Sheet": "Upload Sheet-ODIN",
   "Task": "Task: {{task}}-ODIN",
   "Bulk": "Bulk-ODIN",
-  "Import": "Import-ODIN"
+  "Import": "Import-ODIN",
+  "Download CSV": "Download CSV-ODIN",
+  "Submit Task": "Submit Task-ODIN"
 }
