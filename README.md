@@ -22,5 +22,13 @@
 
 When you're finished, copy the english file to other language directories and translate.
 
-*TODO*: probably want to find a translation tool to help manage that process and generate files.
+### For interpolated messages:
+You can provide parameters to messages like so:
+```title={t('Task',{ns: 'bulkProvisioning', task: task})}```
+where ``task`` is the variable you want to supply. 
+
+Then you need to add the following key to the resource file:
+```"Task": "Task: {{task}}",```
+Note the double braces for where to interpolate the parameter.
+
 
