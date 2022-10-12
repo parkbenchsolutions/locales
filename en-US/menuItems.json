@@ -120,5 +120,8 @@
   "User Call Processing Policy": "User Call Processing Policy-ODIN",
   "Service Pack Utilization Report": "Service Pack Utilization Report-ODIN",
   "Service Utilization Report": "Service Utilization Report-ODIN",
-  "Service Provider Report": "Service Provider Report-ODIN"
+  "Service Provider Report": "Service Provider Report-ODIN",
+  "Management": "Management-ODIN",
+  "Bulk Features": "Bulk Features-ODIN"
+
 }

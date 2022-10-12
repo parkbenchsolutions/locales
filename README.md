@@ -31,4 +31,5 @@ Then you need to add the following key to the resource file:
 ```"Task": "Task: {{task}}",```
 Note the double braces for where to interpolate the parameter.
 
+The translation then becomes: **Task: user.create** or whatever the task might be.
 
