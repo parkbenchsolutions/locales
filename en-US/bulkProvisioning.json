@@ -104,5 +104,7 @@
   "User Update": "User Update-ODIN",
   "Update Users in bulk": "Update Users in bulk-ODIN",
   "Upload Sheet": "Upload Sheet-ODIN",
-  "Task": "Task: {{task}}"
+  "Task": "Task: {{task}}-ODIN",
+  "Bulk": "Bulk-ODIN",
+  "Import": "Import-ODIN"
 }
