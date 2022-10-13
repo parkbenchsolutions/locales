@@ -6,6 +6,7 @@
   "Success": "Success-ODIN",
   "Error": "Error-ODIN",
   "Start Time": "Start Time-ODIN",
-  "End Time": "End Time-ODIN"
-
+  "End Time": "End Time-ODIN",
+  "No Event Type Selected": "No Event Type Selected-ODIN",
+  "Filter Results": "Filter Results-ODIN"
 }
