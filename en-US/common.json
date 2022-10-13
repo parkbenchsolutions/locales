@@ -32,5 +32,10 @@
   "Alternate User Search": "Alternate User Search-ODIN",
   "Group Search": "Group Search-ODIN",
   "DN Search": "DN Search-ODIN",
-  "Cancel": "Cancel-ODIN"
+  "Cancel": "Cancel-ODIN",
+  "No thing Available": "No {{thing}} Available",
+  "No thing Selected": "No {{thing}} Selected",
+  "Select All": "Select All-ODIN",
+  "Available": "Available-ODIN",
+  "Selected": "Selected-ODIN"
 }
