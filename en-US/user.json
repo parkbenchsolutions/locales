@@ -24,5 +24,10 @@
   "CLID Phone Number": "CLID Phone Number-ODIN",
   "Mobile": "Mobile-ODIN",
   "Email": "Email-ODIN",
-  "Address": "Address-ODIN"
+  "Address": "Address-ODIN",
+  "Password Changed": "Password Changed",
+  "Password expires never": "Password never expires",
+  "Password expires today": "Password expires today",
+  "Password expired": "Password expired {{days}} ago",
+  "Password expires days": "Password expires in {{days}}"
 }

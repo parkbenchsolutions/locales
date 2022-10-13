@@ -33,3 +33,12 @@ Note the double braces for where to interpolate the parameter.
 
 The translation then becomes: **Task: user.create** or whatever the task might be.
 
+### Alerts
+You can pass in a specific translation for alerts, such as interpolations:
+```alertSuccess(t('Import Queued', {ns: 'bulkProvisioning', id: data.id}),3000,true)```
+Note that you have to provide the milliseconds param (3000) and then "true" to indicate you want to override
+the auto-translation
+
+### array of objects
+Use this utility to translate attributes in an array of json objects:
+```i18nJsonArrayOfObjects(serviceData, ['name','description'], 'bulkProvisioning')```
