@@ -25,5 +25,12 @@
   "Import": "Import-ODIN",
   "Export": "Export-ODIN",
   "Branding": "Branding-ODIN",
-  "odin Webhooks": "odin Webhooks-ODIN"
+  "odin Webhooks": "odin Webhooks-ODIN",
+  "Date and Time Parsing": "Date and Time Parsing-ODIN",
+  "User Search": "User Search-ODIN",
+  "User Service Service": "User Service Service-ODIN",
+  "Alternate User Search": "Alternate User Search-ODIN",
+  "Group Search": "Group Search-ODIN",
+  "DN Search": "DN Search-ODIN",
+  "Cancel": "Cancel-ODIN"
 }

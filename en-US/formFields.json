@@ -1,3 +1,11 @@
 {
-  "None": "None-ODIN"
+  "None": "None-ODIN",
+  "All": "All-ODIN",
+  "Failed": "Failed-ODIN",
+  "Status": "Status-ODIN",
+  "Success": "Success-ODIN",
+  "Error": "Error-ODIN",
+  "Start Time": "Start Time-ODIN",
+  "End Time": "End Time-ODIN"
+
 }

@@ -9,5 +9,13 @@
   "Next Run": "Next Run-ODIN",
   "Run At": "Run At-ODIN",
   "Error": "Error-ODIN",
-  "Webhooks": "Webhooks-ODIN"
+  "Webhooks: Event": "Webhooks: Event-ODIN",
+  "Related Event Data": "Related Event Data-ODIN",
+  "Search Webhooks": "Search Webhooks-ODIN",
+  "Cancel": "Cancel-ODIN",
+  "Generate": "Generate-ODIN",
+  "Select Event Types": "Select Event Types-ODIN",
+  "Save": "Save-ODIN",
+  "Event Types": "Event Types-ODIN"
+
 }
