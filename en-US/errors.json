@@ -7,5 +7,8 @@
 	"Missing required key": "Missing required key: {{key}}-ODIN",
 	"Data Error": "Data Error: {{error}}-ODIN",
 	"This is not a permitted Task": "This is not a permitted Task: {{task}}-ODIN",
-	"Admin is not authorized for": "Admin is not authorized for {{task}} Task-ODIN"
+	"Admin is not authorized for": "Admin is not authorized for {{task}} Task-ODIN",
+	"Hostname Created": "Hostname Created",
+	"Hostname Cloned": "Hostname Cloned"
+
 }

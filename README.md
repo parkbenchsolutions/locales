@@ -41,4 +41,7 @@ the auto-translation
 
 ### array of objects
 Use this utility to translate attributes in an array of json objects:
+
+```const { i18nJsonArrayOfObjects } = useOdinI18nService()```
+
 ```i18nJsonArrayOfObjects(serviceData, ['name','description'], 'bulkProvisioning')```

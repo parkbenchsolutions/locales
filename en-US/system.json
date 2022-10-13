@@ -16,6 +16,9 @@
   "Generate": "Generate-ODIN",
   "Select Event Types": "Select Event Types-ODIN",
   "Save": "Save-ODIN",
-  "Event Types": "Event Types-ODIN"
-
+  "Event Types": "Event Types-ODIN",
+  "Hostname": "Hostname-ODIN",
+  "New Hostname": "New Hostname-ODIN",
+  "Clone Hostname": "Clone Hostname-ODIN",
+  "Clone From": "Clone From-ODIN"
 }
