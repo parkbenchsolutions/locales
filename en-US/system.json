@@ -1,3 +1,13 @@
 {
-  "Webhooks": "Webhooks ({{length}})"
+  "Webhooks": "Webhooks ({{length}})",
+  "Status": "Status-ODIN",
+  "ID": "ID-ODIN",
+  "Event Type": "Event Type-ODIN",
+  "Event ID": "Event ID-ODIN",
+  "Attempt": "Attempt-ODIN",
+  "Endpoint": "Endpoint-ODIN",
+  "Next Run": "Next Run-ODIN",
+  "Run At": "Run At-ODIN",
+  "Error": "Error-ODIN",
+  "Webhooks": "Webhooks-ODIN"
 }

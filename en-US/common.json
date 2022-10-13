@@ -16,5 +16,14 @@
   "Expiration Days": "Expiration Days-ODIN",
   "List URI": "List URI-ODIN",
   "Enable Call Park Notification": "Enable Call Park Notification-ODIN",
-  "Login Enabled": "Login Enabled-ODIN"
+  "Login Enabled": "Login Enabled-ODIN",
+  "Enterprises": "Enterprises-ODIN",
+  "Service Providers": "Service Providers-ODIN",
+  "Resellers": "Resellers-ODIN",
+  "Bulk Wizards": "Bulk Wizards-ODIN",
+  "Audit": "Audit-ODIN",
+  "Import": "Import-ODIN",
+  "Export": "Export-ODIN",
+  "Branding": "Branding-ODIN",
+  "odin Webhooks": "odin Webhooks-ODIN"
 }
