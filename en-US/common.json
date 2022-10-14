@@ -78,5 +78,7 @@
   "Account/Authorization Codes": "Account/Authorization Codes-ODIN",
   "Choose a File": "Choose a File-ODIN",
   "Add Application": "Add Application-ODIN",
-  "Open in New Window": "Open in New Window-ODIN"
+  "Open in New Window": "Open in New Window-ODIN",
+  "User Instance Profile Templates": "User Instance Profile Templates-ODIN",
+  "Service Instance Profile Templates": "Service Instance Profile Templates-ODIN"
 }
