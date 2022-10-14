@@ -25,6 +25,7 @@
   "Details for hostname": "Details for hostname: {{hostname}}-ODIN",
   "Modules for hostname": "Modules for hostname: {{hostname}}-ODIN",
   "Templates for hostname": "Templates for hostname: {{hostname}}-ODIN",
+  "Applications for hostname": "Applications for hostname: {{hostname}}-ODIN",
   "Login History": "Login History-ODIN",
   "Search User Logins": "Search User Logins-ODIN",
   "Edit Hostname": "Edit Hostname-ODIN",
@@ -62,5 +63,10 @@
   "Show Forgot Password": "Show Forgot Password-ODIN",
   "Show Reset Password": "Show Reset Password-ODIN",
   "Enable Chatbot": "Enable Chatbot-ODIN",
-  "Chatbot URL": "Chatbot URL-ODIN"
+  "Chatbot URL": "Chatbot URL-ODIN",
+  "Application Saved": "Application Saved-ODIN",
+  "Application Updated": "Application Updated-ODIN",
+  "Add Application": "Add Application-ODIN",
+  "Edit Application": "Edit Application-ODIN",
+  "Are you sure you want to remove this Application?": "Are you sure you want to remove this Application?-ODIN"
 }

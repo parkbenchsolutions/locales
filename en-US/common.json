@@ -74,5 +74,9 @@
   "Read": "Read-ODIN",
   "Update": "Update-ODIN",
   "Delete": "Delete-ODIN",
-  "Account/Authorization Codes": "Account/Authorization Codes-ODIN"
+  "Remove": "Remove-ODIN",
+  "Account/Authorization Codes": "Account/Authorization Codes-ODIN",
+  "Choose a File": "Choose a File-ODIN",
+  "Add Application": "Add Application-ODIN",
+  "Open in New Window": "Open in New Window-ODIN"
 }
