@@ -66,5 +66,12 @@
   "This Week": "This Week-ODIN",
   "Last Week": "Last Week-ODIN",
   "Please Confirm": "Please Confirm-ODIN",
-  "Yes, I'm sure": "Yes, I'm sure-ODIN"
+  "Yes, I'm sure": "Yes, I'm sure-ODIN",
+  "Label": "Label-ODIN",
+  "Deselect All": "Deselect All-ODIN",
+  "Create": "Create-ODIN",
+  "Read": "Read-ODIN",
+  "Update": "Update-ODIN",
+  "Delete": "Delete-ODIN",
+  "Account/Authorization Codes": "Account/Authorization Codes-ODIN"
 }

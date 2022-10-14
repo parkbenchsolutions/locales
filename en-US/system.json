@@ -14,6 +14,7 @@
   "Search Webhooks": "Search Webhooks-ODIN",
   "Cancel": "Cancel-ODIN",
   "Generate": "Generate-ODIN",
+  "Delete": "Delete-ODIN",
   "Select Event Types": "Select Event Types-ODIN",
   "Save": "Save-ODIN",
   "Event Types": "Event Types-ODIN",
@@ -22,8 +23,9 @@
   "Clone Hostname": "Clone Hostname-ODIN",
   "Clone From": "Clone From-ODIN",
   "Details for hostname": "Details for hostname: {{hostname}}-ODIN",
+  "Modules for hostname": "Modules for hostname: {{hostname}}-ODIN",
   "Login History": "Login History-ODIN",
   "Search User Logins": "Search User Logins-ODIN",
   "Edit Hostname": "Edit Hostname-ODIN",
-  "Are you sure you want to remove this hostname?": "Are you sure you want to remove this hostname?-ODIN"
+  "Are you sure you want to remove this hostname?": "Are you sure you want to remove this hostname?-ODIN",
 }
