@@ -11,7 +11,9 @@
 	"Hostname Created": "Hostname Created-ODIN",
 	"Hostname Cloned": "Hostname Cloned-ODIN",
 	"Start or End Time is Invalid": "Start or End Time is Invalid-ODIN",
-"Hostname Updated": "Hostname Updated-ODIN",
+	"Hostname Updated": "Hostname Updated-ODIN",
 	"Hostname Removed": "Hostname Removed-ODIN",
-	"Module Updated": "Module Updated-ODIN"
+	"Module Updated": "Module Updated-ODIN",
+	"Please Login": "Please Login-ODIN",
+	"Template Updated": "Template Updated-ODIN"
 }
