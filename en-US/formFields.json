@@ -11,5 +11,11 @@
   "Filter Results": "Filter Results-ODIN",
   "Confirmation message": "Confirmation message-ODIN",
   "Confirmation timeout (seconds):": "Confirmation timeout (seconds):-ODIN",
-  "Select": "Select-ODIN"
+  "Select": "Select-ODIN",
+  "Alias": "Alias-ODIN",
+  "Description": "Description-ODIN",
+  "Link": "Link-ODIN",
+  "Name": "Name-ODIN",
+  "Starts At": "Starts At-ODIN",
+  "End At": "End At-ODIN"
 }

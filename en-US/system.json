@@ -20,5 +20,10 @@
   "Hostname": "Hostname-ODIN",
   "New Hostname": "New Hostname-ODIN",
   "Clone Hostname": "Clone Hostname-ODIN",
-  "Clone From": "Clone From-ODIN"
+  "Clone From": "Clone From-ODIN",
+  "Details for hostname": "Details for hostname: {{hostname}}-ODIN",
+  "Login History": "Login History-ODIN",
+  "Search User Logins": "Search User Logins-ODIN",
+  "Edit Hostname": "Edit Hostname-ODIN",
+  "Are you sure you want to remove this hostname?": "Are you sure you want to remove this hostname?-ODIN"
 }

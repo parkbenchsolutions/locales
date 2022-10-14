@@ -60,5 +60,11 @@
   "Domains": "Domains-ODIN",
   "Default Domain": "Default Domain-ODIN",
   "Devices": "Devices-ODIN",
-  "Name": "Name-ODIN"
+  "Name": "Name-ODIN",
+  "Today": "Today-ODIN",
+  "Yesterday": "Yesterday-ODIN",
+  "This Week": "This Week-ODIN",
+  "Last Week": "Last Week-ODIN",
+  "Please Confirm": "Please Confirm-ODIN",
+  "Yes, I'm sure": "Yes, I'm sure-ODIN"
 }
