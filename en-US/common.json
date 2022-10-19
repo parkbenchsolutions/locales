@@ -80,5 +80,14 @@
   "Add Application": "Add Application-ODIN",
   "Open in New Window": "Open in New Window-ODIN",
   "User Instance Profile Templates": "User Instance Profile Templates-ODIN",
-  "Service Instance Profile Templates": "Service Instance Profile Templates-ODIN"
+  "Service Instance Profile Templates": "Service Instance Profile Templates-ODIN",
+  "Event number": "Event {{eventNumber}}",
+  "Session Timeout (min)": "Session Timeout (min)-ODIN",
+  "Manual CLID Editing": "Manual CLID Editing-ODIN",
+  "Email for hostname: localhost": "Email for hostname: localhost-ODIN",
+  "Add Template": "Add Template-ODIN",
+  "Edit Template": "Edit Template-ODIN",
+  "Mail Driver": "Mail Driver-ODIN",
+  "Email Message": "Email Message-ODIN",
+  "Message Body": "Message Body-ODIN"
 }

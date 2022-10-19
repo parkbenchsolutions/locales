@@ -43,5 +43,10 @@
   "State/Province": "State/Province-ODIN",
   "Postal Code": "Postal Code-ODIN",
   "Passcode": "Passcode-ODIN",
-  "Country": "Country-ODIN"
+  "Country": "Country-ODIN",
+  "Event Types": "Event Types-ODIN",
+  "Icon": "Icon-ODIN",
+  "Subject": "Subject-ODIN",
+  "Mail Driver": "Mail Driver-ODIN",
+  "Mail Host": "Mail Host-ODIN"
 }

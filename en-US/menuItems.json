@@ -147,5 +147,11 @@
   "Anywhere Mobile Quick Set": "Anywhere Mobile Quick Set-ODIN",
   "Busy Lamp Field": "Busy Lamp Field-ODIN",
   "Monitored Users": "Monitored Users-ODIN",
-  "Localization": "Localization-ODIN"
+  "Localization": "Localization-ODIN",
+  "Migration": "Migration-ODIN",
+  "Connectors": "Connectors-ODIN",
+  "Callbacks": "Callbacks-ODIN",
+  "Webex": "Webex-ODIN",
+  "Client Launcher": "Client Launcher-ODIN",
+  "Surgemail": "Surgemail-ODIN"
 }
