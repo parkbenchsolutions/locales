@@ -147,5 +147,23 @@
   "BW User Id": "BW User Id-ODIN",
   "Enabled": "Enabled-ODIN",
   "Notes": "Notes-ODIN",
-  "Domain Name": "Domain Name-ODIN"
+  "Domain Name": "Domain Name-ODIN",
+  "Edit ssoName Endpoint": "Edit {{ssoName}} Endpoint",
+  "SSO Settings for hostname": "SSO Settings for hostname: {{hostname}}",
+  "All SSO types have been configured. Select one to edit it.": "All SSO types have been configured. Select one to edit it.",
+  "Note: SAML SSO logins fail when the BroadWorks user's password has expired.": "Note: SAML SSO logins fail when the BroadWorks user's password has expired.",
+  "Select SSO Setting Type": "Select SSO Setting Type-ODIN",
+  "New SSO Setting": "New SSO Setting-ODIN",
+
+
+
+
+
+
+"name": "",
+  "description": "",
+  "minimumCoreVersion": "",
+  "title": "",
+  "version":"",
+  "author": ""
 }

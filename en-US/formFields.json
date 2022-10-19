@@ -50,5 +50,12 @@
   "Mail Driver": "Mail Driver-ODIN",
   "Mail Host": "Mail Host-ODIN",
   "Domain Name": "Domain Name-ODIN",
-  "Search": "Search-ODIN"
+  "Search": "Search-ODIN",
+  "Select SSO Type": "Select SSO Type-ODIN",
+  "SSO Description": "SSO Description-ODIN",
+  "SSO Name": "SSO Name-ODIN",
+  "Enabled": "Enabled-ODIN",
+  "Broadworks User Level Access": "Broadworks User Level Access-ODIN",
+  "Allow Multiple BroadWorks Users": "Allow Multiple BroadWorks Users-ODIN",
+  "Multiple User Display Format ( Available fields {{ label }} and {{ userId }} )": "Multiple User Display Format ( Available fields {{ label }} and {{ userId }} )-ODIN"
 }

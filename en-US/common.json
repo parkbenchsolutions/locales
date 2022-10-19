@@ -116,5 +116,9 @@
   "Group": "Group-ODIN",
   "Reseller": "Reseller-ODIN",
   "Dept": "Dept-ODIN",
-  "Login Type": "Login Type-ODIN"
+  "Login Type": "Login Type-ODIN",
+  "Select SSO Setting Type": "Select SSO Setting Type-ODIN",
+  "New SSO Setting": "New SSO Setting-ODIN",
+  "Endpoint Enabled": "Endpoint Enabled-ODIN",
+  "Allow Multiple BW ID's": "Allow Multiple BW ID's-ODIN"
 }
