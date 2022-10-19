@@ -154,6 +154,11 @@
   "Note: SAML SSO logins fail when the BroadWorks user's password has expired.": "Note: SAML SSO logins fail when the BroadWorks user's password has expired.",
   "Select SSO Setting Type": "Select SSO Setting Type-ODIN",
   "New SSO Setting": "New SSO Setting-ODIN",
+  "Add Localization Settings": "Add Localization Settings",
+  "Edit Localization Settings": "Edit Localization Settings",
+  "Are you sure you want to remove this locale endpoint?": "Are you sure you want to remove this locale endpoint?-ODIN",
+  "Locales URL": "Locales URL-ODIN",
+  "Code": "Code-ODIN",
 
 
 

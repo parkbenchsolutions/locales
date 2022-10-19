@@ -120,5 +120,13 @@
   "Select SSO Setting Type": "Select SSO Setting Type-ODIN",
   "New SSO Setting": "New SSO Setting-ODIN",
   "Endpoint Enabled": "Endpoint Enabled-ODIN",
-  "Allow Multiple BW ID's": "Allow Multiple BW ID's-ODIN"
+  "Allow Multiple BW ID's": "Allow Multiple BW ID's-ODIN",
+  "Delete Users": "Delete Users-ODIN",
+  "Enable/Disable Users": "Enable/Disable Users-ODIN",
+  "Domain": "Domain-ODIN",
+  "Localization Settings": "Localization Settings-ODIN",
+  "Localization": "Localization-ODIN",
+  "Default": "Default-ODIN",
+  "Add Localization Settings": "Add Localization Settings-ODIN",
+  "Enabled": "Enabled-ODIN"
 }

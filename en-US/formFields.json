@@ -57,5 +57,10 @@
   "Enabled": "Enabled-ODIN",
   "Broadworks User Level Access": "Broadworks User Level Access-ODIN",
   "Allow Multiple BroadWorks Users": "Allow Multiple BroadWorks Users-ODIN",
-  "Multiple User Display Format ( Available fields {{ label }} and {{ userId }} )": "Multiple User Display Format ( Available fields {{ label }} and {{ userId }} )-ODIN"
+  "Multiple User Display Format ( Available fields {{ label }} and {{ userId }} )": "Multiple User Display Format ( Available fields {{ label }} and {{ userId }} )-ODIN",
+  "Default": "Default-ODIN",
+  "Endpoint Enabled": "Endpoint Enabled-ODIN",
+  "Locales URL": "Locales URL-ODIN",
+  "English": "English-ODIN",
+  "Language Code": "Language Code-ODIN"
 }
