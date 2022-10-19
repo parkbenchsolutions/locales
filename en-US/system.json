@@ -139,9 +139,13 @@
   "Mail Username": "Mail Username-ODIN",
   "Mail Password": "Mail Password-ODIN",
   "Mail Body Text": "Mail Body Text-ODIN",
-  "Email Templates for hostname": "Email Templates for: {{hostname}}",
+  "Email Templates for hostname": "Email Templates for: {{hostname}}-ODIN",
   "Subject": "Subject-ODIN",
   "Email Message": "Email Message-ODIN",
-  "Email Templates for hostname": "Email Templates for hostname-ODIN",
-  "Are you sure you want to remove this template?": "Are you sure you want to remove this template?"
+  "Are you sure you want to remove this template?": "Are you sure you want to remove this template?",
+  "Login Allow List for hostname": "Login Allow List for hostname: {{hostname}}-ODIN",
+  "BW User Id": "BW User Id-ODIN",
+  "Enabled": "Enabled-ODIN",
+  "Notes": "Notes-ODIN",
+  "Domain Name": "Domain Name-ODIN"
 }

@@ -48,5 +48,7 @@
   "Icon": "Icon-ODIN",
   "Subject": "Subject-ODIN",
   "Mail Driver": "Mail Driver-ODIN",
-  "Mail Host": "Mail Host-ODIN"
+  "Mail Host": "Mail Host-ODIN",
+  "Domain Name": "Domain Name-ODIN",
+  "Search": "Search-ODIN"
 }
