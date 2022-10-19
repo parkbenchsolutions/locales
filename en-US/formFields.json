@@ -62,5 +62,9 @@
   "Endpoint Enabled": "Endpoint Enabled-ODIN",
   "Locales URL": "Locales URL-ODIN",
   "English": "English-ODIN",
-  "Language Code": "Language Code-ODIN"
+  "Language Code": "Language Code-ODIN",
+  "Hostname": "Hostname-ODIN",
+  "CLID First Name": "CLID First Name-ODIN",
+  "Service Name": "Service Name-ODIN",
+  "Phone Number": "Phone Number-ODIN"
 }
