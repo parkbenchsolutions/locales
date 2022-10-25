@@ -163,6 +163,18 @@
   "Alternate User Ids": "Alternate User Ids-ODIN",
   "SSO Name": "SSO Name-ODIN",
   "SSO Description": "SSO Description-ODIN",
+  "Edit Domain": "Edit Domain-ODIN",
+  "Add allow list user": "Add allow list user-ODIN",
+  "Edit allow list user": "Edit allow list user-ODIN",
+  "Add Sso Admin Id": "Add Sso Admin Id-ODIN",
+  "Edit Sso Admin Id": "Edit Sso Admin Id-ODIN",
+  "Deselect All": "Deselect All-ODIN",
+  "Create": "Create-ODIN",
+  "Read": "Read-ODIN",
+  "Update": "Update-ODIN",
+  "Delete Users": "Delete Users-ODIN",
+  "Enable/Disable Users": "Enable/Disable Users-ODIN",
+  "Add Domain": "Add Domain-ODIN",
 
 
 
