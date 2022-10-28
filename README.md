@@ -60,7 +60,11 @@ REQUIREMENT: Each file in OdinWeb that has labels needs to have those labels tra
    
 And possibly others...
 
+For all of these components, you can pass in a "notranslate" attribute to indicate you are handling the translation for all labels in that component yourself (by wrapping them with a ```t()``). You can also pass a "namespace" attribute to indicate which namespace you want to use. 
+
 2) You can use a utility called ```i18nJsonArrayOfObjects``` to translate a label attribute of an array of objects.
+
+
 3) While the above strategies cover a wide range of our existing labels, there are many that will not pass through one of these components and be translated. For these, you must manually wrap the label in the special translation function ```t()```
 
 ### Translating a page
@@ -85,7 +89,7 @@ import { useTranslation } from 'react-i18next'
 
 Note here that you specify which namespace (meaning which resource file) all of the translated KEYS on this page are to be loaded from. In this case, all KEYS will be retrieved from the "system.json" file because the branding is part of the System-level pages. Actually, branding appears at multiple levels, but we chose to put all of the KEYS into "system.json" for simplicity.
 
-Also note that we are using the i18nJsonArrayOfObjects utility so that we can translate the "columns" array of objects. The "label" attribute of the "columns" need to be translated and the last line above accomplishes that for us.
+Also note that we are using the i18nJsonArrayOfObjects utility so that we can translate the "columns" array of objects. The "label" attribute of the "columns" need to be translated and the last line above accomplishes that for us. **If you aren't translating an array of objects, you can leave those imports out**
 
 3) We should now COPY and PASTE each KEY that we find into the "system.json" file in a separate editor. Note that the format for all KEYS for our english version have the following pattern:
 ```text
@@ -157,7 +161,7 @@ alertSuccess(t('Import Queued', {ns: 'bulkProvisioning', id: data.id}),3000,true
 
 Note that you have to provide the milliseconds param (3000) and then "true" parameter to indicate you want to override the auto-translation
 
-### array of objects
+### Translating multiple labels in an array of objects
 Use this utility to translate attributes in an array of json objects:
 
 ```
@@ -184,7 +188,7 @@ alertSuccess(
 )
 ```
 #### without interpolation
-or another option, do the ternary and send the label to be translated:
+or another option, do the ternary and send the label to be translated as usual:
 ```text
 alertSuccess((action==='edit') ? 'Resources Updated' : 'Resources Saved')
 ```
