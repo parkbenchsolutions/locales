@@ -202,14 +202,16 @@ You needn't do anything with this, but you need to add what the tags will be to 
 "Sso Admin Id Updated" and "Sso Admin Id Saved"
 
 ### Use existing string concatenation
-In the case of a variable being concatenated with a string literal, you can just wrap it as-is:
+In the case of a variable being concatenated with a string literal, you can just leave it as-is:
 ```text
-title={t(`${endpointEditMode} Localization Settings`)}
+title={`${endpointEditMode} Localization Settings`}
 ```
 In this case you would add these tags to the resource file:
 "Add Localization Settings"
 "Edit Localization Settings"
 since Add and Edit are the two possibilities for "endpointEditMode" param
+
+Note that if you wrap it with the ```t()``` you MUST add the "notranslate" attribute. But in this case it is not necessary.
 
 ### For input fields
 ```text
