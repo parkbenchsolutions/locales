@@ -180,6 +180,11 @@
   "Clone Enterprise": "Clone Enterprise-ODIN",
   "Clone Service Provider": "Clone Service Provider-ODIN",
   "Service Provider Name": "Service Provider Name-ODIN",
+  "number Selected": "({{numSelected Selected)-ODIN",
+  "Delete numlength Audits": "Delete {{numlength}} Audits-ODIN",
+  "Are you sure you want to delete these Audits?": "Are you sure you want to delete these Audits?-ODIN",
+  "Start Backup": "Start Backup-ODIN",
+  "Select Audit Types": "Select Audit Types-ODIN",
 
 
 

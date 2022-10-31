@@ -22,6 +22,7 @@
 	"Enterprise Created": "Enterprise Created-ODIN",
 	"Enterprise Cloned": "Enterprise Cloned-ODIN",
 	"Service Provider Created":"Service Provider Created-ODIN",
-	"Service Provider Cloned": "Service Provider Cloned-ODIN"
-
+	"Service Provider Cloned": "Service Provider Cloned-ODIN",
+	"You must select a Group and at least one template to run an audit": "You must select a Group and at least one template to run an audit-ODIN",
+	"Audit(s) deleted": "Audit(s) deleted-ODIN"
 }

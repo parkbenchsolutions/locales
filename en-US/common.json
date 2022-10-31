@@ -134,5 +134,7 @@
   "Enterprise Voice VPN": "Enterprise Voice VPN-ODIN",
   "Schedule": "Schedule-ODIN",
   "Password Rules": "Password Rules-ODIN",
-  "Dial Plan Policy": "Dial Plan Policy-ODIN"
+  "Dial Plan Policy": "Dial Plan Policy-ODIN",
+  "Delete": "Delete-ODIN",
+  "Select Group": "Select Group-ODIN"
 }
