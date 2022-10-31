@@ -67,7 +67,6 @@
   "CLID First Name": "CLID First Name-ODIN",
   "Service Name": "Service Name-ODIN",
   "Phone Number": "Phone Number-ODIN",
-  "Reseller ID": "Reseller ID-ODIN",
   "Enterprise ID": "Enterprise ID-ODIN",
   "Enterprise Name": "Enterprise Name-ODIN",
   "Default Domain": "Default Domain-ODIN",
@@ -79,5 +78,7 @@
   "Service Provider ID": "Service Provider ID-ODIN"
   "New Enterprise Name": "New Enterprise Name-ODIN",
   "New Enterprise ID": "New Enterprise ID-ODIN",
-  "Clone Enterprise": "Clone  Enterprise-ODIN"
+  "Clone Enterprise": "Clone  Enterprise-ODIN",
+  "Reseller ID": "Reseller ID-ODIN",
+  "Reseller Name": "Reseller Name-ODIN"
 }

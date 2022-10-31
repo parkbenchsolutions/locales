@@ -155,5 +155,8 @@
   "Client Launcher": "Client Launcher-ODIN",
   "Surgemail": "Surgemail-ODIN",
   "Routing": "Routing-ODIN",
-  "Clone Options": "Clone Options-ODIN"
+  "Clone Options": "Clone Options-ODIN",
+  "Odin": "Odin-ODIN",
+  "Delete Reseller": "Delete Reseller-ODIN",
+  "DN Report": "DN Report-ODIN"
 }
