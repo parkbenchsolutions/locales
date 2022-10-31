@@ -114,5 +114,17 @@
   "SIP Auth Password": "SIP Auth Password-ODIN",
   "SIP Authentication Password": "SIP Authentication Password-ODIN",
   "User Group Mail Server Password": "User Group Mail Server Password-ODIN",
-  "User Passcode": "User Passcode-ODIN"
+  "User Passcode": "User Passcode-ODIN",
+  "odin System": "odin System-ODIN",
+  "Current Service Provider Id": "Current Service Provider Id-ODIN",
+  "Repeat Passcode": "Repeat Passcode-ODIN",
+  "Map Users on Destination": "Map Users on Destination-ODIN",
+  "Map Service Instances on Destination": "Map Service Instances on Destination-ODIN",
+  "New Group Id": "New Group Id-ODIN",
+  "Destination Lookups": "Destination Lookups-ODIN",
+  "New Service Provider Id": "New Service Provider Id-ODIN",
+  "UserId Template": "UserId Template-ODIN",
+  "New Domain": "New Domain-ODIN",
+  "List URI Template": "List URI Template-ODIN",
+  "Fallback Template": "Fallback Template-ODIN"
 }
