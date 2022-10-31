@@ -136,5 +136,12 @@
   "Password Rules": "Password Rules-ODIN",
   "Dial Plan Policy": "Dial Plan Policy-ODIN",
   "Delete": "Delete-ODIN",
-  "Select Group": "Select Group-ODIN"
+  "Select Group": "Select Group-ODIN",
+  "Close": "Close-ODIN",
+  "Rerun Audit": "Rerun Audit-ODIN",
+  "Bulk Action num Audits": "Bulk Action on {{numaudits}} Audits-ODIN",
+  "Migrate": "Migrate-ODIN",
+  "Rerun Audits": "Rerun Audits-ODIN",
+  "Message": "Message-ODIN",
+  "Jobs": "Jobs-ODIN"
 }

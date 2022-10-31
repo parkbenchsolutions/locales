@@ -185,8 +185,22 @@
   "Are you sure you want to delete these Audits?": "Are you sure you want to delete these Audits?-ODIN",
   "Start Backup": "Start Backup-ODIN",
   "Select Audit Types": "Select Audit Types-ODIN",
-
-
+  "Service Provider": "Service Provider-ODIN",
+  "Errors": "Errors-ODIN",
+  "AIM Bulk Import Template": "AIM Bulk Import Template-ODIN",
+  "Audit id": "Audit {{id}}-ODIN",
+  "Migration Audit group id": "Migration Audit: {{group}} ({{id}})-ODIN",
+  "Device Name": "Device Name-ODIN",
+  "Backup Type": "Backup Type-ODIN",
+  "Completed": "Completed-ODIN",
+  "All": "All-ODIN",
+  "Running": "Running-ODIN",
+  "Pending": "Pending-ODIN",
+  "Warning": "Warning-ODIN",
+  "Failed": "Failed-ODIN",
+  "Close": "Close-ODIN",
+  "Rerun Audit": "Rerun Audit-ODIN",
+  "Migrate": "Migrate-ODIN",
 
 
 

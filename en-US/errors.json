@@ -24,5 +24,10 @@
 	"Service Provider Created":"Service Provider Created-ODIN",
 	"Service Provider Cloned": "Service Provider Cloned-ODIN",
 	"You must select a Group and at least one template to run an audit": "You must select a Group and at least one template to run an audit-ODIN",
-	"Audit(s) deleted": "Audit(s) deleted-ODIN"
+	"Audit(s) deleted": "Audit(s) deleted-ODIN",
+	"Migration sent successfully to endpoint": "Migration sent successfully to: {{endpoint}}-ODIN",
+	"Migration error message": "Migration error: {{message}}-ODIN",
+	"Rerunning audit job": "Rerunning audit job: {{id}} ({{type}})-ODIN",
+	"Audits are re-queued": "Audits are re-queued-ODIN",
+	"System cannot provide a SIP password": "System cannot provide a SIP password-ODIN"
 }
