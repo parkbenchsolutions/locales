@@ -55,6 +55,7 @@ REQUIREMENT: Each file in OdinWeb that has labels needs to have those labels tra
    * UiFormFieldTextarea
    * UiListItem
    * UiSelectableTable
+   * UiSection
    * UiInput
    * All menu items (via MenuServices component)
    * All Alerts (via Alert component/functions)

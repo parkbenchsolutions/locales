@@ -124,5 +124,6 @@
   "Default": "Default-ODIN",
   "Add Localization Settings": "Add Localization Settings-ODIN",
   "Enabled": "Enabled-ODIN",
-  "Reports": "Reports-ODIN"
+  "Reports": "Reports-ODIN",
+  "Use Custom Routing Profile": "Use Custom Routing Profile-ODIN"
 }
