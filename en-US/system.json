@@ -175,6 +175,11 @@
   "Delete Users": "Delete Users-ODIN",
   "Enable/Disable Users": "Enable/Disable Users-ODIN",
   "Add Domain": "Add Domain-ODIN",
+  "Create Enterprise": "Create Enterprise-ODIN",
+  "Create Service Provider": "Create Service Provider-ODIN",
+  "Clone Enterprise": "Clone Enterprise-ODIN",
+  "Clone Service Provider": "Clone Service Provider-ODIN",
+
 
 
 

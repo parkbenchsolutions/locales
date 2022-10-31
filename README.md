@@ -46,6 +46,7 @@ REQUIREMENT: Each file in OdinWeb that has labels needs to have those labels tra
    * UiCard
    * UiCardModal
    * UiInputCheckbox
+   * UiPanelLogo
    * UiFormField
    * UiInput (a translation-enabled wrapper of Input)
    * UISelectOption (a translation-enabled wrapper of Select.Option)

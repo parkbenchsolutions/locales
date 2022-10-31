@@ -18,6 +18,10 @@
 	"Template Updated": "Template Updated-ODIN",
 	"Template Saved": "Template Saved-ODIN",
 	"Sso Admin Id Updated": "Sso Admin Id Updated-ODIN",
-	"Sso Admin Id Saved": "Sso Admin Id Saved-ODIN"
+	"Sso Admin Id Saved": "Sso Admin Id Saved-ODIN",
+	"Enterprise Created": "Enterprise Created-ODIN",
+	"Enterprise Cloned": "Enterprise Cloned-ODIN",
+	"Service Provider Created":"Service Provider Created-ODIN",
+	"Service Provider Cloned": "Service Provider Cloned-ODIN"
 
 }
