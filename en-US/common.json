@@ -125,5 +125,14 @@
   "Add Localization Settings": "Add Localization Settings-ODIN",
   "Enabled": "Enabled-ODIN",
   "Reports": "Reports-ODIN",
-  "Use Custom Routing Profile": "Use Custom Routing Profile-ODIN"
+  "Use Custom Routing Profile": "Use Custom Routing Profile-ODIN",
+  "Feature Access Code": "Feature Access Code-ODIN",
+  "Services": "Services-ODIN",
+  "Service Packs": "Service Packs-ODIN",
+  "Network Class of Service": "Network Class of Service-ODIN",
+  "Call Processing Policy": "Call Processing Policy-ODIN",
+  "Enterprise Voice VPN": "Enterprise Voice VPN-ODIN",
+  "Schedule": "Schedule-ODIN",
+  "Password Rules": "Password Rules-ODIN",
+  "Dial Plan Policy": "Dial Plan Policy-ODIN"
 }
