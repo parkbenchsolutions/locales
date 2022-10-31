@@ -201,6 +201,9 @@
   "Close": "Close-ODIN",
   "Rerun Audit": "Rerun Audit-ODIN",
   "Migrate": "Migrate-ODIN",
+  "Are you sure you want to upload this audit": "Are you sure you want to upload this audit: {{id}} for {{group}}?-ODIN",
+  "Do you want to Delete or Rerun these Audits?": "Do you want to Delete or Rerun these Audits?-ODIN",
+  "Bulk Action num Audits": "Bulk Action on {{numaudits}} Audits-ODIN",
 
 
 

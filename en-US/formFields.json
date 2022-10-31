@@ -103,5 +103,16 @@
   "Selected": "Selected-ODIN",
   "Select All": "Select All-ODIN",
   "Nothing Selected": "Nothing Selected-ODIN",
-  "Available": "Available-ODIN"
+  "Available": "Available-ODIN",
+  "BroadWorks User ID": "BroadWorks User ID-ODIN",
+  "BroadWorks Password": "BroadWorks Password-ODIN",
+  "Please select": "Please select-ODIN",
+  "BroadWorks UserId": "BroadWorks UserId-ODIN",
+  "Current Group Id": "Current Group Id-ODIN",
+  "User Password": "User Password-ODIN",
+  "Repeat Password": "Repeat Password-ODIN",
+  "SIP Auth Password": "SIP Auth Password-ODIN",
+  "SIP Authentication Password": "SIP Authentication Password-ODIN",
+  "User Group Mail Server Password": "User Group Mail Server Password-ODIN",
+  "User Passcode": "User Passcode-ODIN"
 }
