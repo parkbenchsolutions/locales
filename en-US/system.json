@@ -213,9 +213,16 @@
   "Are you sure you want to delete these Imports": "Are you sure you want to delete these Imports-ODIN",
   "Import id": "Import Id: {{id}}-ODIN",
   "Do you want to Delete or Rerun these Imports?": "Do you want to Delete or Rerun these Imports?-ODIN",
+  "Import Options": "Import Options-ODIN",
+  "Are you sure you want to delete these Imports?": "Are you sure you want to delete these Imports?-ODIN",
+  "Start Import": "Start Import-ODIN",
+  "Delete numexports Exports": "Delete {{numexports}} Exports-ODIN",
+  "Are you sure you want to delete these Exports?": "Are you sure you want to delete these Exports?-ODIN",
+  "Audit Id": "Audit Id-ODIN",
+  "Migrate Options": "Migrate Options-ODIN",
+  "Start Migration": "Start Migration-ODIN",
 
-
-
+  
 "name": "",
   "description": "",
   "minimumCoreVersion": "",
