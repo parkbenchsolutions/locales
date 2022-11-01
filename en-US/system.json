@@ -221,7 +221,8 @@
   "Audit Id": "Audit Id-ODIN",
   "Migrate Options": "Migrate Options-ODIN",
   "Start Migration": "Start Migration-ODIN",
-
+  "Migration id": "Migration Id: {{id}}",
+  "Rerun Export": "Rerun Export-ODIN",
   
 "name": "",
   "description": "",
