@@ -150,5 +150,8 @@
  "Personal Mail Server Net Address": "Personal Mail Server Net Address-ODIN",
  "Group Mail Server Email Address": "Group Mail Server Email Address-ODIN",
  "Group Mail Server User Id": "Group Mail Server User Id-ODIN",
- "Group Mail Server Password": "Group Mail Server Password-ODIN"
+ "Group Mail Server Password": "Group Mail Server Password-ODIN",
+  "Is Active": "Is Active-ODIN",
+  "Enable Odin Post-provisioning Callbacks": "Enable Odin Post-provisioning Callbacks-ODIN",
+  "Are you sure you want to remove this callback?": "Are you sure you want to remove this callback?-ODIN"
 }

@@ -145,6 +145,7 @@
   "New Webhook Endpoint": "New Webhook Endpoint-ODIN",
   "Post-provisioning Settings": "Post-provisioning Settings-ODIN",
   "Odin Callbacks": "Odin Callbacks-ODIN",
-  "Odin Post-provisioning": "Odin Post-provisioning-ODIN"
+  "Odin Post-provisioning": "Odin Post-provisioning-ODIN",
+  "Select Callback Type": "Select Callback Type-ODIN"
 
 }

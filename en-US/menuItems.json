@@ -161,5 +161,6 @@
   "DN Report": "DN Report-ODIN",
   "Callback Settings": "Callback Settings-ODIN",
   "name Settings": "{{name}} Settings-ODIN",
-  "Run Callback on Event": "Run Callback on Event-ODIN"
+  "Run Callback on Event": "Run Callback on Event-ODIN",
+  "Integrated IMP Settings": "Integrated IMP Settings-ODIN"
 }
