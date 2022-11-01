@@ -29,5 +29,8 @@
 	"Migration error message": "Migration error: {{message}}-ODIN",
 	"Rerunning audit job": "Rerunning audit job: {{id}} ({{type}})-ODIN",
 	"Audits are re-queued": "Audits are re-queued-ODIN",
-	"System cannot provide a SIP password": "System cannot provide a SIP password-ODIN"
+	"System cannot provide a SIP password": "System cannot provide a SIP password-ODIN",
+	"Invalid Credentials": "Invalid Credentials-ODIN",
+	"Import(s) deleted": "Import(s) deleted-ODIN",
+	"Imports are re-queued": "Imports are re-queued-ODIN"
 }

@@ -205,7 +205,14 @@
   "Are you sure you want to upload this audit": "Are you sure you want to upload this audit: {{id}} for {{group}}?-ODIN",
   "Do you want to Delete or Rerun these Audits?": "Do you want to Delete or Rerun these Audits?-ODIN",
   "Bulk Action num Audits": "Bulk Action on {{numaudits}} Audits-ODIN",
-
+  "Bulk Action num Imports": "Bulk Action on {{numimports}} Imports-ODIN",
+  "Passwords": "Passwords-ODIN",
+  "Options": "Options-ODIN",
+  "Templates": "Templates-ODIN",
+  "Delete numimports Imports": "Delete {{numimports}} Imports-ODIN",
+  "Are you sure you want to delete these Imports": "Are you sure you want to delete these Imports-ODIN",
+  "Import id": "Import Id: {{id}}-ODIN",
+  "Do you want to Delete or Rerun these Imports?": "Do you want to Delete or Rerun these Imports?-ODIN",
 
 
 
