@@ -141,5 +141,10 @@
   "Migrate": "Migrate-ODIN",
   "Rerun Audits": "Rerun Audits-ODIN",
   "Message": "Message-ODIN",
-  "Jobs": "Jobs-ODIN"
+  "Jobs": "Jobs-ODIN",
+  "New Webhook Endpoint": "New Webhook Endpoint-ODIN",
+  "Post-provisioning Settings": "Post-provisioning Settings-ODIN",
+  "Odin Callbacks": "Odin Callbacks-ODIN",
+  "Odin Post-provisioning": "Odin Post-provisioning-ODIN"
+
 }

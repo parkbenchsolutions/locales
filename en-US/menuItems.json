@@ -158,5 +158,8 @@
   "Clone Options": "Clone Options-ODIN",
   "Odin": "Odin-ODIN",
   "Delete Reseller": "Delete Reseller-ODIN",
-  "DN Report": "DN Report-ODIN"
+  "DN Report": "DN Report-ODIN",
+  "Callback Settings": "Callback Settings-ODIN",
+  "name Settings": "{{name}} Settings-ODIN",
+  "Run Callback on Event": "Run Callback on Event-ODIN"
 }
