@@ -198,6 +198,7 @@
  "WebEx Package": "WebEx Package-ODIN",
  "Update Subscriber On Assignment": "Update Subscriber On Assignment-ODIN",
  "Create Subscriber On Assignment": "Create Subscriber On Assignment-ODIN",
- "Delete Subscriber On Un-assignment (otherwise sets to 'none')": "Delete Subscriber On Un-assignment (otherwise sets to 'none')-ODIN",
+ "Delete Subscriber On Un-assignment (otherwise sets to 'none')": "Delete Subscriber On Un-assignment (otherwise sets to 'none')-ODIN"
+
 
 }
