@@ -162,5 +162,8 @@
   "Callback Settings": "Callback Settings-ODIN",
   "name Settings": "{{name}} Settings-ODIN",
   "Run Callback on Event": "Run Callback on Event-ODIN",
-  "Integrated IMP Settings": "Integrated IMP Settings-ODIN"
+  "Integrated IMP Settings": "Integrated IMP Settings-ODIN",
+  "WebEx User Service Pack Settings": "WebEx User Service Pack Settings-ODIN",
+  "Privacy Settings": "Privacy Settings-ODIN",
+  "Music On Hold Settings": "Music On Hold Settings-ODIN"
 }

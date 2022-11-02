@@ -146,6 +146,18 @@
   "Post-provisioning Settings": "Post-provisioning Settings-ODIN",
   "Odin Callbacks": "Odin Callbacks-ODIN",
   "Odin Post-provisioning": "Odin Post-provisioning-ODIN",
-  "Select Callback Type": "Select Callback Type-ODIN"
-
+  "Select Callback Type": "Select Callback Type-ODIN",
+  "Surgemail Settings": "Surgemail Settings-ODIN",
+  "BroadWorks Client App Launcher Integration": "BroadWorks Client App Launcher Integration-ODIN",
+  "BroadWorks App Client Launcher Settings": "BroadWorks App Client Launcher Settings-ODIN",
+  "odin Webex": "odin Webex-ODIN",
+  "Clone Webex Setting": "Clone Webex Setting-ODIN",
+  "New Webex Endpoint": "New Webex Endpoint-ODIN",
+  "Hostnames": "Hostnames-ODIN",
+  "odin E911": "odin E911-ODIN",
+  "New E911 Endpoint": "New E911 Endpoint-ODIN",
+  "Odin Connectors": "Odin Connectors-ODIN",
+  "odin Migrations": "odin Migrations-ODIN",
+  "New Migration Endpoint": "New Migration Endpoint-ODIN",
+  "Edit endpoint Endpoint": "Edit endpoint Endpoint-ODIN"
 }

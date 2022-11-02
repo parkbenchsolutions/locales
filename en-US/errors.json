@@ -32,5 +32,6 @@
 	"System cannot provide a SIP password": "System cannot provide a SIP password-ODIN",
 	"Invalid Credentials": "Invalid Credentials-ODIN",
 	"Import(s) deleted": "Import(s) deleted-ODIN",
-	"Imports are re-queued": "Imports are re-queued-ODIN"
+	"Imports are re-queued": "Imports are re-queued-ODIN",
+	"Expired token": "Expired token-ODIN"
 }

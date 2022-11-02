@@ -240,6 +240,22 @@
   "Cluster Host": "Cluster Host-ODIN",
   "Active": "Active-ODIN",
   "Select Callback Type": "Select Callback Type-ODIN",
+  "Odin will connect to your XSP and fetch a pre-authenticated cookie. odin will append /new_session.jsp to the end of the URL you provide.": "'Odin will connect to your XSP and fetch a pre-authenticated cookie. odin will append /new_session.jsp to the end of the URL you provide.-ODIN",
+  "Odin will create App Client Launcher links. For the cookie to work, this URL needs to be a subdomain on the same domain as your odin instance.": "Odin will create App Client Launcher links. For the cookie to work, this URL needs to be a subdomain on the same domain as your odin instance.-ODIN",
+  "Add Surgemail Endpoint Settings": "Add Surgemail Endpoint Settings-ODIN",
+  "Edit Surgemail Endpoint Settings": "Edit Surgemail Endpoint Settings-ODIN",
+  "Are you sure you want to remove this surgemail endpoint?": "Are you sure you want to remove this surgemail endpoint?-ODIN",
+  "In order to enable the WebEx global token, you must first login to WebEx.": "In order to enable the WebEx global token, you must first login to WebEx.-ODIN",
+
+  "BroadWorks AS": "BroadWorks AS-ODIN",
+  "Surgemail Server": "Surgemail Server-ODIN",
+  "User Level": "User Level-ODIN",
+  "Service Pack Name": "Service Pack Name-ODIN",
+  "Odin Webhooks": "Odin Webhooks-ODIN",
+  "New Webhook Endpoint": "New Webhook Endpoint-ODIN",
+
+
+
 
 "name": "",
   "description": "",
