@@ -108,5 +108,18 @@
   "Bulk": "Bulk-ODIN",
   "Import": "Import-ODIN",
   "Download CSV": "Download CSV-ODIN",
-  "Submit Task": "Submit Task-ODIN"
+  "Submit Task": "Submit Task-ODIN",
+
+  "Set User Password Update": "Set User Password Update-ODIN",
+  "Assign numbers to users": "Assign numbers to users-ODIN",
+  "Set Call Forwarding Always": "Set Call Forwarding Always-ODIN",
+  "Set users Integrated IMP": "Set users Integrated IMP-ODIN",
+  "Set user SIP passwords": "Set user SIP passwords-ODIN",
+  "Group Device Delete (Bulkable)": "Group Device Delete (Bulkable)-ODIN",
+  "Set Call Forwarding Busy": "Set Call Forwarding Busy-ODIN",
+  "Set Call Forwarding No Answer": "Set Call Forwarding No Answer-ODIN",
+  "Manage User Password, Passcode, AuthenticationPassword, Rebuild and Reset Device ": "Manage User Password, Passcode, AuthenticationPassword, Rebuild and Reset Device -ODIN",
+  "Set Call Forwarding Not Reachable": "Set Call Forwarding Not Reachable-ODIN",
+  "Manage User Password, Passcode and Send an Email": "Manage User Password, Passcode and Send an Email-ODIN",
+  "Manage User Portal Passcode": "Manage User Portal Passcode-ODIN"
 }
