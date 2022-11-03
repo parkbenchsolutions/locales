@@ -260,6 +260,27 @@
   "Prov": "Prov-ODIN",
   "Ent": "Ent-ODIN",
 "Dept": "Dept-ODIN",
+  "Limited": "Limited-ODIN",
+  "Service Provider ID": "Service Provider ID-ODIN",
+  "Usage": "Usage-ODIN",
+  "Group Name": "Group Name-ODIN",
+  "User Limit": "User Limit-ODIN",
+  "Users": "Users-ODIN",
+  "AA": "AA-ODIN",
+  "Domain": "Domain-ODIN",
+  "CC-Basic": "CC-Basic-ODIN",
+  "AA Standard": "AA Standard-ODIN",
+  "Service Type": "Service Type-ODIN",
+  "CC-Premium": "CC-Premium-ODIN",
+  "CC-Standard": "CC-Standard-ODIN",
+  "Services Instance Report": "Services Instance Report-ODIN",
+  "Are you sure you want to remove this Network Class of Service?": "Are you sure you want to remove this Network Class of Service?-ODIN",
+  "Profile index": "Profile {{index}}",
+  "Required": "Required-ODIN",
+  "Optional": "Optional-ODIN",
+  "Details": "Details-ODIN",
+
+
 
 
 "name": "",

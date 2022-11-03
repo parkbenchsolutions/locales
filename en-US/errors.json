@@ -36,5 +36,12 @@
 	"Expired token": "Expired token-ODIN",
 	"Admin Created": "Admin Created-ODIN",
 	"Admin Updated": "Admin Updated-ODIN",
-	"Admin Deleted": "Admin Deleted-ODIN"
+	"Admin Deleted": "Admin Deleted-ODIN",
+	"Terminate After Grace Period Minimum and Maximum Hours": "Terminate After Grace Period Minimum {{minimum}} and Maximum {{maximum}} Hours-ODIN",
+	"Active Talker Refresh Interval Minimum and Maximum Seconds": "Active Talker Refresh Interval Minimum {{minimum}} and Maximum {{maximum}} Seconds-ODIN",
+	"Max Room Participants Minimum and Maximum Value": "Max Room Participants Minimum {{minimum}} and Maximum {{maximum}} Value-ODIN",
+	"Room Maximum Duration Minimum and Maximum Minutes": "Room Maximum Duration Minimum {{minimum}} and Maximum {{maximum}} Minutes-ODIN",
+	"Instant Room Idle Timeout Minimum and Maximum Seconds": "Instant Room Idle Timeout Minimum {{minimum}} and Maximum {{maximum}} Seconds-ODIN",
+	"Number Used For Room Length Minimum and Maximum Value": "Number Used For Room Length Minimum {{minimum}} and Maximum {{maximum}} Value"
+
 }
