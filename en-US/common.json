@@ -158,8 +158,10 @@
   "odin E911": "odin E911-ODIN",
   "New E911 Endpoint": "New E911 Endpoint-ODIN",
   "Odin Connectors": "Odin Connectors-ODIN",
-  "odin Migrations": "odin Migrations-ODIN",
+  "odin Migrations": "Odin Migrations-ODIN",
   "New Migration Endpoint": "New Migration Endpoint-ODIN",
   "Edit endpoint Endpoint": "Edit endpoint Endpoint-ODIN",
-  "Recent Tasks": "Recent Tasks-ODIN"
+  "Recent Tasks": "Recent Tasks-ODIN",
+  "Service Instance Report": "Service Instance Report-ODIN",
+  "Select Service Provider": "Select Service Provider-ODIN"
 }
