@@ -137,7 +137,7 @@
   "Send User Token": "Send User Token-ODIN",
   "Send All Events": "Send All Events-ODIN",
   "Specific Events": "Specific Events-ODIN",
-  "Are you sure you want to remove this endpoint?": "Are you sure you want to remove this endpoint?-ODIN",
+  "Are you sure you want to remove this endpoint?": "Hindi-version-of-Are you sure you want to remove this endpoint?-ODIN",
   "Enable Odin Callbacks": "Enable Odin Callbacks-ODIN",
  "Run on Cluster": "Run on Cluster-ODIN",
  "Callback Enabled": "Callback Enabled-ODIN",
@@ -156,6 +156,9 @@
   "Are you sure you want to remove this callback?": "Are you sure you want to remove this callback?-ODIN",
  "BroadWorks XSP Launcher URL": "BroadWorks XSP Launcher URL-ODIN",
  "BroadWorks XSP Launcher Target URL": "BroadWorks XSP Launcher Target URL-ODIN",
+
+
+
  "Surgemail Password (Encrypted)": "Surgemail Password (Encrypted)-ODIN",
  "Surgemail Username": "Surgemail Username-ODIN",
  "Surgemail Server URL": "Surgemail Server URL-ODIN",
@@ -196,6 +199,7 @@
  "Update Subscriber On Assignment": "Update Subscriber On Assignment-ODIN",
  "Create Subscriber On Assignment": "Create Subscriber On Assignment-ODIN",
  "Delete Subscriber On Un-assignment (otherwise sets to 'none')": "Delete Subscriber On Un-assignment (otherwise sets to 'none')-ODIN",
+
  "Outgoing Connection": "Outgoing Connection-ODIN",
  "Auto Answer": "Auto Answer-ODIN",
  "Access List": "Access List-ODIN",
@@ -251,17 +255,5 @@
  "Auto Delete Groups and unassign Service Packs On BroadWorks Service Provider Delete": "Auto Delete Groups and unassign Service Packs On BroadWorks Service Provider Delete-ODIN",
  "Delete WebEx Organization On BroadWorks Service Provider Delete": "Delete WebEx Organization On BroadWorks Service Provider Delete-ODIN",
  "Org Ids to Never Delete": "Org Ids to Never Delete-ODIN",
- "Enable Delete WebEx Organization via API": "Enable Delete WebEx Organization via API-ODIN",
-  "Services": "Services-ODIN",
-  "No Enterprise Selected": "No Enterprise Selected-ODIN",
-  "Feature Access Code": "Feature Access Code-ODIN",
-  "Service Packs": "Service Packs-ODIN",
-  "Network Class of Service": "Network Class of Service-ODIN",
-  "Enterprise Voice VPN": "Enterprise Voice VPN-ODIN",
-  "Call Processing Policy": "Call Processing Policy-ODIN",
-  "Domains": "Domains-ODIN",
-  "Schedule": "Schedule-ODIN",
-  "Dial Plan Policy": "Dial Plan Policy-ODIN",
-  "Password Rules": "Password Rules-ODIN",
-  "Use Custom Routing Profile": "Use Custom Routing Profile-ODIN"
+ "Enable Delete WebEx Organization via API": "Enable Delete WebEx Organization via API-ODIN"
 }
