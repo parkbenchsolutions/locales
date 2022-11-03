@@ -33,5 +33,8 @@
 	"Invalid Credentials": "Invalid Credentials-ODIN",
 	"Import(s) deleted": "Import(s) deleted-ODIN",
 	"Imports are re-queued": "Imports are re-queued-ODIN",
-	"Expired token": "Expired token-ODIN"
+	"Expired token": "Expired token-ODIN",
+	"Admin Created": "Admin Created-ODIN",
+	"Admin Updated": "Admin Updated-ODIN",
+	"Admin Deleted": "Admin Deleted-ODIN"
 }

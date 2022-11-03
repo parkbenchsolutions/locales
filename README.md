@@ -250,3 +250,18 @@ needs to become:
 <p>{t('Are you sure you want to remove this Primary Sso Admin?')}</p>
 ```
 
+## Techniques
+Various examples of things you can do.
+
+### Example 1
+Here we have a ternary in a title with a regular key and one that needs interpolated.
+```text
+title={form.isCreate ? 'New Admin' : `Edit ${form.userId}`}
+```
+```text
+title={form.isCreate ? t('New Admin') : t('Edit {admin}', {admin: form.userId})}
+```
+instead of wrapping the whole title, we can conditionally translate
+
+### Example 2
+
