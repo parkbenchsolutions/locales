@@ -42,6 +42,9 @@
 	"Max Room Participants Minimum and Maximum Value": "Max Room Participants Minimum {{minimum}} and Maximum {{maximum}} Value-ODIN",
 	"Room Maximum Duration Minimum and Maximum Minutes": "Room Maximum Duration Minimum {{minimum}} and Maximum {{maximum}} Minutes-ODIN",
 	"Instant Room Idle Timeout Minimum and Maximum Seconds": "Instant Room Idle Timeout Minimum {{minimum}} and Maximum {{maximum}} Seconds-ODIN",
-	"Number Used For Room Length Minimum and Maximum Value": "Number Used For Room Length Minimum {{minimum}} and Maximum {{maximum}} Value"
+	"Number Used For Room Length Minimum and Maximum Value": "Number Used For Room Length Minimum {{minimum}} and Maximum {{maximum}} Value-ODIN",
+	"Extension is not valid, extension minimum length is min": "Extension is not valid, extension minimum length is {{min}}-ODIN",
+	"Extension can not be more than {{min}} characters long!": "Extension can not be more than min characters long!-ODIN",
+	"Search string must be at least 3 characters": "Search string must be at least 3 characters-ODIN"
 
 }
