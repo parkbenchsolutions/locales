@@ -264,5 +264,8 @@
   "Dial Plan Policy": "Dial Plan Policy-ODIN",
   "Password Rules": "Password Rules-ODIN",
   "Use Custom Routing Profile": "Use Custom Routing Profile-ODIN",
-  "Select phone number length": "Select phone number {{length}}-ODIN"
+  "Select phone number length": "Select phone number {{length}}-ODIN",
+  "Current Password": "Current Password-ODIN",
+  "New Password": "New Password-ODIN",
+  "Any Service Provider": "Any Service Provider-ODIN"
 }
