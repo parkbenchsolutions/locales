@@ -246,7 +246,6 @@
   "Edit Surgemail Endpoint Settings": "Edit Surgemail Endpoint Settings-ODIN",
   "Are you sure you want to remove this surgemail endpoint?": "Are you sure you want to remove this surgemail endpoint?-ODIN",
   "In order to enable the WebEx global token, you must first login to WebEx.": "In order to enable the WebEx global token, you must first login to WebEx.-ODIN",
-
   "BroadWorks AS": "BroadWorks AS-ODIN",
   "Surgemail Server": "Surgemail Server-ODIN",
   "User Level": "User Level-ODIN",
@@ -259,7 +258,7 @@
   "Select All": "Select All-ODIN",
   "Prov": "Prov-ODIN",
   "Ent": "Ent-ODIN",
-"Dept": "Dept-ODIN",
+  "Dept": "Dept-ODIN",
   "Limited": "Limited-ODIN",
   "Service Provider ID": "Service Provider ID-ODIN",
   "Usage": "Usage-ODIN",
@@ -279,14 +278,10 @@
   "Required": "Required-ODIN",
   "Optional": "Optional-ODIN",
   "Details": "Details-ODIN",
-
-
-
-
-"name": "",
+  "name": "",
   "description": "",
   "minimumCoreVersion": "",
   "title": "",
-  "version":"",
+  "version": "",
   "author": ""
 }

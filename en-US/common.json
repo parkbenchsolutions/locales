@@ -185,5 +185,10 @@
   "Service Type": "Service Type-ODIN",
   "Alternate User ID": "Alternate User ID-ODIN",
   "Alternate User Id": "Alternate User Id-ODIN",
-  "Service Provider ID": "Service Provider ID-ODIN"
+  "Service Provider ID": "Service Provider ID-ODIN",
+  "Go to Login Page": "Go to Login Page-ODIN",
+  "Logout": "Logout-ODIN",
+  "Login": "Login-ODIN",
+  "Forgot Password?": "Forgot Password?-ODIN",
+  "Reset Password": "Reset Password-ODIN"
 }
