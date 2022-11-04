@@ -263,5 +263,6 @@
   "Schedule": "Schedule-ODIN",
   "Dial Plan Policy": "Dial Plan Policy-ODIN",
   "Password Rules": "Password Rules-ODIN",
-  "Use Custom Routing Profile": "Use Custom Routing Profile-ODIN"
+  "Use Custom Routing Profile": "Use Custom Routing Profile-ODIN",
+  "Select phone number length": "Select phone number {{length}}-ODIN"
 }
