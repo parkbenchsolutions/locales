@@ -268,5 +268,12 @@
   "Current Password": "Current Password-ODIN",
   "New Password": "New Password-ODIN",
   "Any Service Provider": "Any Service Provider-ODIN",
-  "Username": "Username-ODIN"
+  "Username": "Username-ODIN",
+  "Ordering Algorithm *": "Ordering Algorithm *-ODIN",
+  "Max Reroutes in Priority *": "Max Reroutes in Priority *-ODIN",
+  "Routing Type": "Routing Type-ODIN",
+  "Forward To *": "Forward To *-ODIN",
+  "Exhaustion Action": "Exhaustion Action-ODIN",
+  "Max Reroute Attempts *": "Max Reroute Attempts *-ODIN",
+  "Trunk Name *": "Trunk Name *-ODIN"
 }
