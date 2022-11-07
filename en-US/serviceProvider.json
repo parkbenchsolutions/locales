@@ -1,3 +1,4 @@
 {
-  "Add New module": "Add New {{module}}"
+  "Add New module": "Add New {{module}}",
+  "Warning: You are about to forward excess calls for this trunk to another phone number whenever this trunk has reached capacity. Please ensure the phone number is valid and can be dialled successfully from this trunk. Forwarding calls to a number that is not reachable from the trunk will result in callers being presented a disconnection message. Please note additional call charges may apply for forwarded calls. ": "Warning: You are about to forward excess calls for this trunk to another phone number whenever this trunk has reached capacity. Please ensure the phone number is valid and can be dialled successfully from this trunk. Forwarding calls to a number that is not reachable from the trunk will result in callers being presented a disconnection message. Please note additional call charges may apply for forwarded calls. -ODIN"
 }
