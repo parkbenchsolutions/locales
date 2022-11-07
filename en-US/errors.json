@@ -55,5 +55,6 @@
   "We are sorry, but the page you requested was not found.": "We are sorry, but the page you requested was not found.-ODIN",
   "Error": "Error-ODIN",
   "There has been a error.": "There has been a error.-ODIN",
-  "Your session is about to expire": "Your session is about to expire-ODIN"
+  "Your session is about to expire": "Your session is about to expire-ODIN",
+  "operation command sent to device": "{{operation}} command sent to device-ODIN"
 }

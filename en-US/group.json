@@ -1,3 +1,11 @@
 {
-
+  "Are you sure you want to Remove this groupId": "Are you sure you want to Remove this {{groupId}}?-ODIN",
+  "Are you sure you want to operation this device?": "Are you sure you want to {{operation}} this device?-ODIN",
+  "Edit module":"Edit: {{moduleName}}-ODIN",
+  "Edit Series Completion Group Name": "Edit Series Completion Group Name: {{groupName}}-ODIN",
+  "Series Completion Group Name": "Series Completion Group Name: {{groupName}}-ODIN",
+  "Are you sure you want to Remove this Series Completion Group?": "Are you sure you want to Remove this Series Completion Group: {{groupName}}?--ODIN",
+  "Edit num Services": "Edit {{num}} Services-ODIN",
+  "Edit title": "Edit: {{title}}-ODIN",
+  "Max maxcalls": "(Max: {{maxcalls}})-ODIN"
 }
