@@ -191,5 +191,14 @@
   "User Update Settings": "User Update Settings-ODIN",
   "Voice Portal Calling Settings": "Voice Portal Calling Settings-ODIN",
   "WebEx Organization Delete Settings": "WebEx Organization Delete Settings-ODIN",
-  "WebEx Organization Delete API Settings": "WebEx Organization Delete API Settings-ODIN"
+  "WebEx Organization Delete API Settings": "WebEx Organization Delete API Settings-ODIN",
+  "Common Phone List": "Common Phone List-ODIN",
+  "General Settings": "General Settings-ODIN",
+  "Group Calling Plans Authorization Codes": "Group Calling Plans Authorization Codes-ODIN",
+  "Group Calling Plans Outgoing Digit Plan": "Group Calling Plans Outgoing Digit Plan-ODIN",
+  "Permissions": "Permissions-ODIN",
+  "Group Calling Plans Outgoing Pinhole Digit Plan": "Group Calling Plans Outgoing Pinhole Digit Plan-ODIN",
+  "Group Calling Plans Transfer Numbers": "Group Calling Plans Transfer Numbers-ODIN",
+  "Incoming Calling Plan": "Incoming Calling Plan-ODIN",
+  "Digit Patterns": "Digit Patterns-ODIN"
 }
