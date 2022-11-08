@@ -72,6 +72,19 @@
   "deviceName Files": "{{deviceName}} Files-ODIN",
   "Default": "Default-ODIN",
   "Manual": "Manual-ODIN",
-  "Custom": "Custom-ODIN"
+  "Custom": "Custom-ODIN",
+  "deviceType Files": "{{deviceType}} Files-ODIN",
+  "deviceType Tags": "{{deviceType}} Tags-ODIN",
+  "Are you sure you want to remove this tag?": "Are you sure you want to remove this tag?-ODIN",
+  "Device deviceMA": "Device {{deviceMA}}-ODIN",
+  "Edit Originating userId": "Edit Originating {{userId}}-ODIN",
+  "Edit num Users": "Edit {{num}} Users-ODIN",
+  "Edit Redirecting userId": "Edit Redirecting {{userId}}-ODIN",
+  "Edit Redirecting num Users": "Edit Redirecting {{num}} Users-ODIN",
+  "Edit Call Me Now num Users": "Edit Call Me Now {{num}} Users-ODIN",
+  "Number Used For Outgoing Call Digits minimum and Maximum Value maximum": "Number Used For Outgoing Call Digits {{minimum}} and Maximum Value {{maximum}}-ODIN",
+  "Repeat Warning Tone Timer Seconds Minimum Value minimum and Maximum Value maximum": "Repeat Warning Tone Timer Seconds Minimum Value {{minimum}} and Maximum Value {{maximum}}-ODIN",
+  "Are you sure you want to remove name Viewable Pack?": "Are you sure you want to remove {{name}} Viewable Pack?-ODIN"
+
 
 }
