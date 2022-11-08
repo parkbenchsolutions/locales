@@ -224,6 +224,7 @@
   "Add Digit Pattern": "Add Digit Pattern-ODIN",
   "Group Calling Plans Outgoing Digit Plan": "Group Calling Plans Outgoing Digit Plan-ODIN",
   "Originating": "Originating-ODIN",
-  "Redirecting": "Redirecting-ODIN"
-
+  "Redirecting": "Redirecting-ODIN",
+  "Send notification email to": "Send notification email to-ODIN",
+  "Emergency Call Notification": "Emergency Call Notification-ODIN"
 }
