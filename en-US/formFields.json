@@ -289,5 +289,8 @@
   "Transfer Number 2": "Transfer Number 2-ODIN",
   "Casual": "Casual-ODIN",
   "Allow Calls From Within Group": "Allow Calls From Within Group-ODIN",
-  "Allow Collect Calls": "Allow Collect Calls-ODIN"
+  "Allow Collect Calls": "Allow Collect Calls-ODIN",
+  "Enable Agent Unavailable Codes": "Enable Agent Unavailable Codes-ODIN",
+  "Force use of agent unavailable codes" : "Force use of agent unavailable codes-ODIN",
+  "Default code" : "Default code-ODIN"
 }

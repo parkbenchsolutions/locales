@@ -68,5 +68,8 @@
   "Enforce Association Limit Hours value must be between minimum and maximum": "Enforce Association Limit Hours value must be between {{minimum}} and {{maximum}}-ODIN",
   "name status Successfully": "{{name}} {{status}} Successfully-ODIN",
   "Allocated Ports can not be more than allocatedPorts long!": "Allocated Ports can not be more than {{allocatedPorts}} long!-ODIN"
-
+  "A default unavailable code is required when the use of codes is forced": "A default unavailable code is required when the use of codes is forced.-ODIN",
+  "Please enter code": "Please enter code-ODIN",
+  "Code Deleted successfully": "Code Deleted successfully-ODIN",
+  "Updated Settings" : "Updated Settings-ODIN"
 }
