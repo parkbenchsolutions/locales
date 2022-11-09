@@ -57,5 +57,10 @@
   "There has been a error.": "There has been a error.-ODIN",
   "Your session is about to expire": "Your session is about to expire-ODIN",
   "operation command sent to device": "{{operation}} command sent to device-ODIN",
-  "The announcement file fileName is in incorrect format": "The announcement file {{fileName}} is in incorrect format-ODIN"
+  "The announcement file fileName is in incorrect format": "The announcement file {{fileName}} is in incorrect format-ODIN",
+  "Public Identity: Domain is required": "Public Identity: Domain is required-ODIN",
+  "The time elapsed Seconds Play Updated Estimated Wait Message: Value must be >= 10 and <= 600": "The time {{elapsed}} Seconds Play Updated Estimated Wait Message: Value must be >= 10 and <= 600-ODIN",
+  "Play Message for a caller at minutes Minutes or Lower : Value must be >= 1 and <= 100": "Play Message for a caller at {{minutes}} Minutes or Lower : Value must be >= 1 and <= 100-ODIN",
+  "Default minutes Minutes Handling Time : Value must be >= 1 and <= 100": "Default {{minutes}} Minutes Handling Time : Value must be >= 1 and <= 100-ODIN",
+  "Play Message for a caller in queue position maxPosition : Value must be >= 1 and <= 100": "Play Message for a caller in queue position {{maxPosition}} : Value must be >= 1 and <= 100-ODIN"
 }
