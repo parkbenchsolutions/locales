@@ -114,7 +114,6 @@
   "Is seconds seconds or less": "Is {{seconds}} seconds or less-ODIN",
   "When numAgents agents have unavailable code code": "When {{numAgents}} agents have unavailable code {{code}}-ODIN",
   "When threshold calls in queue": "When {{threshold}} calls in queue-ODIN",
-  "When waiting threshold seconds": "When waiting {{threshold}} seconds-ODIN"
-
-
+  "When waiting threshold seconds": "When waiting {{threshold}} seconds-ODIN",
+  "User Id": "User Id-ODIN"
 }
