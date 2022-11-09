@@ -62,5 +62,11 @@
   "The time elapsed Seconds Play Updated Estimated Wait Message: Value must be >= 10 and <= 600": "The time {{elapsed}} Seconds Play Updated Estimated Wait Message: Value must be >= 10 and <= 600-ODIN",
   "Play Message for a caller at minutes Minutes or Lower : Value must be >= 1 and <= 100": "Play Message for a caller at {{minutes}} Minutes or Lower : Value must be >= 1 and <= 100-ODIN",
   "Default minutes Minutes Handling Time : Value must be >= 1 and <= 100": "Default {{minutes}} Minutes Handling Time : Value must be >= 1 and <= 100-ODIN",
-  "Play Message for a caller in queue position maxPosition : Value must be >= 1 and <= 100": "Play Message for a caller in queue position {{maxPosition}} : Value must be >= 1 and <= 100-ODIN"
+  "Play Message for a caller in queue position maxPosition : Value must be >= 1 and <= 100": "Play Message for a caller in queue position {{maxPosition}} : Value must be >= 1 and <= 100-ODIN",
+  "status Successfully": "{{status}} Successfully-ODIN",
+  "Emergency Zones status successfully": "Emergency Zones {{status}} successfully-ODIN",
+  "Enforce Association Limit Hours value must be between minimum and maximum": "Enforce Association Limit Hours value must be between {{minimum}} and {{maximum}}-ODIN",
+  "name status Successfully": "{{name}} {{status}} Successfully-ODIN",
+  "Allocated Ports can not be more than allocatedPorts long!": "Allocated Ports can not be more than {{allocatedPorts}} long!-ODIN"
+
 }
