@@ -1,7 +1,7 @@
 {
   "Are you sure you want to Remove this groupId": "Are you sure you want to Remove this {{groupId}}?-ODIN",
   "Are you sure you want to operation this device?": "Are you sure you want to {{operation}} this device?-ODIN",
-  "Edit module":"Edit: {{moduleName}}-ODIN",
+  "Edit module": "Edit: {{moduleName}}-ODIN",
   "Edit Series Completion Group Name": "Edit Series Completion Group Name: {{groupName}}-ODIN",
   "Series Completion Group Name": "Series Completion Group Name: {{groupName}}-ODIN",
   "Are you sure you want to Remove this Series Completion Group?": "Are you sure you want to Remove this Series Completion Group: {{groupName}}?--ODIN",
@@ -115,5 +115,11 @@
   "When numAgents agents have unavailable code code": "When {{numAgents}} agents have unavailable code {{code}}-ODIN",
   "When threshold calls in queue": "When {{threshold}} calls in queue-ODIN",
   "When waiting threshold seconds": "When waiting {{threshold}} seconds-ODIN",
-  "User Id": "User Id-ODIN"
+  "User Id": "User Id-ODIN",
+  "Code": "Code-ODIN",
+  "Active": "Active-ODIN",
+  "Are you sure you want to delete this code?": "Are you sure you want to delete this code {{code}} ?-ODIN",
+  "Agent Unavailable Codes": "Agent Unavailable Codes-ODIN",
+  "Edit Code" : "Edit Code-ODIN",
+  "Add Code" : "Add Code-ODIN"
 }
