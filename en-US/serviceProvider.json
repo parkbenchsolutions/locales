@@ -10,8 +10,8 @@
   "Agent Unavailable Codes": "Agent Unavailable Codes-ODIN",
   "Edit Code": "Edit Code-ODIN",
   "Add Code": "Add Code-ODIN",
-  "name Activated Successfully": "{{name}} Activated Successfully-ODIN",
-  "name Deactivated Successfully": "{{name}} Deactivated Successfully-ODIN",
-  "Code Updated successfully": "{{code}} Code Updated successfully-ODIN",
-  "Code Added successfully": "{{code}} Code Added successfully-ODIN"
+  "name Activated Successfully": "{{name}} Activated Successfully.-ODIN",
+  "name Deactivated Successfully": "{{name}} Deactivated Successfully.-ODIN",
+  "Code Updated successfully": "{{code}} Code Updated successfully.-ODIN",
+  "Code Added successfully": "{{code}} Code Added successfully.-ODIN"
 }
