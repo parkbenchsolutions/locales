@@ -122,5 +122,15 @@
   "Edit serviceUserIds": "Edit: {{serviceUserIds}}-ODIN",
   "Originator CLID": "Originator CLID-ODIN",
   "Paging Group CLID": "Paging Group CLID-ODIN",
-  "User Id": "User Id-ODIN"
+  "User Id": "User Id-ODIN",
+  "Are you sure you want to make userId the Pilot User?": "Are you sure you want to make {{userId}} the Pilot User?-ODIN",
+  "Are you sure you want to remove the Pilot User?": "Are you sure you want to remove the Pilot User?-ODIN",
+  "Max Active Calls: maxActiveCalls / maxAvailableActiveCalls": "Max Active Calls: {{maxActiveCalls}} / {{maxAvailableActiveCalls}}-ODIN",
+  "Max Bursting Calls: burstingMaxActiveCalls / burstingMaxAvailableActiveCalls": "Max Bursting Calls: {{burstingMaxActiveCalls}} / {{burstingMaxAvailableActiveCalls}}-ODIN",
+  "Max: max": "(Max: {{max}})-ODIN",
+  "Are you sure you want to delete this Virtual On net Enterprise Extensions lastName": "Are you sure you want to delete this Virtual On net Enterprise Extensions {{lastName}}-ODIN",
+  "Edit Series Completion Group Name: name": "Edit Series Completion Group Name: {{name}}-ODIN",
+  "Add Series Completion Group Name": "Add Series Completion Group Name-ODIN",
+  "Series Completion Group Name: name": "Series Completion Group Name: {{name}}-ODIN",
+  "Are you sure you want to Remove this Series Completion Group: name": "Are you sure you want to Remove this Series Completion Group: {{name}}?-ODIN"
 }
