@@ -2,6 +2,7 @@
   "Add New module": "Add New {{module}}-ODIN",
   "Warning: You are about to forward excess calls for this trunk to another phone number whenever this trunk has reached capacity. Please ensure the phone number is valid and can be dialled successfully from this trunk. Forwarding calls to a number that is not reachable from the trunk will result in callers being presented a disconnection message. Please note additional call charges may apply for forwarded calls.": "Warning: You are about to forward excess calls for this trunk to another phone number whenever this trunk has reached capacity. Please ensure the phone number is valid and can be dialled successfully from this trunk. Forwarding calls to a number that is not reachable from the trunk will result in callers being presented a disconnection message. Please note additional call charges may apply for forwarded calls.-ODIN",
   "Group Name": "Group Name-ODIN",
+  "Name": "Name-ODIN",
   "Code": "Code-ODIN",
   "Description" : "Description-ODIN",
   "Active": "Active-ODIN",
@@ -10,5 +11,7 @@
   "Edit Code": "Edit Code-ODIN",
   "Add Code": "Add Code-ODIN",
   "name Activated Successfully": "{{name}} Activated Successfully-ODIN",
-  "name Deactivated Successfully": "{{name}} Deactivated Successfully-ODIN"
+  "name Deactivated Successfully": "{{name}} Deactivated Successfully-ODIN",
+  "Code Updated successfully": "{{code}} Code Updated successfully-ODIN",
+  "Code Added successfully": "{{code}} Code Added successfully-ODIN"
 }
