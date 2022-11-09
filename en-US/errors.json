@@ -65,7 +65,6 @@
   "Play Message for a caller in queue position maxPosition : Value must be >= 1 and <= 100": "Play Message for a caller in queue position {{maxPosition}} : Value must be >= 1 and <= 100-ODIN",
   "A default unavailable code is required when the use of codes is forced": "A default unavailable code is required when the use of codes is forced-ODIN",
   "Please enter code": "Please enter code-ODIN",
-  "Code Updated successfully": "{{code}} Code Updated successfully-ODIN",
-  "Code Added successfully": "{{code}} Code Added successfully-ODIN",
-  "Code Deleted successfully": "Code Deleted successfully-ODIN"
+  "Code Deleted successfully": "Code Deleted successfully-ODIN",
+  "Updated Settings" : "Updated Settings-ODIN"
 }
