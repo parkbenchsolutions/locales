@@ -42,12 +42,13 @@ sub getTags {
          #    }
          # }
 
-         if(/title=("|')(.*)("|')/) {
-            if(!exists($fields{$2})) {
-               $fields{$2} = $2;
-               print "\"$2\": \"$2\-ODIN\",\n";
-            }
-         }
+         #common
+         # if(/title=("|')(.*)("|')/) {
+         #    if(!exists($fields{$2})) {
+         #       $fields{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
 
       }
       close(FH);
