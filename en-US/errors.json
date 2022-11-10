@@ -66,5 +66,10 @@
   "A default unavailable code is required when the use of codes is forced": "A default unavailable code is required when the use of codes is forced.-ODIN",
   "Please enter code": "Please enter code-ODIN",
   "Code Deleted successfully": "Code Deleted successfully-ODIN",
-  "Updated Settings" : "Updated Settings-ODIN"
+  "Updated Settings": "Updated Settings-ODIN",
+  "Settings Updated": "Settings Updated-ODIN",
+  "Please enter a valid code: must be 1-10 characters long": "Please enter a valid code: must be 1-10 characters long-ODIN",
+  "Setting Updated": "Setting Updated-ODIN",
+  "The branding template file name suffix must be .xsl format": "The branding template file name suffix must be .xsl format-ODIN",
+  "Report Branding Updated": "Report Branding Updated-ODIN"
 }

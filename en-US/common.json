@@ -231,5 +231,18 @@
   "Default Code On Do Not Disturb Activation": "Default Code On Do Not Disturb Activation-ODIN",
   "Default Code On Personal Calls": "Default Code On Personal Calls-ODIN",
   "Default Code On Consecutive Bounces": "Default Code On Consecutive Bounces-ODIN",
-  "Default Code On Not Reachable": "Default Code On Not Reachable-ODIN"
+  "Default Code On Not Reachable": "Default Code On Not Reachable-ODIN",
+  "Edit Settings": "Edit Settings-ODIN",
+  "Edit Call Disposition Code": "Edit Call Disposition Code-ODIN",
+  "Add Call Disposition Code": "Add Call Disposition Code-ODIN",
+  "Call Center External Reporting Settings": "Call Center External Reporting Settings-ODIN",
+  "Report Branding": "Report Branding-ODIN",
+  "Branding Choice": "Branding Choice-ODIN",
+  "Branding File Description": "Branding File Description-ODIN",
+  "Edit Report Branding": "Edit Report Branding-ODIN",
+  "Routing Priority Settings": "Routing Priority Settings-ODIN",
+  "Settings": "Settings-ODIN",
+  "Routing Policy": "Routing Policy-ODIN",
+  "Policies": "Policies-ODIN",
+  "Edit Policies": "Edit Policies-ODIN"
 }
