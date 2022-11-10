@@ -6,8 +6,11 @@ use strict;
 my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/*';
 
 # opendir(DIR, $dirname) or die $!;
-my %tags = ();
+my %errors = ();
 my %fields = ();
+my %group = ();
+my %common = ();
+
 
 sub getTags {
    my ($dirname) = @_;
@@ -18,15 +21,15 @@ sub getTags {
       open(FH, '<', $filename) or die $!;
 
       while(<FH>){
-         #errors
+         # alerts
          # if(/alert(Success|Danger|Warning|Info|Primary)\(('|\")(.*)('|")\)/) {
-         #    if(!exists($tags{$3})) {
-         #       $tags{$3} = $3;
+         #    if(!exists($errors{$3})) {
+         #       $errors{$3} = $3;
          #       print "\"$3\": \"$3\-ODIN\",\n";
          #    }
          # }
 
-         #formFields
+         # UiFormFields
          # if(/UiFormField\n?\s*label=("|')(.*)("|')/) {
          #    if(!exists($fields{$2})) {
          #       $fields{$2} = $2;
@@ -34,51 +37,50 @@ sub getTags {
          #    }
          # }
 
-         #common
+         # UiListItems
          # if(/UiListItem\n?\s*label=("|')(.*)("|')/) {
-         #    if(!exists($fields{$2})) {
-         #       $fields{$2} = $2;
+         #    if(!exists($common{$2})) {
+         #       $common{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
 
-         #common
+         # titles
          # if(/title\s?=\s?("|')(.*)("|')/) {
-         #    if(!exists($fields{$2})) {
-         #       $fields{$2} = $2;
+         #    if(!exists($common{$2})) {
+         #       $common{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
 
-         #specific to namespace (group)
          # captures the label in the columns-like arrays of objects
          # if(/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?'(.*)'/) {
-         #    if(!exists($fields{$2})) {
-         #       $fields{$2} = $2;
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
 
          # captures the label in the UiTabs (also in specific namespace like 'group'
          # if(/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/) {
-         #    if(!exists($fields{$2})) {
-         #       $fields{$2} = $2;
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
 
          # <p>{t(' paragraphs that have translate
          # if(/<p>\n?.*\{t\(('|")(.*)('|").*\n?<\/p>/) {
-         #    if(!exists($fields{$2})) {
-         #       $fields{$2} = $2;
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
 
          #naked wrapped strings
          if(/{t\(('|")(.*)('|")\)}/) {
-            if(!exists($fields{$2})) {
-               $fields{$2} = $2;
+            if(!exists($group{$2})) {
+               $group{$2} = $2;
                print "\"$2\": \"$2\-ODIN\",\n";
             }
          }
