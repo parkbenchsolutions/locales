@@ -2,11 +2,12 @@
 use warnings;
 use strict;
 
-# my $filename = '/Users/kenburcham/code/odinweb/src/components/groups/service-settings/group-series-completion.js';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/service-settings/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/*';
 
 # opendir(DIR, $dirname) or die $!;
 my %tags = ();
+my %fields = ();
 
 sub getTags {
    my ($dirname) = @_;
@@ -17,10 +18,16 @@ sub getTags {
       open(FH, '<', $filename) or die $!;
 
       while(<FH>){
-         if(/alert(Success|Danger|Warning|Info|Primary)\(('|\")(.*)('|")\)/) {
-            if(!exists($tags{$3})) {
-               $tags{$3} = $3;
-               print "\"$3\": \"$3\-ODIN\",\n";
+         # if(/alert(Success|Danger|Warning|Info|Primary)\(('|\")(.*)('|")\)/) {
+         #    if(!exists($tags{$3})) {
+         #       $tags{$3} = $3;
+         #       print "\"$3\": \"$3\-ODIN\",\n";
+         #    }
+         # }
+         if(/UiFormField label=("|')(.*)("|')/) {
+            if(!exists($fields{$2})) {
+               $fields{$2} = $2;
+               print "\"$2\": \"$2\-ODIN\",\n";
             }
          }
       }
