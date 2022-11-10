@@ -53,6 +53,14 @@ sub getTags {
          #    }
          # }
 
+         # titles with tics - but you'll likely have to delete a bunch
+         if(/title\s?=\s?{`(.*)`}/) {
+            if(!exists($common{$1})) {
+               $common{$1} = $1;
+               print "\"$1\": \"$1\-ODIN\",\n";
+            }
+         }
+
          # captures the label in the columns-like arrays of objects
          # if(/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?'(.*)'/) {
          #    if(!exists($group{$2})) {
@@ -78,12 +86,12 @@ sub getTags {
          # }
 
          #naked wrapped strings
-         if(/{t\(('|")(.*)('|")\)}/) {
-            if(!exists($group{$2})) {
-               $group{$2} = $2;
-               print "\"$2\": \"$2\-ODIN\",\n";
-            }
-         }
+         # if(/{t\(('|")(.*)('|")\)}/) {
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
 
       }
       close(FH);
