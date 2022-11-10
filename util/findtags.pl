@@ -27,7 +27,7 @@ sub getTags {
          # }
 
          #formFields
-         # if(/UiFormField label=("|')(.*)("|')/) {
+         # if(/UiFormField\n?\s*label=("|')(.*)("|')/) {
          #    if(!exists($fields{$2})) {
          #       $fields{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
@@ -35,7 +35,7 @@ sub getTags {
          # }
 
          #common
-         # if(/UiListItem label=("|')(.*)("|')/) {
+         # if(/UiListItem\n?\s*label=("|')(.*)("|')/) {
          #    if(!exists($fields{$2})) {
          #       $fields{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
@@ -43,7 +43,7 @@ sub getTags {
          # }
 
          #common
-         # if(/title=("|')(.*)("|')/) {
+         # if(/title\s?=\s?("|')(.*)("|')/) {
          #    if(!exists($fields{$2})) {
          #       $fields{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
@@ -52,7 +52,31 @@ sub getTags {
 
          #specific to namespace (group)
          # captures the label in the columns-like arrays of objects
-         if(/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?'(.*)'/) {
+         # if(/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?'(.*)'/) {
+         #    if(!exists($fields{$2})) {
+         #       $fields{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         # captures the label in the UiTabs (also in specific namespace like 'group'
+         # if(/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/) {
+         #    if(!exists($fields{$2})) {
+         #       $fields{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         # <p>{t(' paragraphs that have translate
+         # if(/<p>\n?.*\{t\(('|")(.*)('|").*\n?<\/p>/) {
+         #    if(!exists($fields{$2})) {
+         #       $fields{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         #naked wrapped strings
+         if(/{t\(('|")(.*)('|")\)}/) {
             if(!exists($fields{$2})) {
                $fields{$2} = $2;
                print "\"$2\": \"$2\-ODIN\",\n";
