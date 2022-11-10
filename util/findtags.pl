@@ -34,12 +34,20 @@ sub getTags {
          #    }
          # }
 
+         #common
          if(/UiListItem label=("|')(.*)("|')/) {
             if(!exists($fields{$2})) {
                $fields{$2} = $2;
                print "\"$2\": \"$2\-ODIN\",\n";
             }
          }
+
+         # if(/title=("|')(.*)("|')/) {
+         #    if(!exists($fields{$2})) {
+         #       $fields{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
 
       }
       close(FH);
