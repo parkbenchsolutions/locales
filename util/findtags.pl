@@ -50,6 +50,15 @@ sub getTags {
          #    }
          # }
 
+         #specific to namespace (group)
+         # captures the label in the columns-like arrays of objects
+         if(/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?'(.*)'/) {
+            if(!exists($fields{$2})) {
+               $fields{$2} = $2;
+               print "\"$2\": \"$2\-ODIN\",\n";
+            }
+         }
+
       }
       close(FH);
    }
