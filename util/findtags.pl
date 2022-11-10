@@ -20,6 +20,7 @@ sub getTags {
       # print "  >> $filename\n";
       open(FH, '<', $filename) or die $!;
 
+      #note - this is just reading line by line, so newlines don't help us...
       while(<FH>){
          # alerts
          # if(/alert(Success|Danger|Warning|Info|Primary)\(('|\")(.*)('|")\)/) {
@@ -38,12 +39,20 @@ sub getTags {
          # }
 
          # UiSections
-         if(/<UiSection\s*title\s?=\s?("|')(.*)("|')/) {
-            if(!exists($fields{$2})) {
-               $fields{$2} = $2;
-               print "\"$2\": \"$2\-ODIN\",\n";
-            }
-         }
+         # if(/<UiSection\s*title\s?=\s?("|')(.*)("|')/) {
+         #    if(!exists($fields{$2})) {
+         #       $fields{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         #uicheckboxes (not working yet since label is not on the same line)
+         # if(/<UiInputCheckbox(.*?)label\s?=\s?("|')(.*?)("|')/) {
+         #    if(!exists($fields{$3})) {
+         #       $fields{$3} = $3;
+         #       print "\"$3\": \"$3\-ODIN\",\n";
+         #    }
+         # }
 
          # UiListItems
          # if(/UiListItem\n?\s*label=("|')(.*)("|')/) {
@@ -55,6 +64,14 @@ sub getTags {
 
          # titles
          # if(/title\s?=\s?("|')(.*)("|')/) {
+         #    if(!exists($common{$2})) {
+         #       $common{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         # labels on their own line
+         # if(/^\s*label\s?=\s?("|'|{`)(.*)("|'|`})/) {
          #    if(!exists($common{$2})) {
          #       $common{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
