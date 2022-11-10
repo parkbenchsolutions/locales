@@ -42,5 +42,6 @@
   "Configure call center call disposition codes for the enterprise": "Configure call center call disposition codes for the enterprise.-ODIN",
   "Select the Call Center routing policy and place the call centers in the enterprise in priority order": "Select the Call Center routing policy and place the call centers in the enterprise in priority order.-ODIN",
   "Display or modify enterprise level Call Center Report Branding": "Display or modify enterprise level Call Center Report Branding.-ODIN",
-  "Enterprise Call Center Scheduled Reports": "Enterprise Call Center Scheduled Reports-ODIN"
+  "Enterprise Call Center Scheduled Reports": "Enterprise Call Center Scheduled Reports-ODIN",
+  "Support Email": "Support Email-ODIN"
 }
