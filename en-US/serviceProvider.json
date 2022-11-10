@@ -43,5 +43,9 @@
   "Select the Call Center routing policy and place the call centers in the enterprise in priority order": "Select the Call Center routing policy and place the call centers in the enterprise in priority order.-ODIN",
   "Display or modify enterprise level Call Center Report Branding": "Display or modify enterprise level Call Center Report Branding.-ODIN",
   "Enterprise Call Center Scheduled Reports": "Enterprise Call Center Scheduled Reports-ODIN",
+  "Scheduled Report Name": "Scheduled Report Name-ODIN",
+  "Created By" : "Created By-ODIN",
+  "Report Template Name" : "Report Template Name-ODIN",
+  "Recurs": "Recurs-ODIN",
   "Support Email": "Support Email-ODIN"
 }
