@@ -658,5 +658,10 @@
   "Voice Messaging": "Voice Messaging-ODIN",
   "Edit Group Voice Messaging": "Edit Group Voice Messaging-ODIN",
   "Voice Portal Settings": "Voice Portal Settings-ODIN",
-  "Edit Group Voice Portal": "Edit Group Voice Portal-ODIN"
+  "Edit Group Voice Portal": "Edit Group Voice Portal-ODIN",
+  "Enterprise ID": "Enterprise ID-ODIN",
+  "Enterprise Name": "Enterprise Name-ODIN",
+  "Is Enterprise": "Is Enterprise-ODIN",
+  "Support Email": "Support Email-ODIN",
+  "Contact Number": "Enterprise Name-ODIN"
 }

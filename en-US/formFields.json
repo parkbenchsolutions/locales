@@ -554,5 +554,6 @@
   "End Date": "End Date-ODIN",
   "File Format": "File Format-ODIN",
   "PDF": "PDF-ODIN",
-  "XLS": "XLS-ODIN"
+  "XLS": "XLS-ODIN",
+  "Is Enterprise": "Is Enterprise-ODIN"
 }
