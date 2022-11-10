@@ -3,7 +3,7 @@ use warnings;
 use strict;
 
 # my $filename = '/Users/kenburcham/code/odinweb/src/components/groups/service-settings/group-series-completion.js';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
 
 # opendir(DIR, $dirname) or die $!;
 my %tags = ();
