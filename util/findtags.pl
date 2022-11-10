@@ -37,6 +37,14 @@ sub getTags {
          #    }
          # }
 
+         # UiSections
+         if(/<UiSection\s*title\s?=\s?("|')(.*)("|')/) {
+            if(!exists($fields{$2})) {
+               $fields{$2} = $2;
+               print "\"$2\": \"$2\-ODIN\",\n";
+            }
+         }
+
          # UiListItems
          # if(/UiListItem\n?\s*label=("|')(.*)("|')/) {
          #    if(!exists($common{$2})) {
@@ -54,12 +62,12 @@ sub getTags {
          # }
 
          # titles with tics - but you'll likely have to delete a bunch
-         if(/title\s?=\s?{`(.*)`}/) {
-            if(!exists($common{$1})) {
-               $common{$1} = $1;
-               print "\"$1\": \"$1\-ODIN\",\n";
-            }
-         }
+         # if(/title\s?=\s?{`(.*)`}/) {
+         #    if(!exists($common{$1})) {
+         #       $common{$1} = $1;
+         #       print "\"$1\": \"$1\-ODIN\",\n";
+         #    }
+         # }
 
          # captures the label in the columns-like arrays of objects
          # if(/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?'(.*)'/) {
@@ -92,6 +100,7 @@ sub getTags {
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
+
 
       }
       close(FH);
