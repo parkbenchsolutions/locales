@@ -1211,5 +1211,18 @@
   "By DNIS": "By DNIS-ODIN",
   "-None-": "-None--ODIN",
   "Select Agents": "Select Agents-ODIN",
-  "Custom Routing Profile": "Custom Routing Profile-ODIN"
+  "Custom Routing Profile": "Custom Routing Profile-ODIN",
+  "Add Enterprise Trunk": "Add Enterprise Trunk-ODIN",
+  "Max Reroute Attempts": "Max Reroute Attempts-ODIN",
+  "Max Reroutes in Priority": "Max Reroutes in Priority-ODIN",
+  "Ordering Algorithm": "Ordering Algorithm-ODIN",
+  "Routing": "Routing-ODIN",
+  "Edit Trunk Details": "Edit Trunk Details-ODIN",
+  "Trunk Groups": "Trunk Groups-ODIN",
+  "Edit Trunk Group": "Edit Trunk Group-ODIN",
+  "Weight": "Weight-ODIN",
+  "Edit Assigned Trunk Groups": "Edit Assigned Trunk Groups-ODIN",
+  "Edit Assigned Users": "Edit Assigned Users-ODIN",
+  "mm/dd/yyyy": "mm/dd/yyyy-ODIN",
+  "dd-mm-yyyy": "dd-mm-yyyy-ODIN"
 }
