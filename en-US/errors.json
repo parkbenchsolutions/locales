@@ -72,7 +72,7 @@
   "Please enter code": "Please enter code-ODIN",
   "Code Deleted successfully": "Code Deleted successfully-ODIN",
   "The branding template file name suffix must be .xsl format": "The branding template file name suffix must be .xsl format-ODIN",
-  "Updated Settings" : "Updated Settings-ODIN",
+  "Updated Settings": "Updated Settings-ODIN",
   "num Users Removed": "{{num}} Users Removed-ODIN",
   "Account/Authorization Code Created": "Account/Authorization Code Created-ODIN",
   "Auth Code Management Deleted": "Auth Code Management Deleted-ODIN",
@@ -359,5 +359,8 @@
   "Phone is updated": "Phone is updated-ODIN",
   "Phone is deleted.": "Phone is deleted.-ODIN",
   "Contacts Added": "Contacts Added-ODIN",
-  "Message has been downloaded": "Message has been downloaded-ODIN"
+  "Message has been downloaded": "Message has been downloaded-ODIN",
+  "You must select a DNIS unless you check 'Include All DNIS": "You must select a DNIS unless you check 'Include All DNIS-ODIN",
+  "You must select at least one Call Center unless you check 'Include all Call Centers": "You must select at least one Call Center unless you check 'Include all Call Centers-ODIN"
+  
 }
