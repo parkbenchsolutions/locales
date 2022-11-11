@@ -274,5 +274,17 @@
   "Unscreened Originating Calls": "Unscreened Originating Calls-ODIN",
   "No Calls": "No Calls-ODIN",
   "Use System Policy": "Use System Policy-ODIN",
-  "Are you sure you want to delete this Trunk Group?": "Are you sure you want to delete this Trunk Group?-ODIN"
+  "Are you sure you want to delete this Trunk Group?": "Are you sure you want to delete this Trunk Group?-ODIN",
+  "Active": "Active-ODIN",
+  "Action Data": "Action Data-ODIN",
+  "Key": "Key-ODIN",
+  "name": "name-ODIN",
+  "Video": "Video-ODIN",
+  "Id": "Id-ODIN",
+  "Home Zone": "Home Zone-ODIN",
+  "Max: ports": "Max: {{ports}}-ODIN",
+  "Group Name": "Group Name-ODIN",
+  "Group ID": "Group ID-ODIN",
+  "Action": "Action-ODIN",
+  "Access Device": "Access Device-ODIN"
 }

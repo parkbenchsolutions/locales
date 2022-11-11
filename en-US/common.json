@@ -1169,5 +1169,11 @@
   "End Date": "End Date-ODIN",
   "File Format": "File Format-ODIN",
   "PDF": "PDF-ODIN",
-  "XLS": "XLS-ODIN"
+  "XLS": "XLS-ODIN",
+  "Nothing Available": "Nothing Available-ODIN",
+  "Mandatory Usage User": "Mandatory Usage User-ODIN",
+  "Not Selected": "Not Selected-ODIN",
+  "Please Select": "Please Select-ODIN",
+  "Time Schedule": "Time Schedule-ODIN",
+  "Yes, I'm Sure": "Yes, I'm Sure-ODIN"
 }

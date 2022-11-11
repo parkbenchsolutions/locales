@@ -30,5 +30,6 @@
   "Password expires today": "Password expires today",
   "Password expired": "Password expired {{days}} ago",
   "Password expires days": "Password expires in {{days}}",
-  "Dashboard": "Dashboard-ODIN"
+  "Dashboard": "Dashboard-ODIN",
+  "Add New module": "Add New {{module}}-ODIN"
 }
