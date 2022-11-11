@@ -6,8 +6,11 @@ use strict;
 my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/*';
 
 # opendir(DIR, $dirname) or die $!;
-my %tags = ();
+my %errors = ();
 my %fields = ();
+my %group = ();
+my %common = ();
+
 
 sub getTags {
    my ($dirname) = @_;
@@ -17,38 +20,104 @@ sub getTags {
       # print "  >> $filename\n";
       open(FH, '<', $filename) or die $!;
 
+      #note - this is just reading line by line, so newlines don't help us...
       while(<FH>){
-         #errors
+         # alerts
          # if(/alert(Success|Danger|Warning|Info|Primary)\(('|\")(.*)('|")\)/) {
-         #    if(!exists($tags{$3})) {
-         #       $tags{$3} = $3;
+         #    if(!exists($errors{$3})) {
+         #       $errors{$3} = $3;
          #       print "\"$3\": \"$3\-ODIN\",\n";
          #    }
          # }
 
-         #formFields
-         # if(/UiFormField label=("|')(.*)("|')/) {
+         # UiFormFields
+         # if(/UiFormField\n?\s*label=("|')(.*)("|')/) {
          #    if(!exists($fields{$2})) {
          #       $fields{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
 
-         #common
-         # if(/UiListItem label=("|')(.*)("|')/) {
+         # UiSections
+         # if(/<UiSection\s*title\s?=\s?("|')(.*)("|')/) {
          #    if(!exists($fields{$2})) {
          #       $fields{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
 
-         #common
-         # if(/title=("|')(.*)("|')/) {
-         #    if(!exists($fields{$2})) {
-         #       $fields{$2} = $2;
+         #uicheckboxes (not working yet since label is not on the same line)
+         # if(/<UiInputCheckbox(.*?)label\s?=\s?("|')(.*?)("|')/) {
+         #    if(!exists($fields{$3})) {
+         #       $fields{$3} = $3;
+         #       print "\"$3\": \"$3\-ODIN\",\n";
+         #    }
+         # }
+
+         # UiListItems
+         # if(/UiListItem\n?\s*label=("|')(.*)("|')/) {
+         #    if(!exists($common{$2})) {
+         #       $common{$2} = $2;
          #       print "\"$2\": \"$2\-ODIN\",\n";
          #    }
          # }
+
+         # titles
+         # if(/title\s?=\s?("|')(.*)("|')/) {
+         #    if(!exists($common{$2})) {
+         #       $common{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         # labels on their own line
+         # if(/^\s*label\s?=\s?("|'|{`)(.*)("|'|`})/) {
+         #    if(!exists($common{$2})) {
+         #       $common{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         # titles with tics - but you'll likely have to delete a bunch
+         # if(/title\s?=\s?{`(.*)`}/) {
+         #    if(!exists($common{$1})) {
+         #       $common{$1} = $1;
+         #       print "\"$1\": \"$1\-ODIN\",\n";
+         #    }
+         # }
+
+         # captures the label in the columns-like arrays of objects
+         # if(/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?'(.*)'/) {
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         # captures the label in the UiTabs (also in specific namespace like 'group'
+         # if(/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/) {
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         # <p>{t(' paragraphs that have translate
+         # if(/<p>\n?.*\{t\(('|")(.*)('|").*\n?<\/p>/) {
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
+         #naked wrapped strings
+         # if(/{t\(('|")(.*)('|")\)}/) {
+         #    if(!exists($group{$2})) {
+         #       $group{$2} = $2;
+         #       print "\"$2\": \"$2\-ODIN\",\n";
+         #    }
+         # }
+
 
       }
       close(FH);

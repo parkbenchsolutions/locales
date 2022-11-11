@@ -200,5 +200,15 @@
   "Group Calling Plans Outgoing Pinhole Digit Plan": "Group Calling Plans Outgoing Pinhole Digit Plan-ODIN",
   "Group Calling Plans Transfer Numbers": "Group Calling Plans Transfer Numbers-ODIN",
   "Incoming Calling Plan": "Incoming Calling Plan-ODIN",
-  "Digit Patterns": "Digit Patterns-ODIN"
+  "Digit Patterns": "Digit Patterns-ODIN",
+  "Call Forwarding Always": "Call Forwarding Always-ODIN",
+  "Call Forwarding Not Reachable": "Call Forwarding Not Reachable-ODIN",
+  "Call Forwarding No Answer": "Call Forwarding No Answer-ODIN",
+  "Calling Line ID Delivery Blocking": "Calling Line ID Delivery Blocking-ODIN",
+  "Call Recording": "Call Recording-ODIN",
+  "Call Forwarding Busy": "Call Forwarding Busy-ODIN",
+  "Hoteling Guest": "Hoteling Guest-ODIN",
+  "Hoteling Host": "Hoteling Host-ODIN",
+  "Speed Dial 8": "Speed Dial 8-ODIN",
+  "Voice Messaging User": "Voice Messaging User-ODIN"
 }
