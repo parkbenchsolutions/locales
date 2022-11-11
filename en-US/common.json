@@ -1175,5 +1175,9 @@
   "Not Selected": "Not Selected-ODIN",
   "Please Select": "Please Select-ODIN",
   "Time Schedule": "Time Schedule-ODIN",
-  "Yes, I'm Sure": "Yes, I'm Sure-ODIN"
+  "Yes, I'm Sure": "Yes, I'm Sure-ODIN",
+  "Agent Report Dashboard": "Agent Report Dashboard-ODIN",
+  "Configuration Type": "Configuration Type-ODIN",
+  "Number": "Number-ODIN"
+
 }
