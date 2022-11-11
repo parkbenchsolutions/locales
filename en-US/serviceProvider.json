@@ -48,5 +48,7 @@
   "Report Template Name": "Report Template Name-ODIN",
   "Recurs": "Recurs-ODIN",
   "Delete Report report": "Delete Report {{report}}-ODIN",
-  "Are you sure you want to delete this report?": "Are you sure you want to delete this report?-ODIN"
+  "Are you sure you want to delete this report?": "Are you sure you want to delete this report?-ODIN",
+  "Optional": "Optional-ODIN",
+  "Required": "Required-ODIN"
 }
