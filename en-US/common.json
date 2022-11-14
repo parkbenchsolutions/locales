@@ -1229,5 +1229,9 @@
   "Agent Report Dashboard": "Agent Report Dashboard-ODIN",
   "Configuration Type": "Configuration Type-ODIN",
   "Number": "Number-ODIN",
-  "Administrators": "Administrators-ODIN"
+  "Administrators": "Administrators-ODIN",
+  "Agent Default Settings": "Agent Default Settings-ODIN",
+  "Agent Unavailable Codes": "Agent Unavailable Codes-ODIN",
+  "Call Disposition Codes": "Call Disposition Codes-ODIN",
+  "Default code on Consecutive Bounces": "Default code on Consecutive Bounces-ODIN"
 }
