@@ -1209,7 +1209,6 @@
   "Selected Call Center": "Selected Call Center-ODIN",
   "By Call Center": "By Call Center-ODIN",
   "By DNIS": "By DNIS-ODIN",
-  "-None-": "-None--ODIN",
   "Select Agents": "Select Agents-ODIN",
   "Custom Routing Profile": "Custom Routing Profile-ODIN",
   "Add Enterprise Trunk": "Add Enterprise Trunk-ODIN",
@@ -1224,5 +1223,11 @@
   "Edit Assigned Trunk Groups": "Edit Assigned Trunk Groups-ODIN",
   "Edit Assigned Users": "Edit Assigned Users-ODIN",
   "mm/dd/yyyy": "mm/dd/yyyy-ODIN",
-  "dd-mm-yyyy": "dd-mm-yyyy-ODIN"
+  "dd-mm-yyyy": "dd-mm-yyyy-ODIN",
+  "Business Directory": "Business Directory-ODIN",
+  "Business Profile": "Business Profile-ODIN",
+  "Agent Report Dashboard": "Agent Report Dashboard-ODIN",
+  "Configuration Type": "Configuration Type-ODIN",
+  "Number": "Number-ODIN",
+  "Administrators": "Administrators-ODIN"
 }
