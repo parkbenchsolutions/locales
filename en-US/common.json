@@ -1234,5 +1234,11 @@
   "Agent Unavailable Codes": "Agent Unavailable Codes-ODIN",
   "Call Disposition Codes": "Call Disposition Codes-ODIN",
   "Default code on Consecutive Bounces": "Default code on Consecutive Bounces-ODIN",
-  "Add Device": "Add Device-ODIN"
+  "Add Device": "Add Device-ODIN",
+  "Options": "Options-ODIN",
+  "Add New Event": "Add New Event-ODIN",
+  "Edit Event": "Edit Event-ODIN",
+  "Duration": "Duration-ODIN",
+  "Recurrence": "Recurrence-ODIN",
+  "All Day Event": "All Day Event-ODIN"
 }
