@@ -1240,5 +1240,8 @@
   "Edit Event": "Edit Event-ODIN",
   "Duration": "Duration-ODIN",
   "Recurrence": "Recurrence-ODIN",
-  "All Day Event": "All Day Event-ODIN"
+  "All Day Event": "All Day Event-ODIN",
+  "SIP 1": "SIP 1-ODIN",
+  "SIP 2": "SIP 2-ODIN",
+  "SIP 3": "SIP 3-ODIN"
 }
