@@ -68,5 +68,8 @@
   "User Id": "User Id-ODIN",
   "Phone Number": "Phone Number-ODIN",
   "Extension": "Extension-ODIN",
-  "Department": "Department-ODIN"
+  "Department": "Department-ODIN",
+  "Edit Device deviceName": "Edit Device {{deviceName}}-ODIN",
+  "Are you sure you want to Delete deviceName device": "Are you sure you want to Delete {{deviceName}} device?-ODIN",
+  "Are you sure you want to delete this Event" : "Are you sure you want to delete this Event?-ODIN"
 }

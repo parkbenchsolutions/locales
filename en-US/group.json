@@ -286,5 +286,6 @@
   "Group Name": "Group Name-ODIN",
   "Group ID": "Group ID-ODIN",
   "Action": "Action-ODIN",
-  "Access Device": "Access Device-ODIN"
+  "Access Device": "Access Device-ODIN",
+  "MAC": "MAC-ODIN"
 }
