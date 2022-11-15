@@ -1228,5 +1228,11 @@
   "Business Profile": "Business Profile-ODIN",
   "Agent Report Dashboard": "Agent Report Dashboard-ODIN",
   "Configuration Type": "Configuration Type-ODIN",
-  "Number": "Number-ODIN"
+  "Number": "Number-ODIN",
+  "Press Enter after giving the value of Action": "Press Enter after giving the value of Action-ODIN",
+  "Try Again": "Try Again-ODIN",
+  "Auto Attendant Creation Warning": "Auto Attendant Creation Warning-ODIN",
+  "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.": "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.-ODIN",
+  "Go Back": "Go Back-ODIN",
+  "Trunk Group Call Capacity": "Trunk Group Call Capacity-ODIN"
 }
