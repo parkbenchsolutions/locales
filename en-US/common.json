@@ -1233,5 +1233,6 @@
   "Agent Default Settings": "Agent Default Settings-ODIN",
   "Agent Unavailable Codes": "Agent Unavailable Codes-ODIN",
   "Call Disposition Codes": "Call Disposition Codes-ODIN",
-  "Default code on Consecutive Bounces": "Default code on Consecutive Bounces-ODIN"
+  "Default code on Consecutive Bounces": "Default code on Consecutive Bounces-ODIN",
+  "Add Device": "Add Device-ODIN"
 }
