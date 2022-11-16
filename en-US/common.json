@@ -1243,5 +1243,15 @@
   "All Day Event": "All Day Event-ODIN",
   "SIP 1": "SIP 1-ODIN",
   "SIP 2": "SIP 2-ODIN",
-  "SIP 3": "SIP 3-ODIN"
+  "SIP 3": "SIP 3-ODIN",
+  "User Announcements" : "User Announcements-ODIN",
+  "CLID Privacy" : "CLID Privacy-ODIN",
+  "Forwarded Calls": "Forwarded Calls-ODIN",
+  "CLID for Redirected Calls" : "CLID for Redirected Calls-ODIN",
+  "Call Policies": "Call Policies-ODIN",
+  "Redirected CLID Privacy": "Redirected CLID Privacy-ODIN",
+  "Forwarded Calls Response": "Forwarded Calls Response-ODIN",
+  "Edit Call Policies": "Edit Call Policies-ODIN",
+  "User Feature Access Code": "User Feature Access Code-ODIN",
+  "Feature Access Codes" : "Feature Access Codes-ODIN"
 }
