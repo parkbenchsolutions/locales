@@ -31,5 +31,8 @@
   "Password expired": "Password expired {{days}} ago",
   "Password expires days": "Password expires in {{days}}",
   "Dashboard": "Dashboard-ODIN",
-  "Add New module": "Add New {{module}}-ODIN"
+  "Add New module": "Add New {{module}}-ODIN",
+  "CLID: Edit num Users": "CLID: Edit {{num}} Users-ODIN",
+  "Edit CLID Number": "Edit CLID Number-ODIN",
+  "Name": "Name-ODIN"
 }
