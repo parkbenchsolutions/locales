@@ -1251,5 +1251,7 @@
   "Call Policies": "Call Policies-ODIN",
   "Redirected CLID Privacy": "Redirected CLID Privacy-ODIN",
   "Forwarded Calls Response": "Forwarded Calls Response-ODIN",
-  "Edit Call Policies": "Edit Call Policies-ODIN"
+  "Edit Call Policies": "Edit Call Policies-ODIN",
+  "User Feature Access Code": "User Feature Access Code-ODIN",
+  "Feature Access Codes" : "Feature Access Codes-ODIN"
 }
