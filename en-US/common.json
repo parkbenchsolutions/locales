@@ -85,7 +85,6 @@
   "Mail Driver": "Mail Driver-ODIN",
   "Email Message": "Email Message-ODIN",
   "Message Body": "Message Body-ODIN",
-  "You may use tags to dynamically construct your email template": "You may use tags to dynamically construct your email template-ODIN",
   "Tag": "Tag-ODIN",
   "Example": "Example-ODIN",
   "Tags": "Tags-ODIN",
@@ -1334,5 +1333,11 @@
   "System Announcement": "System Announcement-ODIN",
   "Custom Announcement": "Custom Announcement-ODIN",
   "Load Custom Audio Announcement": "Custom Announcement-ODIN",
-  "Choose File...": "Choose File...-ODIN"
+  "Choose File...": "Choose File...-ODIN",
+  "Press Enter after giving the value of Action": "Press Enter after giving the value of Action-ODIN",
+  "Try Again": "Try Again-ODIN",
+  "Auto Attendant Creation Warning": "Auto Attendant Creation Warning-ODIN",
+  "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.": "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.-ODIN",
+  "Go Back": "Go Back-ODIN",
+  "Trunk Group Call Capacity": "Trunk Group Call Capacity-ODIN"
 }

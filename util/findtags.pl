@@ -3,7 +3,7 @@ use warnings;
 use strict;
 
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/service-settings/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk/bulk-enterprise-clone';
 
 # opendir(DIR, $dirname) or die $!;
 my %errors = ();
@@ -13,10 +13,10 @@ my %common = ();
 
 sub getTags {
    my ($dirname) = @_;
-   # print("Dir: $dirname\n");
+   print("Dir: $dirname\n");
    my @files = <$dirname/*.js>;
    foreach my $filename (@files) {
-      # print "  >> $filename\n";
+      print "  >> $filename\n";
       open(FH, '<', $filename) or die $!;
       local $/;
       $_ = <FH>;
@@ -59,24 +59,30 @@ sub getTags {
       #
       # captures the label in the columns-like arrays of objects
       while (/{?\s*key:\s?'(.*)',\s?\n?\s*label:\s?("|'|{`)(.*?)("|'|`})/g) {
-         $group{$2} = $2;
+         $group{$3} = $3;
       }
 
       # captures the label in the UiTabs (also in specific namespace like 'group'
-      while (/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/g) {
-         $group{$2} = $2;
-      }
+      # while (/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/g) {
+      #    $group{$2} = $2;
+      # }
 
       # <p>{t(' paragraphs that have translate
-      while (/<p>\n?.*\{t\(("|'|{`)(.*?)("|'|`}).*\n?<\/p>/g) {
-         $group{$2} = $2;
-      }
+      # while (/<p>\n?.*\{t\(("|'|{`)(.*?)("|'|`}).*\n?<\/p>/g) {
+      #    $group{$2} = $2;
+      # }
 
       #naked wrapped strings
-      while (/{t\(("|'|{`)(.*?)("|'|`})\)}/g) {
-         $group{$2} = $2;
-      }
+      # while (/{t\(("|'|{`)(.*?)("|'|`})\)}/g) {
+      #    $group{$2} = $2;
+      # }
       #
+
+      #other things to do
+      # {t('Enter Password')}
+      # <label>{t('No Pending Task available!')}</label>
+      # &nbsp; {t('Leave Blank')}
+      # <b>{t('Please enter number or ranges on separate line')}</b>
 
 
 

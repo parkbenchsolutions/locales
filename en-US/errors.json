@@ -363,5 +363,10 @@
   "You must select a DNIS unless you check 'Include All DNIS": "You must select a DNIS unless you check 'Include All DNIS-ODIN",
   "You must select at least one Call Center unless you check 'Include all Call Centers": "You must select at least one Call Center unless you check 'Include all Call Centers-ODIN",
   "Event Added successfully": "Event Added successfully-ODIN",
-  "Event Updated successfully": "Event Updated successfully-ODIN"
+  "Event Updated successfully": "Event Updated successfully-ODIN",
+  "task is successful": "{{task}} is successful-ODIN",
+  "Data Error: error": "Data Error: {{error}}-ODIN",
+  "Error: error": "Error: {{error}}-ODIN",
+  "Error in type": "Error in {{type}}-ODIN",
+  "type is successfully created": "{{type}} is successfully created-ODIN"
 }
