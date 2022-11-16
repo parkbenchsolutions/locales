@@ -150,5 +150,10 @@
   "Add, Remove, or Replace Service Packs countServicePacks": "Add, Remove, or Replace Service Packs {{countServicePacks}}-ODIN",
   "Pending count": "Pending: {{count}}-ODIN",
   "Completed count": "Completed: {{count}}-ODIN",
-  "Failed count": "Failed: {{count}}-ODIN"
+  "Failed count": "Failed: {{count}}-ODIN",
+  "Failed": "Failed-ODIN",
+  "Errors": "Errors-ODIN",
+  "Import Queued: id": "Import Queued: {id}-ODIN",
+  "You may use tags to dynamically construct your user IDs": "You may use tags to dynamically construct your user IDs.-ODIN",
+  "You may use tags to dynamically construct your email template": "You may use tags to dynamically construct your email template.-ODIN"
 }

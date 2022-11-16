@@ -361,6 +361,11 @@
   "Contacts Added": "Contacts Added-ODIN",
   "Message has been downloaded": "Message has been downloaded-ODIN",
   "You must select a DNIS unless you check 'Include All DNIS": "You must select a DNIS unless you check 'Include All DNIS-ODIN",
-  "You must select at least one Call Center unless you check 'Include all Call Centers": "You must select at least one Call Center unless you check 'Include all Call Centers-ODIN"
+  "You must select at least one Call Center unless you check 'Include all Call Centers": "You must select at least one Call Center unless you check 'Include all Call Centers-ODIN",
+  "task is successful": "{{task}} is successful-ODIN",
+  "Data Error: error": "Data Error: {{error}}-ODIN",
+  "Error: error": "Error: {{error}}-ODIN",
+  "Error in type": "Error in {{type}}-ODIN",
+  "type is successfully created": "{{type}} is successfully created-ODIN"
   
 }
