@@ -68,10 +68,10 @@
   "User Id": "User Id-ODIN",
   "Phone Number": "Phone Number-ODIN",
   "Extension": "Extension-ODIN",
-  "Department": "Department-ODIN", 
+  "Department": "Department-ODIN",
   "Edit Device deviceName": "Edit Device {{deviceName}}-ODIN",
   "Are you sure you want to Delete deviceName device": "Are you sure you want to Delete {{deviceName}} device?-ODIN",
-  "Are you sure you want to delete this Event" : "Are you sure you want to delete this Event?-ODIN",
+  "Are you sure you want to delete this Event": "Are you sure you want to delete this Event?-ODIN",
   "Service Packs": "Service Packs-ODIN",
   "Utilization": "Utilization-ODIN",
   "Service Usage": "Service Usage-ODIN",
@@ -87,7 +87,7 @@
   "Allowed": "Allowed-ODIN",
   "Assigned": "Assigned-ODIN",
   "Service Pack": "Service Pack-ODIN",
-  "Service Name": "Service Name",
+  "Service Name": "Service Name-ODIN",
   "Select a Service": "Select a Service-ODIN",
   "Device Name": "Device Name-ODIN",
   "Device Type": "Device Type-ODIN",
@@ -105,5 +105,6 @@
   "Media": "Media-ODIN",
   "Translation and Routing": "Translation and Routing-ODIN",
   "Dialable Caller Id": "Dialable Caller Id-ODIN",
-  "Phone List Lookup": "Phone List Lookup-ODIN"
+  "Group": "Group-ODIN",
+  "Total Packs": "Total Packs-ODIN"
 }
