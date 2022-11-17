@@ -278,6 +278,11 @@
   "Required": "Required-ODIN",
   "Optional": "Optional-ODIN",
   "Details": "Details-ODIN",
+  "label (percent%)": "{{label}} ({{percent}}%)-ODIN",
+  "Webhooks: Event title": "Webhooks: Event {{title}}-ODIN",
+
+
+
   "name": "",
   "description": "",
   "minimumCoreVersion": "",
