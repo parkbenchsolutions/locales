@@ -83,6 +83,7 @@ sub getTags {
       # <label>{t('No Pending Task available!')}</label>
       # &nbsp; {t('Leave Blank')}
       # <b>{t('Please enter number or ranges on separate line')}</b>
+      # return Promise.resolve(t('Phone is added'))
 
 
 

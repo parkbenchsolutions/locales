@@ -34,5 +34,12 @@
   "Add New module": "Add New {{module}}-ODIN",
   "CLID: Edit num Users": "CLID: Edit {{num}} Users-ODIN",
   "Edit CLID Number": "Edit CLID Number-ODIN",
-  "Name": "Name-ODIN"
+  "Name": "Name-ODIN",
+  "Are you sure you want to delete this phone name?": "Are you sure you want to delete this phone: {{name}}?-ODIN",
+  "num Contacts Ready": "{{num}} Contacts Ready-ODIN",
+  "Edit phone": "Edit: {{phone}}-ODIN",
+  "Are you sure you want to operation this device?": "Are you sure you want to {{operation}} this device?-ODIN",
+  "Edit Speed Code speedcode": "Edit Speed Code: {{speedcode}}-ODIN",
+  "New Speed Code": "New Speed Code-ODIN",
+  "Are you sure you want to delete this SpeedCode speedcode?": "Are you sure you want to delete this SpeedCode: {{speedcode}}?-ODIN"
 }
