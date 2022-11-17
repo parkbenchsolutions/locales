@@ -1339,5 +1339,21 @@
   "Auto Attendant Creation Warning": "Auto Attendant Creation Warning-ODIN",
   "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.": "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.-ODIN",
   "Go Back": "Go Back-ODIN",
-  "Trunk Group Call Capacity": "Trunk Group Call Capacity-ODIN"
+  "Trunk Group Call Capacity": "Trunk Group Call Capacity-ODIN",
+  "Edit type Call Processing Policy": "Edit {{type}} Call Processing Policy-ODIN",
+  "Using usingLevel Call Limits Policy": "Using {{usingLevel}} Call Limits Policy-ODIN",
+  "Use levelType Call Limits Policy ( Using usingLevel Call Limits Policy )": "Use {{levelType}} Call Limits Policy ( Using {{usingLevel}} Call Limits Policy )-ODIN",
+  "Use levelType Call Limits Policy": "Use {{levelType}} Call Limits Policy-ODIN",
+  "Using usingLevel Calling Line Id Policy": "Using {{usingLevel}} Calling Line Id Policy-ODIN",
+  "Use levelType Calling Line Id Policy": "Use levelType Calling Line Id Policy-ODIN",
+  "Use levelType Calling Line Id Policy ( Using usingLevel Calling Line Id Policy )": "Use {{levelType}} Calling Line Id Policy ( Using {{usingLevel}} Calling Line Id Policy )-ODIN",
+  "Using usingLevel Dialable Caller ID Policy": "Using {{usingLevel}} Dialable Caller ID Policy-ODIN",
+  "Use type Dialable Caller ID Policy": "Use {{type}} Dialable Caller ID Policy-ODIN",
+  "Use type Dialable Caller ID Policy ( Using usingLevel Dialable Caller ID Policy )": "Use {{type}} Dialable Caller ID Policy ( Using {{usingLevel}} Dialable Caller ID Policy )-ODIN",
+  "Use levelType Media Policy": "Use {{levelType}} Media Policy-ODIN",
+  "Using usingLevel Media Policy": "Using {{usingLevel}} Media Policy-ODIN",
+  "Use levelType Media Policy ( Using usingLevel Media Policy )": "Use {{levelType}} Media Policy ( Using {{usingLevel}} Media Policy )-ODIN",
+  "Use levelType Phone List Lookup Policy": "Use levelType Phone List Lookup Policy-ODIN",
+  "Use levelType Phone List Lookup Policy (Using usingLevel Phone List Lookup Policy)": "Use {{levelType}} Phone List Lookup Policy (Using {{usingLevel}} Phone List Lookup Policy)-ODIN",
+"Use levelType Translation and Routing Policy": "Use {{levelType}} Translation and Routing Policy-ODIN"
 }
