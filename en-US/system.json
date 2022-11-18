@@ -280,6 +280,10 @@
   "Details": "Details-ODIN",
   "label (percent%)": "{{label}} ({{percent}}%)-ODIN",
   "Webhooks: Event title": "Webhooks: Event {{title}}-ODIN",
+  "New title ID": "New {{title}} ID-ODIN",
+  "Clone title": "Clone {{title}}-ODIN",
+  "New title Name": "New {{title}} Name-ODIN",
+  "title ID": "{{title}} ID-ODIN",
 
 
 
