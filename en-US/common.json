@@ -1398,5 +1398,8 @@
   "Days": "Days-ODIN",
   "Weeks": "Weeks-ODIN",
   "Months": "Months-ODIN",
-  "Years": "Years-ODIN"
+  "Years": "Years-ODIN",
+  "Service or Criteria Name": "Service or Criteria Name-ODIN",
+  "Are you sure you want to delete this announcement?": "Are you sure you want to delete this announcement?-ODIN",
+  "Are you sure you want to delete this Event": "Are you sure you want to delete this Event?-ODIN"
 }
