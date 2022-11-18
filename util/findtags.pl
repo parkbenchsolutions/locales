@@ -84,6 +84,7 @@ sub getTags {
       # &nbsp; {t('Leave Blank')}
       # <b>{t('Please enter number or ranges on separate line')}</b>
       # return Promise.resolve(t('Phone is added'))
+      # <span> {t('Archive')}</span>
 
 
 
