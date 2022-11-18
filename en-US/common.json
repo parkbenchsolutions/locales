@@ -1394,5 +1394,9 @@
   "Line Ports": "Line Ports-ODIN",
   "User Services": "User Services-ODIN",
   "Premium Services": "Premium Services-ODIN",
-  "addons": "addons-Odin"
+  "addons": "addons-ODIN",
+  "Days": "Days-ODIN",
+  "Weeks": "Weeks-ODIN",
+  "Months": "Months-ODIN",
+  "Years": "Years-ODIN"
 }
