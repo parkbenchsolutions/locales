@@ -64,6 +64,26 @@
   "Select Phone Number (dnsLength)": "Select Phone Number ({{dnsLength}})-ODIN",
   "Are you sure you want to delete this Conference title?": "Are you sure you want to delete this Conference: {{title}}?-ODIN",
   "Permission Access Denied": "Permission Access Denied-ODIN",
-  "Excluded Phone Number id": "Excluded Phone Number {{id}}-ODIN"
+  "Excluded Phone Number id": "Excluded Phone Number {{id}}-ODIN",
+  "User Incoming Calling Plan": "User Incoming Calling Plan-ODIN",
+  "Prevent departments, or the group from receiving incoming calls of a specified type": "Prevent departments, or the group from receiving incoming calls of a specified type-ODIN",
+  "User Outgoing Calling Plan": "User Outgoing Calling Plan-ODIN",
+  "Prevent departments, or the group from making outgoing calls of a specified type": "Prevent departments, or the group from making outgoing calls of a specified type-ODIN",
+  "User Outgoing Authorization Codes": "User Outgoing Authorization Codes-ODIN",
+  "Set the authorization codes to be used on outgoing calls as defined in the Outgoing Calling Plan": "Set the authorization codes to be used on outgoing calls as defined in the Outgoing Calling Plan-ODIN",
+  "User Outgoing Digit Plan": "User Outgoing Digit Plan-ODIN",
+  "Prevent departments, or the group from making outgoing calls based on a defined digit pattern": "Prevent departments, or the group from making outgoing calls based on a defined digit pattern-ODIN",
+  "User Outgoing Pinhole Digit Plan": "User Outgoing Pinhole Digit Plan-ODIN",
+  "Override departments, or the group outgoing dial restrictions based on a defined digit pattern": "Override departments, or the group outgoing dial restrictions based on a defined digit pattern-ODIN",
+  "User Transfer Numbers": "User Transfer Numbers-ODIN",
+  "Configure the transfer numbers when making an outgoing call that requires operator assistance": "Configure the transfer numbers when making an outgoing call that requires operator assistance-ODIN",
+  "Edit title": "Edit {{title}}-ODIN",
+  "Allow digitPattern": "Allow {{digitPattern}}-ODIN",
+  "Are you sure you want to delete this criteria?": "Are you sure you want to delete this criteria?-ODIN",
+  "set to": "set to-ODIN",
+  "Default": "Default-ODIN",
+  "User": "User-ODIN",
+  "after": "after-ODIN",
+  "consecutive calls": "consecutive calls-ODIN"
 
 }

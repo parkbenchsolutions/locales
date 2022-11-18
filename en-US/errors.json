@@ -385,6 +385,16 @@
   "Error: Could not load feature": "Error: Could not load feature-ODIN",
   "Criteria Updated successfully": "Criteria Updated successfully-ODIN",
   "Criteria Added successfully": "Criteria Added successfully-ODIN",
+  "Criteria Deleted successfully": "Criteria Deleted successfully-ODIN",
   "Conference Updated successfully": "Conference Updated successfully-ODIN",
-  "Conference Added successfully": "Conference Added successfully-ODIN"
+  "Conference Added successfully": "Conference Added successfully-ODIN",
+  "Authorization Codes Activated successfully": "Authorization Codes Activated successfully-ODIN",
+  "Authorization Codes Deactivated successfully": "Authorization Codes Deactivated successfully-ODIN",
+  "name checked Successfully": "{{name}} {{checked}} Successfully-ODIN",
+  "Either default or specific call forward to phone number must be entered before adding call forward list": "Either default or specific call forward to phone number must be entered before adding call forward list-ODIN",
+  "Skill Level value should be between minimum and maximum": "Skill Level value should be between {{minimum}} and {{maximum}}-ODIN",
+  "Call Forwarding Selective Activated successfully": "Call Forwarding Selective Activated successfully-ODIN",
+  "Call Forwarding Selective Deactivated successfully": "Call Forwarding Selective Deactivated successfully-ODIN",
+  "phoneNumber status Successfully": "{{phoneNumber}} {{status}} Successfully-ODIN"
+
 }
