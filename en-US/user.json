@@ -205,5 +205,14 @@
   "Answer Confirmation": "Answer Confirmation-ODIN",
   "Being Forwarded": "Being Forwarded-ODIN",
   "Do Not Disturb": "Do Not Disturb-ODIN",
-  "Active": "Active-ODIN"
+  "Active": "Active-ODIN",
+  "Unassigned": "Unassigned-ODIN",
+  "Delete Messages": "Delete Messages-ODIN",
+  "Holiday": "Holiday-ODIN",
+  "Unread": "Unread-ODIN",
+  "Mark as Read": "Mark as Read-ODIN",
+  "All": "All-ODIN",
+  "Mark as Unread": "Mark as Unread-ODIN",
+  "Time": "Time-ODIN",
+  "Action": "Action-ODIN"
 }

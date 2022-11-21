@@ -7,14 +7,15 @@ use strict;
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/audits/*';
 my $topdirname = '/Users/kenburcham/code/odinweb/src/components/system/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/autoAttendant/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/branding/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/call-processing-policy/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/departments/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/events/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/exports/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/service-provider/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/users/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/autoAttendant/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/branding/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/call-processing-policy/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/departments/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/events/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/exports/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/service-providers/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/users/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
 
 # opendir(DIR, $dirname) or die $!;
@@ -93,6 +94,12 @@ sub getTags {
       #    $group{$2} = $2;
       # }
       #
+
+      #
+      #label: 'Session Admission'
+      while (/^\s*label\s?:\s*'(.*?)'/gm) {
+         $group{$1} = $1;
+      }
 
       #other things to do
 

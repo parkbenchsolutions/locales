@@ -151,5 +151,9 @@
   "Options": "Options-ODIN",
   "Answer Confirmation prompt for the enterprise.": "Answer Confirmation prompt for the enterprise.-ODIN",
   "Click to Select Services": "Click to Select Services-ODIN",
-  "Id": "Id-ODIN"
+  "Id": "Id-ODIN",
+  "Allocated to Groups": "Allocated to Groups-ODIN",
+  "Quantity": "Quantity-ODIN",
+  "isEnterprise": "isEnterprise-ODIN",
+  "Available": "Available-ODIN"
 }
