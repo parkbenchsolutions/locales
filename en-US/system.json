@@ -276,7 +276,6 @@
   "Are you sure you want to remove this Network Class of Service?": "Are you sure you want to remove this Network Class of Service?-ODIN",
   "Profile index": "Profile {{index}}",
   "Required": "Required-ODIN",
-  "Optional": "Optional-ODIN",
   "Details": "Details-ODIN",
   "label (percent%)": "{{label}} ({{percent}}%)-ODIN",
   "Webhooks: Event title": "Webhooks: Event {{title}}-ODIN",
@@ -284,6 +283,15 @@
   "Clone title": "Clone {{title}}-ODIN",
   "New title Name": "New {{title}} Name-ODIN",
   "title ID": "{{title}} ID-ODIN",
+  "Group Services": "Group Services-ODIN",
+  "Service Packs Summary": "Service Packs Summary-ODIN",
+  "Group Services Summary": "Group Services Summary-ODIN",
+  "Are you sure you want to remove this callback?": "Are you sure you want to remove this callback?-ODIN",
+  "User Services": "User Services-ODIN",
+  "Is Enterprise": "Is Enterprise-ODIN",
+  "Service Packs": "Service Packs-ODIN",
+  "Are you sure you want to remove this endpoint?": "Are you sure you want to remove this endpoint?-ODIN",
+  "User Services Summary": "User Services Summary-ODIN",
 
 
 
