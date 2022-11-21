@@ -36,34 +36,34 @@ sub getTags {
       close(FH);
 
       # alerts
-      # while (/alert(Success|Danger|Warning|Info|Primary)\(('|\")(.*)('|")\)/g) {
-      #    $errors{$3} = $3;
-      # }
+      while (/alert(Success|Danger|Warning|Info|Primary)\(('|\")(.*)('|")\)/g) {
+         $errors{$3} = $3;
+      }
 
       # # UiFormField labels
-      while (/UiFormField(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-         $common{$3} = $3;
-      }
-      #
-      # # UiInputCheckbox labels
-      while (/<UiInputCheckbox(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-         $common{$3} = $3;
-      }
-      #
-      # # UiSections
-      while (/<UiSection(.*?)title\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-         $common{$3} = $3;
-      }
-      #
-      # # UiListItems
-      while (/<UiListItem(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-         $common{$3} = $3;
-      }
-      #
-      # # titles that were missed
-      while (/title\s?=\s?("|'|{`)(.*?)("|'|`})/g) {
-         $common{$2} = $2;
-      }
+      # while (/UiFormField(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+      #    $common{$3} = $3;
+      # }
+      # #
+      # # # UiInputCheckbox labels
+      # while (/<UiInputCheckbox(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+      #    $common{$3} = $3;
+      # }
+      # #
+      # # # UiSections
+      # while (/<UiSection(.*?)title\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+      #    $common{$3} = $3;
+      # }
+      # #
+      # # # UiListItems
+      # while (/<UiListItem(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+      #    $common{$3} = $3;
+      # }
+      # #
+      # # # titles that were missed
+      # while (/title\s?=\s?("|'|{`)(.*?)("|'|`})/g) {
+      #    $common{$2} = $2;
+      # }
       # #
       # # # labels on their own line so also missed
       # while (/^\s*label\s?=\s?("|'|{`)(.*)("|'|`})/g) {

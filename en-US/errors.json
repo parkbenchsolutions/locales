@@ -395,6 +395,16 @@
   "Skill Level value should be between minimum and maximum": "Skill Level value should be between {{minimum}} and {{maximum}}-ODIN",
   "Call Forwarding Selective Activated successfully": "Call Forwarding Selective Activated successfully-ODIN",
   "Call Forwarding Selective Deactivated successfully": "Call Forwarding Selective Deactivated successfully-ODIN",
-  "phoneNumber status Successfully": "{{phoneNumber}} {{status}} Successfully-ODIN"
-
+  "phoneNumber status Successfully": "{{phoneNumber}} {{status}} Successfully-ODIN",
+  "Sequential Setting Updated": "Sequential Setting Updated-ODIN",
+  "External Calling Line ID Delivery Updated": "External Calling Line ID Delivery Updated-ODIN",
+  "Updated Successfully": "Updated Successfully-ODIN",
+  "Messages deleted": "Messages deleted-ODIN",
+  "Rebuild And Reset command sent to device": "Rebuild And Reset command sent to device-ODIN",
+  "Reset command sent to device": "Reset command sent to device-ODIN",
+  "Admin Deleted successfully": "Admin Deleted successfully-ODIN",
+  "Criteria Name is required": "Criteria Name is required-ODIN",
+  "Rebuild command sent to device": "Rebuild command sent to device-ODIN",
+  "Simultaneous Setting Updated": "Simultaneous Setting Updated-ODIN",
+  "Phone is deleted": "Phone is deleted-ODIN"
 }
