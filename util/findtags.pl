@@ -16,7 +16,7 @@ my $topdirname = '/Users/kenburcham/code/odinweb/src/components/system/*';
 my $topdirname = '/Users/kenburcham/code/odinweb/src/components/service-providers/*';
 my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/users/*';
-# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
 
 # opendir(DIR, $dirname) or die $!;
 my %errors = ();
@@ -40,30 +40,30 @@ sub getTags {
       #    $errors{$3} = $3;
       # }
 
-      # # # UiFormField labels
-      # while (/UiFormField(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-      #    $common{$3} = $3;
-      # }
-      # #
-      # # # UiInputCheckbox labels
-      # while (/<UiInputCheckbox(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-      #    $common{$3} = $3;
-      # }
-      # #
-      # # # UiSections
-      # while (/<UiSection(.*?)title\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-      #    $common{$3} = $3;
-      # }
-      # #
-      # # # UiListItems
-      # while (/<UiListItem(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
-      #    $common{$3} = $3;
-      # }
-      # #
-      # # # titles that were missed
-      # while (/title\s?=\s?("|'|{`)(.*?)("|'|`})/g) {
-      #    $common{$2} = $2;
-      # }
+      # # UiFormField labels
+      while (/UiFormField(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+         $common{$3} = $3;
+      }
+      #
+      # # UiInputCheckbox labels
+      while (/<UiInputCheckbox(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+         $common{$3} = $3;
+      }
+      #
+      # # UiSections
+      while (/<UiSection(.*?)title\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+         $common{$3} = $3;
+      }
+      #
+      # # UiListItems
+      while (/<UiListItem(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
+         $common{$3} = $3;
+      }
+      #
+      # # titles that were missed
+      while (/title\s?=\s?("|'|{`)(.*?)("|'|`})/g) {
+         $common{$2} = $2;
+      }
       # #
       # # # labels on their own line so also missed
       # while (/^\s*label\s?=\s?("|'|{`)(.*)("|'|`})/g) {
@@ -97,9 +97,9 @@ sub getTags {
 
       #
       #label: 'Session Admission'
-      while (/^\s*label\s?:\s*'(.*?)'/gm) {
-         $group{$1} = $1;
-      }
+      # while (/^\s*label\s?:\s*'(.*?)'/gm) {
+      #    $group{$1} = $1;
+      # }
 
       #other things to do
 
