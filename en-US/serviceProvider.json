@@ -129,6 +129,16 @@
   "Holiday": "Holiday-ODIN",
   "Time": "Time-ODIN",
   "No file selected": "No file selected-ODIN",
-  "Edit userId": "Edit {{userId}}-ODIN"
-
+  "Edit userId": "Edit {{userId}}-ODIN",
+  "Policies": "Policies-ODIN",
+  "Admin": "Admin-ODIN",
+  "CallingLineId Number": "CallingLineId Number-ODIN",
+  "PhoneNumber Extension": "PhoneNumber Extension-ODIN",
+  "Session Admission": "Session Admission-ODIN",
+  "Web Branding": "Web Branding-ODIN",
+  "Office Zone": "Office Zone-ODIN",
+  "Communication Barring": "Communication Barring-ODIN",
+  "Number Activation": "Number Activation-ODIN",
+  "Dialable CallerID": "Dialable CallerID-ODIN",
+  "Id": "Id-ODIN"
 }
