@@ -349,5 +349,22 @@
   "Outside Group": "Outside Group-ODIN",
   "Include Trunk Identity for Calls from Trunk Group": "Include Trunk Identity for Calls from Trunk Group-ODIN",
   "Selected": "Selected-ODIN",
-  "Premium ServicesI": "Premium ServicesI-ODIN"
+  "Premium ServicesI": "Premium ServicesI-ODIN",
+  "UserID": "UserID-ODIN",
+  "Speed Code 3": "Speed Code 3-ODIN",
+  "Speed Code 8": "Speed Code 8-ODIN",
+  "Reset All Phones": "Reset All Phones-ODIN",
+  "Speed Code 2": "Speed Code 2-ODIN",
+  "Speed Code 7": "Speed Code 7-ODIN",
+  "Maximum Extension Length": "Maximum Extension Length-ODIN",
+  "Click the delete button to permanently remove this Group.": "Click the delete button to permanently remove this Group.-ODIN",
+  "Default Extension Length": "Default Extension Length-ODIN",
+  "Allocated Ports can not be more than allocatedPorts long!": "Allocated Ports can not be more than allocatedPorts long!-ODIN",
+  "Minimum Extension Length": "Minimum Extension Length-ODIN",
+  "Rebuild then Reset": "Rebuild then Reset-ODIN",
+  "Speed Code 6": "Speed Code 6-ODIN",
+  "Speed Code 4": "Speed Code 4-ODIN",
+  "Rebuild All Files": "Rebuild All Files-ODIN",
+  "Speed Code 9": "Speed Code 9-ODIN",
+  "Speed Code 5": "Speed Code 5-ODIN"
 }

@@ -155,5 +155,16 @@
   "Allocated to Groups": "Allocated to Groups-ODIN",
   "Quantity": "Quantity-ODIN",
   "isEnterprise": "isEnterprise-ODIN",
-  "Available": "Available-ODIN"
+  "Available": "Available-ODIN",
+  "Alternate": "Alternate-ODIN",
+  "Delete Service Provider permissions access denied.": "Delete Service Provider permissions access denied.-ODIN",
+  "Use Service domain": "Use Service domain-ODIN",
+  "Primary": "Primary-ODIN",
+  "Click the delete button to permanently remove this Service Provider / Enterprise.": "Click the delete button to permanently remove this Service Provider / Enterprise.-ODIN",
+  "Bulk Webex Modify Subscriber": "Bulk Webex Modify Subscriber-ODIN",
+  "Use Messaging Server": "Use Messaging Server-ODIN",
+  "WebEx User Data": "WebEx User Data-ODIN",
+  "Bulk Webex Verify User Subscriber Email": "Bulk Webex Verify User Subscriber Email-ODIN",
+  "Bulk Webex Verify User People Email": "Bulk Webex Verify User People Email-ODIN",
+  "Use Reseller IM&P ID setting": "Use Reseller IM&P ID setting-ODIN"
 }
