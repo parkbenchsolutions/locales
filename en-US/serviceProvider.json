@@ -166,5 +166,16 @@
   "WebEx User Data": "WebEx User Data-ODIN",
   "Bulk Webex Verify User Subscriber Email": "Bulk Webex Verify User Subscriber Email-ODIN",
   "Bulk Webex Verify User People Email": "Bulk Webex Verify User People Email-ODIN",
-  "Use Reseller IM&P ID setting": "Use Reseller IM&P ID setting-ODIN"
+  "Use Reseller IM&P ID setting": "Use Reseller IM&P ID setting-ODIN",
+  "name": "name-ODIN",
+  "Max Incoming Calls": "Max Incoming Calls-ODIN",
+  "Trunk Group Max Active": "Trunk Group Max Active-ODIN",
+  "Max Outgoing Calls": "Max Outgoing Calls-ODIN",
+  "Bursting Enabled": "Bursting Enabled-ODIN",
+  "Alternate Code": "Alternate Code-ODIN",
+  "Main Code": "Main Code-ODIN",
+  "Domain Name": "Domain Name-ODIN",
+  "Are you sure you want to make this service default?": "Are you sure you want to make this service default?-ODIN",
+  "Unassigned": "Unassigned-ODIN",
+  "Phone List Lookup": "Phone List Lookup-ODIN"
 }

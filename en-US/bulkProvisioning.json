@@ -254,5 +254,8 @@
   "Remove User Services": "Remove User Services-ODIN",
   "Please enter number or ranges on separate line": "Please enter number or ranges on separate line-ODIN",
   "Use E164 format to specify country code different from default.": "Use E164 format to specify country code different from default.-ODIN",
-  "You may use tags to dynamically construct your user IDs.": "You may use tags to dynamically construct your user IDs.-ODIN"
+  "You may use tags to dynamically construct your user IDs.": "You may use tags to dynamically construct your user IDs.-ODIN",
+  "Pending": "Pending-ODIN",
+  "Completed": "Completed-ODIN",
+  "All": "All-ODIN"
 }
