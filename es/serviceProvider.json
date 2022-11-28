@@ -1,6 +1,6 @@
 {
   "Add New module": "Añadir Nuevo {{module}}",
-  "Warning: You are about to forward excess calls for this trunk to another phone number whenever this trunk has reached capacity. Please ensure the phone number is valid and can be dialled successfully from this trunk. Forwarding calls to a number that is not reachable from the trunk will result in callers being presented a disconnection message. Please note additional call charges may apply for forwarded calls.": "Advertencia está a punto de desviar el exceso de llamadas de esta troncal a otro número de teléfono cuando esta troncal haya alcanzado su capacidad. Asegúrese de que el número de teléfono sea válido y se pueda marcar con éxito desde este troncal. El desvío de llamadas a un número al que no se puede acceder desde la troncal dará como resultado que las personas que llaman reciban un mensaje de desconexión. Tenga en cuenta que se pueden aplicar cargos de llamadas adicionales para las llamadas desviadas".,
+  "Warning: You are about to forward excess calls for this trunk to another phone number whenever this trunk has reached capacity. Please ensure the phone number is valid and can be dialled successfully from this trunk. Forwarding calls to a number that is not reachable from the trunk will result in callers being presented a disconnection message. Please note additional call charges may apply for forwarded calls.": "Advertencia está a punto de desviar el exceso de llamadas de esta troncal a otro número de teléfono cuando esta troncal haya alcanzado su capacidad. Asegúrese de que el número de teléfono sea válido y se pueda marcar con éxito desde este troncal. El desvío de llamadas a un número al que no se puede acceder desde la troncal dará como resultado que las personas que llaman reciban un mensaje de desconexión. Tenga en cuenta que se pueden aplicar cargos de llamadas adicionales para las llamadas desviadas",
   "Group Name": "Nombre del Grupo",
   "Name": "Nombre",
   "Code": "Código",
@@ -105,5 +105,5 @@
   "Media": "Medios",
   "Translation and Routing": "Traducción Y Enrutamiento",
   "Dialable Caller Id": "Identificador de Llamada Marcable",
-  "Phone List Lookup": "Búsqueda de Lista de Teléfonos",
+  "Phone List Lookup": "Búsqueda de Lista de Teléfonos"
 }

@@ -143,7 +143,7 @@
   "Select Device device": "Seleccionar Dispositivo {{device}}",
   "Add User Services selectedService": "Añadir Servicios de Usuario: {{selectedService}}",
   "Add Service Packs selectedPacks": "Añadir Paquetes de Servicio: {{selectedPacks}}",
-  "Required Licenses: showLicense / endPointCount": "Licencias Requeridas: {{showLicense}} / {{endPointCount}},
+  "Required Licenses: showLicense / endPointCount": "Licencias Requeridas: {{showLicense}} / {{endPointCount}}",
   "Number of Users (max: maxUserLimit)": "Número de Usuarios (Máx: {{maxUserLimit}})",
   "Edit deviceName": "Editar {{deviceName}}",
   "Add, Remove, or Replace User Services countServices": "Agregar, Quitar O Reemplazar Servicios de Usuario {{countServices}}",
@@ -155,5 +155,5 @@
   "Errors": "Errores",
   "Import Queued: id": "Cola Importada: {id}",
   "You may use tags to dynamically construct your user IDs": "Puede usar Etiquetas para Construir Dinámicamente las Identificaciones de Usuario",
-  "You may use tags to dynamically construct your email template": "Puede usar Etiquetas para Construir Dinámicamente su plantilla de correo electronico",
+  "You may use tags to dynamically construct your email template": "Puede usar Etiquetas para Construir Dinámicamente su plantilla de correo electronico"
 }

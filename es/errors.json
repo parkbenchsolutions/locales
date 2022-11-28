@@ -155,7 +155,7 @@
   "Alternate Recall User is a required field": "Usuario de Recuperación Alternativo es un Campo Obligatorio",
   "Call Park Group Name is a required field": "El Nombre del Grupo de Estacionamiento de Llamadas es un Campo Obligatorio",
   "Group Deleted": "Grupo eliminado",
-  "Recall Timer: Value must be >= 30 and <= 600": "Temporizador de Recuperación,
+  "Recall Timer: Value must be >= 30 and <= 600": "Temporizador de Recuperación",
   "Group Created": "Grupo Creado",
   "Collaborate Room Maximum Participants is a required field": "El Número Máximo de Participantes de la Sala de Colaboración es un Campo Obligatorio",
   "Bridge Deleted": "Salón de Conferencias eliminado",
@@ -368,6 +368,5 @@
   "Data Error: error": "Error de Datos: {{error}}",
   "Error: error": "Error de Datos: {{error}}",
   "Error in type": "Error en {{type}}",
-  "type is successfully created": "{{type}} se creó con Éxito",
-
+  "type is successfully created": "{{type}} se creó con Éxito"
 }

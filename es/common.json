@@ -227,7 +227,6 @@
  "Policies": "Políticas",
  "Edit Policies": "Editar Políticas",
  "Type": "Tipo",
- "Number of Digits": "Número de Dígitos",
  "Allow Local and Toll-Free Calls without Account/Authorization Code": "Permitir Llamadas Locales Y Gratuitas Sin Cuenta/Código de Autorización",
  "Media Type": "Tipo de Medio",
  "Size": "Tamaño",
@@ -690,7 +689,6 @@
  "Edit Audio": "Editar Sonido",
  "Edit Internal Audio": "Editar Audio Interno",
  "Capacity Management": "Gestión de la Capacidad",
-: ,
  "Allow Collect Calls": "Permitir Llamadas Por Cobrar",
  "Allow Calls From Within Group": "Permitir Llamadas Desde Dentro del Grupo",
  "Password": "Contraseña",
@@ -1354,7 +1352,7 @@
  "Using usingLevel Media Policy": "Uso de la Política de Medios {{usingLevel}}",
  "Use levelType Media Policy ( Using usingLevel Media Policy )": "Usar la Política de Medios {{levelType}} (Usando la Política de Medios {{usingLevel}})",
  "Use levelType Phone List Lookup Policy": "Usar Política de Búsqueda de Lista de Teléfonos {{levelType}}",
- "Use levelType Phone List Lookup Policy (Using usingLevel Phone List Lookup Policy)": "Usar la Política de Búsqueda de la Lista de Teléfonos de {{levelType}} (Usando la Política de Búsqueda de la Lista de Teléfonos {{usingLevel}}l)",
- "Use levelType Translation and Routing Policy": "Usar Política de Traslación y Enrutamiento {{levelType}}",
+ "Use levelType Phone List Lookup Policy (Using usingLevel Phone List Lookup Policy)": "Usar la Política de Búsqueda de la Lista de Teléfonos de {{levelType}} (Usando la Política de Búsqueda de la Lista de Teléfonos {{usingLevel}})",
+ "Use levelType Translation and Routing Policy": "Usar Política de Traslación y Enrutamiento {{levelType}}"
 
 }
