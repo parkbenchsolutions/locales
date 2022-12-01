@@ -2182,5 +2182,13 @@
   "Password Reset Only": "Password Reset Only-ODIN",
   "Normal": "Normal-ODIN",
   "Yes I'm sure": "Yes I'm sure-ODIN",
-  "Edit Service Provider Call Processing Policy": "Edit Service Provider Call Processing Policy-ODIN"
+  "Edit Service Provider Call Processing Policy": "Edit Service Provider Call Processing Policy-ODIN",
+  "Error: uploaded filename (filename) must match the current namespace (namespace.csv)": "Error: uploaded filename ({{filename}}) must match the current namespace ({{namespace}}.csv)-ODIN",
+  "Download Translations": "Download Translations-ODIN",
+  "Upload Translations": "Upload Translations-ODIN",
+  "Menu Items": "Menu Items-ODIN",
+  "Bulk Provisioning": "Bulk Provisioning-ODIN",
+  "Common": "Common-ODIN",
+  "Translation": "Translation-ODIN"
+
 }
