@@ -366,5 +366,21 @@
   "Speed Code 4": "Speed Code 4-ODIN",
   "Rebuild All Files": "Rebuild All Files-ODIN",
   "Speed Code 9": "Speed Code 9-ODIN",
-  "Speed Code 5": "Speed Code 5-ODIN"
+  "Speed Code 5": "Speed Code 5-ODIN",
+  "After Hour Menu": "After Hour Menu-ODIN",
+  "Business Hour Menu": "Business Hour Menu-ODIN",
+  "Holiday Menu": "Holiday Menu-ODIN",
+  "Submenus": "Submenus-ODIN",
+  "Passwords": "Passwords-ODIN",
+  "REPORTING": "REPORTING-ODIN",
+  "Auto Attendant Report": "Auto Attendant Report-ODIN",
+  "Basic Call Records": "Basic Call Records-ODIN",
+  "Premium Call Records": "Premium Call Records-ODIN",
+  "PROVISIONING": "PROVISIONING-ODIN",
+  "Call Policies": "Call Policies-ODIN",
+  "User Service Assignment": "User Service Assignment-ODIN",
+  "User Service Settings": "User Service Settings-ODIN",
+  "Utilities": "Utilities-ODIN",
+  "CALLING PLANS": "CALLING PLANS-ODIN",
+  "Calling Plan": "Calling Plan-ODIN"
 }
