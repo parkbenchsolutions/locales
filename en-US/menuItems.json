@@ -210,5 +210,12 @@
   "Hoteling Guest": "Hoteling Guest-ODIN",
   "Hoteling Host": "Hoteling Host-ODIN",
   "Speed Dial 8": "Speed Dial 8-ODIN",
-  "Voice Messaging User": "Voice Messaging User-ODIN"
+  "Voice Messaging User": "Voice Messaging User-ODIN",
+  "Use Guard Timer": "Use Guard Timer-ODIN",
+  "Use Agent Unavailable Settings": "Use Agent Unavailable Settings-ODIN",
+  "Agent Unavailable Codes": "Agent Unavailable Codes-ODIN",
+  "Service Domain": "Service Domain-ODIN",
+  "Default User Identity IM&P ID": "Default User Identity IM&P ID-ODIN",
+  "Messaging Server": "Messaging Server-ODIN",
+  "Authorization": "Authorization-ODIN"
 }
