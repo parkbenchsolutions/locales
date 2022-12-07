@@ -217,5 +217,8 @@
   "Service Domain": "Service Domain-ODIN",
   "Default User Identity IM&P ID": "Default User Identity IM&P ID-ODIN",
   "Messaging Server": "Messaging Server-ODIN",
-  "Authorization": "Authorization-ODIN"
+  "Authorization": "Authorization-ODIN",
+  "Communication Barring Profiles": "Communication Barring Profiles-ODIN"
+
+
 }

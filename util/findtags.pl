@@ -4,11 +4,11 @@ use strict;
 
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/service-settings/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk/bulk-enterprise-clone';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/audits/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/system/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/autoAttendant/*';
-# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/branding/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/branding';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/call-processing-policy/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/departments/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/events/*';
@@ -17,6 +17,7 @@ my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/service-provider';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/users';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
 
 # opendir(DIR, $dirname) or die $!;
 my %errors = ();
@@ -84,9 +85,9 @@ sub getTags {
       # }
       #
       # # captures the label in the UiTabs (also in specific namespace like 'group'
-      # while (/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/g) {
-      #    $group{$2} = $2;
-      # }
+      while (/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/g) {
+         $group{$2} = $2;
+      }
       #
       # # <p>{t(' paragraphs that have translate
       # while (/<p>\n?.*\{t\(("|'|{`)(.*?)("|'|`}).*\n?<\/p>/g) {
@@ -94,11 +95,11 @@ sub getTags {
       # }
       #
       # #naked wrapped strings (radio buttons, etc.)
-      # while (/\{t\(("|')(.*?)("|')\)\}/g) {
-      # while (/t\(("|')(.*?)("|')\)/g) {
-      while (/^\s*{t\(('|")(.*?)('|")/gm) {
-         $group{$2} = $2;
-      }
+            # while (/\{t\(("|')(.*?)("|')\)\}/g) {
+            # while (/t\(("|')(.*?)("|')\)/g) {
+      # while (/^\s*{t\(('|")(.*?)('|")/gm) {
+      #    $group{$2} = $2;
+      # }
 
 
       #

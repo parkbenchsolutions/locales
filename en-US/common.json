@@ -922,7 +922,7 @@
   "Available Hostnames": "Available Hostnames-ODIN",
   "Selected Hostnames": "Selected Hostnames-ODIN",
   "Global Token Enabled": "Global Token Enabled-ODIN",
-  "Use current WebEx access token across odin instance": "Use current WebEx access token across odin instance-ODIN",
+  "Use current WebEx access token across odin instance": "Use current WebEx access token across Odin instance-ODIN",
   "Company ID": "Company ID-ODIN",
   "Key Number": "Key Number-ODIN",
   "Service Pack Name": "Service Pack Name-ODIN",
@@ -2194,6 +2194,17 @@
   "Common": "Common-ODIN",
   "Translation": "Translation-ODIN",
   "Translations": "Translations-ODIN",
-  "Save Changes": "Save Changes-ODIN"
+  "Save Changes": "Save Changes-ODIN",
+  "Auto Attendant": "Auto Attendant-ODIN",
+  "Admin": "Admin-ODIN",
+  "PhoneNumber Extension": "PhoneNumber Extension-ODIN",
+  "CallingLineId Number": "CallingLineId Number-ODIN",
+  "Session Admission": "Session Admission-ODIN",
+  "Office Zone": "Office Zone-ODIN",
+  "Web Branding": "Web Branding-ODIN",
+  "Number Activation": "Number Activation-ODIN",
+  "Dialable CallerID": "Dialable CallerID",
+  "Enhanced Service": "Enhanced Service-ODIN",
+  "Are you sure you want to delete this Event": "Are you sure you want to delete this Event-ODIN"
 
 }
