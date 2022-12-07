@@ -229,5 +229,6 @@
   "Authorization Code Required": "Authorization Code Required-ODIN",
   "Transfer To First Transfer Number": "Transfer To First Transfer Number-ODIN",
   "Transfer To Second Transfer Number": "Transfer To Second Transfer Number-ODIN",
-  "Transfer To Third Transfer Number": "Transfer To Third Transfer Number-ODIN"
+  "Transfer To Third Transfer Number": "Transfer To Third Transfer Number-ODIN",
+  "Ignore": "Ignore-ODIN"
 }
