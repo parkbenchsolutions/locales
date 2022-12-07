@@ -2192,7 +2192,16 @@
   "Translation": "Translation-ODIN",
   "Translations": "Translations-ODIN",
   "Save Changes": "Save Changes-ODIN",
-  "Auto Attendant": "Auto Attendant-ODIN"
-
+  "Auto Attendant": "Auto Attendant-ODIN",
+  "Admin": "Admin-ODIN",
+  "PhoneNumber Extension": "PhoneNumber Extension-ODIN",
+  "CallingLineId Number": "CallingLineId Number-ODIN",
+  "Session Admission": "Session Admission-ODIN",
+  "Office Zone": "Office Zone-ODIN",
+  "Web Branding": "Web Branding-ODIN",
+  "Number Activation": "Number Activation-ODIN",
+  "Dialable CallerID": "Dialable CallerID",
+  "Enhanced Service": "Enhanced Service-ODIN",
+  "Are you sure you want to delete this Event": "Are you sure you want to delete this Event-ODIN"
 
 }
