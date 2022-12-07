@@ -385,5 +385,6 @@
   "Calling Plan": "Calling Plan-ODIN",
   "Hunt Group Call Policies": "Hunt Group Call Policies-ODIN",
   "Service-assignment": "User Service Assignment-ODIN",
-  "Call-feature-settings": "User Service Settings-ODIN"
+  "Call-feature-settings": "User Service Settings-ODIN",
+  "submenuId Usage" : "{{submenuId}} Usage-ODIN"
 }
