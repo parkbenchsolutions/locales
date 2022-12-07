@@ -406,5 +406,8 @@
   "Criteria Name is required": "Criteria Name is required-ODIN",
   "Rebuild command sent to device": "Rebuild command sent to device-ODIN",
   "Simultaneous Setting Updated": "Simultaneous Setting Updated-ODIN",
-  "Phone is deleted": "Phone is deleted-ODIN"
+  "Phone is deleted": "Phone is deleted-ODIN",
+  "Resources Updated": "Resources Updated-ODIN",
+  "Resources Saved": "Resources Saved-ODIN"
+
 }
