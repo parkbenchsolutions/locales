@@ -230,7 +230,21 @@
   "Users Task": "Users Task-ODIN",
   "Trunk Groups Pilot User": "Trunk Groups Pilot User-ODIN",
   "Users Services Task": "Users Services Task-ODIN",
-  "Sip Authentication Task": "Sip Authentication Task-ODIN"
+  "Sip Authentication Task": "Sip Authentication Task-ODIN",
+  "Service Provider, Group & Device": "Service Provider, Group & Device-ODIN",
+  "Enterprise & Group Trunk": "Enterprise & Group Trunk-ODIN",
+  "User": "User-ODIN",
+  "Service Provider": "Service Provider-ODIN",
+  "Group": "Group-ODIN",
+  "User Count": "User Count-ODIN",
+  "User Id": "User Id-ODIN",
+  "Names": "Names-ODIN",
+  "Device": "Device-ODIN",
+  "Department": "Department-ODIN",
+  "Contacts": "Contacts-ODIN",
+  "Address": "Address-ODIN",
+  "Endpoints": "Endpoints-ODIN"
+
 
 
 }
