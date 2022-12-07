@@ -185,8 +185,9 @@
   "Most Idle": "Most Idle-ODIN",
   "Least Idle": "Least Idle-ODIN",
   "Priority Weighted Routing": "Priority Weighted Routing-ODIN",
-  "Ordered Routing": "Ordered Routing-ODIN"
-
+  "Ordered Routing": "Ordered Routing-ODIN",
+  "Upload Sheet": "Upload Sheet-ODIN",
+  "Delete": "Delete-ODIN"
 
 
 }

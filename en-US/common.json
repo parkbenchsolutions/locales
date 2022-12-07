@@ -2204,6 +2204,13 @@
   "Dialable CallerID": "Dialable CallerID",
   "Enhanced Service": "Enhanced Service-ODIN",
   "Are you sure you want to delete this Event": "Are you sure you want to delete this Event-ODIN",
-  "Bulk": "Bulk-ODIN"
+  "Bulk": "Bulk-ODIN",
+  "Number of Users": "Number of Users-ODIN",
+  "Select Numbers (selected length/userCount)": "Select Numbers (selected {{length}}/{{userCount}})-ODIN",
+  "Numbers numSelected": "Numbers {{numSelected}}-ODIN",
+  "Reset": "Reset-ODIN",
+  "Upload Sheet": "Upload Sheet-ODIN"
+
+
 
 }
