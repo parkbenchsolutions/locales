@@ -662,7 +662,7 @@
   "Enterprise Name": "Enterprise Name-ODIN",
   "Is Enterprise": "Is Enterprise-ODIN",
   "Support Email": "Support Email-ODIN",
-  "Contact Number": "Enterprise Name-ODIN",
+  "Contact Number": "Contact Number-ODIN",
   "Edit Entrance Message": "Edit Entrance Message-ODIN",
   "Edit Estimated Wait Message": "Edit Estimated Wait Message-ODIN",
   "Edit Comfort Message": "Edit Comfort Message-ODIN",
@@ -919,7 +919,7 @@
   "Available Hostnames": "Available Hostnames-ODIN",
   "Selected Hostnames": "Selected Hostnames-ODIN",
   "Global Token Enabled": "Global Token Enabled-ODIN",
-  "Use current WebEx access token across odin instance": "Use current WebEx access token across odin instance-ODIN",
+  "Use current WebEx access token across odin instance": "Use current WebEx access token across Odin instance-ODIN",
   "Company ID": "Company ID-ODIN",
   "Key Number": "Key Number-ODIN",
   "Service Pack Name": "Service Pack Name-ODIN",
@@ -2191,6 +2191,8 @@
   "Common": "Common-ODIN",
   "Translation": "Translation-ODIN",
   "Translations": "Translations-ODIN",
-  "Save Changes": "Save Changes-ODIN"
+  "Save Changes": "Save Changes-ODIN",
+  "Auto Attendant": "Auto Attendant-ODIN"
+
 
 }
