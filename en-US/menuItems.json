@@ -218,7 +218,19 @@
   "Default User Identity IM&P ID": "Default User Identity IM&P ID-ODIN",
   "Messaging Server": "Messaging Server-ODIN",
   "Authorization": "Authorization-ODIN",
-  "Communication Barring Profiles": "Communication Barring Profiles-ODIN"
+  "Communication Barring Profiles": "Communication Barring Profiles-ODIN",
+  "Service Provider Clone Task": "Service Provider Clone Task-ODIN",
+  "Enterprise Trunk Task": "Enterprise Trunk Task-ODIN",
+  "Group Clone Task": "Group Clone Task-ODIN",
+  "Group Services Task": "Group Services Task-ODIN",
+  "Group Call Capacity Task": "Group Call Capacity Task-ODIN",
+  "Group Device Create": "Group Device Create-ODIN",
+  "Group Trunk Task": "Group Trunk Task-ODIN",
+  "Assign Numbers Task": "Assign Numbers Task-ODIN",
+  "Users Task": "Users Task-ODIN",
+  "Trunk Groups Pilot User": "Trunk Groups Pilot User-ODIN",
+  "Users Services Task": "Users Services Task-ODIN",
+  "Sip Authentication Task": "Sip Authentication Task-ODIN"
 
 
 }

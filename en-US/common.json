@@ -215,6 +215,7 @@
   "Default Code On Personal Calls": "Default Code On Personal Calls-ODIN",
   "Default Code On Consecutive Bounces": "Default Code On Consecutive Bounces-ODIN",
   "Default Code On Not Reachable": "Default Code On Not Reachable-ODIN",
+  "Default Code On Not Available": "Default Code On Not Available-ODIN",
   "Edit Call Disposition Code": "Edit Call Disposition Code-ODIN",
   "Add Call Disposition Code": "Add Call Disposition Code-ODIN",
   "Call Center External Reporting Settings": "Call Center External Reporting Settings-ODIN",
@@ -2202,6 +2203,7 @@
   "Number Activation": "Number Activation-ODIN",
   "Dialable CallerID": "Dialable CallerID",
   "Enhanced Service": "Enhanced Service-ODIN",
-  "Are you sure you want to delete this Event": "Are you sure you want to delete this Event-ODIN"
+  "Are you sure you want to delete this Event": "Are you sure you want to delete this Event-ODIN",
+  "Bulk": "Bulk-ODIN"
 
 }
