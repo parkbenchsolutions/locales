@@ -243,8 +243,16 @@
   "Department": "Department-ODIN",
   "Contacts": "Contacts-ODIN",
   "Address": "Address-ODIN",
-  "Endpoints": "Endpoints-ODIN"
+  "Endpoints": "Endpoints-ODIN",
 
-
-
+  "Call Application Policies": "Call Application Policies-ODIN",
+  "Profile": "Profile-ODIN",
+  "COMM BARRING": "COMM BARRING-ODIN",
+  "Call Policies": "Call Policies-ODIN",
+  "UTILITIES": "UTILITIES-ODIN",
+  "Assign Profile": "Assign Profile-ODIN",
+  "Feature Access Codes": "Feature Access Codes-ODIN",
+[2022-12-08 17:47:15] local.DEBUG: common:  "Edit Profile serviceUserId": "Edit Profile serviceUserId-ODIN",
+  "Basic Call Records": "Basic Call Records-ODIN",
+  "REPORTING": "REPORTING-ODIN"
 }
