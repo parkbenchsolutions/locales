@@ -132,6 +132,7 @@
   "Call Processing Policy": "Call Processing Policy-ODIN",
   "Enterprise Voice VPN": "Enterprise Voice VPN-ODIN",
   "Schedule": "Schedule-ODIN",
+  "Schedules": "Schedules-ODIN",
   "Password Rules": "Password Rules-ODIN",
   "Dial Plan Policy": "Dial Plan Policy-ODIN",
   "Delete": "Delete-ODIN",
@@ -2210,7 +2211,4 @@
   "Numbers numSelected": "Numbers {{numSelected}}-ODIN",
   "Reset": "Reset-ODIN",
   "Upload Sheet": "Upload Sheet-ODIN"
-
-
-
 }
