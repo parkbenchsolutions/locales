@@ -218,6 +218,7 @@
   "Default Code On Personal Calls": "Default Code On Personal Calls-ODIN",
   "Default Code On Consecutive Bounces": "Default Code On Consecutive Bounces-ODIN",
   "Default Code On Not Reachable": "Default Code On Not Reachable-ODIN",
+  "Default Code On Not Available": "Default Code On Not Available-ODIN",
   "Edit Call Disposition Code": "Edit Call Disposition Code-ODIN",
   "Add Call Disposition Code": "Add Call Disposition Code-ODIN",
   "Call Center External Reporting Settings": "Call Center External Reporting Settings-ODIN",
@@ -2219,6 +2220,11 @@
   "All Calls": "All Calls-ODIN",
   "Originating Identity": "Originating Identity-ODIN",
   "Redirecting User Identity For External Redirections": "Redirecting User Identity For External Redirections-ODIN",
-  "Redirecting User Identity For All Redirections": "Redirecting User Identity For All Redirections-ODIN"
-
+  "Redirecting User Identity For All Redirections": "Redirecting User Identity For All Redirections-ODIN",
+  "Bulk": "Bulk-ODIN",
+  "Number of Users": "Number of Users-ODIN",
+  "Select Numbers (selected length/userCount)": "Select Numbers (selected {{length}}/{{userCount}})-ODIN",
+  "Numbers numSelected": "Numbers {{numSelected}}-ODIN",
+  "Reset": "Reset-ODIN",
+  "Upload Sheet": "Upload Sheet-ODIN"
 }

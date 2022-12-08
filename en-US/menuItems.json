@@ -219,6 +219,32 @@
   "Messaging Server": "Messaging Server-ODIN",
   "Authorization": "Authorization-ODIN",
   "Communication Barring Profiles": "Communication Barring Profiles-ODIN",
-  "Profile": "Profile-ODIN"
+  "Profile": "Profile-ODIN",
+  "Service Provider Clone Task": "Service Provider Clone Task-ODIN",
+  "Enterprise Trunk Task": "Enterprise Trunk Task-ODIN",
+  "Group Clone Task": "Group Clone Task-ODIN",
+  "Group Services Task": "Group Services Task-ODIN",
+  "Group Call Capacity Task": "Group Call Capacity Task-ODIN",
+  "Group Device Create": "Group Device Create-ODIN",
+  "Group Trunk Task": "Group Trunk Task-ODIN",
+  "Assign Numbers Task": "Assign Numbers Task-ODIN",
+  "Users Task": "Users Task-ODIN",
+  "Trunk Groups Pilot User": "Trunk Groups Pilot User-ODIN",
+  "Users Services Task": "Users Services Task-ODIN",
+  "Sip Authentication Task": "Sip Authentication Task-ODIN",
+  "Service Provider, Group & Device": "Service Provider, Group & Device-ODIN",
+  "Enterprise & Group Trunk": "Enterprise & Group Trunk-ODIN",
+  "User": "User-ODIN",
+  "Service Provider": "Service Provider-ODIN",
+  "Group": "Group-ODIN",
+  "User Count": "User Count-ODIN",
+  "User Id": "User Id-ODIN",
+  "Names": "Names-ODIN",
+  "Device": "Device-ODIN",
+  "Department": "Department-ODIN",
+  "Contacts": "Contacts-ODIN",
+  "Address": "Address-ODIN",
+  "Endpoints": "Endpoints-ODIN"
+
 
 }

@@ -386,5 +386,8 @@
   "Hunt Group Call Policies": "Hunt Group Call Policies-ODIN",
   "Service-assignment": "User Service Assignment-ODIN",
   "Call-feature-settings": "User Service Settings-ODIN",
-  "submenuId Usage" : "{{submenuId}} Usage-ODIN"
+  "submenuId Usage" : "{{submenuId}} Usage-ODIN",
+  "Phone Numbers": "Phone Numbers-ODIN",
+  "Upload Sheet": "Upload Sheet-ODIN"
+  
 }
