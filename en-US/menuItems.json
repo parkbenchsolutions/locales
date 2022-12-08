@@ -23,6 +23,7 @@
   "Settings": "Settings-ODIN",
   "Event History": "Event History-ODIN",
   "Branding": "Branding-ODIN",
+  "Hostnames": "Hostnames-ODIN",
   "Support": "Support-ODIN",
   "Users": "Users-ODIN",
   "Schedules": "Schedules-ODIN",
@@ -244,7 +245,4 @@
   "Contacts": "Contacts-ODIN",
   "Address": "Address-ODIN",
   "Endpoints": "Endpoints-ODIN"
-
-
-
 }
