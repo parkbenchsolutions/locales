@@ -388,6 +388,14 @@
   "Call-feature-settings": "User Service Settings-ODIN",
   "submenuId Usage" : "{{submenuId}} Usage-ODIN",
   "Phone Numbers": "Phone Numbers-ODIN",
-  "Upload Sheet": "Upload Sheet-ODIN"
+  "Upload Sheet": "Upload Sheet-ODIN",
+  "Guest Association": "Guest Association-ODIN",
+  "Number and Device": "Number and Device-ODIN",
+  "Routing Policies": "Routing Policies-ODIN",
+  "Service Assignment": "Service Assignment-ODIN",
+  "Incoming Calling Plan": "Incoming Calling Plan-ODIN",
+  "number-and-device": "Number and Device-ODIN",
+  "routing-policies": "Routing Policies-ODIN",
+  "Enterprise" : "Enterprise-ODIN"
   
 }
