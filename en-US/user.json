@@ -219,5 +219,7 @@
   "Are you sure you want to unset Speed Code speedCode phoneNumber?": "Are you sure you want to unset Speed Code speedCode phoneNumber?-ODIN",
   "Speed Code speedCode": "Speed Code {{speedCode}}-ODIN",
   "Are you sure you want to select this Viewable Service Pack?": "Are you sure you want to select this Viewable Service Pack?-ODIN",
-  "Are you sure you want to Remove this Alternate User Id?": "Are you sure you want to Remove this Alternate User Id?-ODIN"
+  "Are you sure you want to Remove this Alternate User Id?": "Are you sure you want to Remove this Alternate User Id?-ODIN",
+  "Call Center": "Call Center-ODIN",
+  "Call Centers": "Call Centers-ODIN"
 }
