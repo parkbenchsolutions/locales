@@ -260,5 +260,9 @@
   "Submenus": "Submenus-ODIN",
   "Calling Plan": "Calling Plan-ODIN",
   "Originators": "Originators-ODIN",
-  "Target": "Target-ODIN"
+  "Target": "Target-ODIN",
+  "Guest Association": "Guest Association-ODIN",
+  "Number and Device": "Number and Device-ODIN",
+  "Routing Policies": "Routing Policies-ODIN",
+  "Service Assignment": "Service Assignment-ODIN"
 }
