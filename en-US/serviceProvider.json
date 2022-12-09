@@ -177,5 +177,17 @@
   "Domain Name": "Domain Name-ODIN",
   "Are you sure you want to make this service default?": "Are you sure you want to make this service default?-ODIN",
   "Unassigned": "Unassigned-ODIN",
-  "Phone List Lookup": "Phone List Lookup-ODIN"
+  "Phone List Lookup": "Phone List Lookup-ODIN",
+  "None": "None-ODIN",
+  "Forward": "Forward-ODIN",
+  "Ordered Load Balancing": "Ordered Load Balancing-ODIN",
+  "Overflow": "Overflow-ODIN",
+  "Most Idle": "Most Idle-ODIN",
+  "Least Idle": "Least Idle-ODIN",
+  "Priority Weighted Routing": "Priority Weighted Routing-ODIN",
+  "Ordered Routing": "Ordered Routing-ODIN",
+  "Upload Sheet": "Upload Sheet-ODIN",
+  "Delete": "Delete-ODIN"
+
+
 }

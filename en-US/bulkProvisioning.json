@@ -257,5 +257,19 @@
   "You may use tags to dynamically construct your user IDs.": "You may use tags to dynamically construct your user IDs.-ODIN",
   "Pending": "Pending-ODIN",
   "Completed": "Completed-ODIN",
-  "All": "All-ODIN"
+  "All": "All-ODIN",
+  "Tag": "Tag-ODIN",
+  "Example": "Example-ODIN",
+  "Select Device Type": "Select Device Type-ODIN",
+  "Service Provider Id": "Service Provider Id-ODIN",
+  "Reseller": "Reseller-ODIN",
+  "Network Class Of Service": "Network Class Of Service-ODIN",
+  "Extension Length": "Extension Length-ODIN",
+  "Group Policy": "Group Policy-ODIN",
+  "Schedule": "Schedule-ODIN",
+  "Departments": "Departments-ODIN",
+  "Outgoing Calling Plan": "Outgoing Calling Plan-ODIN",
+  "Routing Profile": "Routing Profile-ODIN",
+  "New Endpoint": "New Endpoint-ODIN"
+
 }
