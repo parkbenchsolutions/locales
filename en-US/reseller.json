@@ -3,5 +3,6 @@
   "Are you sure you want to Remove this Reseller?": "Are you sure you want to Remove this Reseller?-ODIN",
   "New Admin": "New Admin-ODIN",
   "Edit admin": "Edit {{admin}}-ODIN",
-  "Edit module": "Edit {{module}}-ODIN"
+  "Edit module": "Edit {{module}}-ODIN",
+  "Click the delete button to permanently remove this Reseller.": "Click the delete button to permanently remove this Reseller.-ODIN"
 }
