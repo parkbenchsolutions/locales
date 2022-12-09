@@ -253,5 +253,10 @@
   "Assign Profile": "Assign Profile-ODIN",
   "Feature Access Codes": "Feature Access Codes-ODIN",
   "Basic Call Records": "Basic Call Records-ODIN",
-  "REPORTING": "REPORTING-ODIN"
+  "REPORTING": "REPORTING-ODIN",
+  "After Hour Menu": "After Hour Menu-ODIN",
+  "Business Hour Menu": "Business Hour Menu-ODIN",
+  "Holiday Menu": "Holiday Menu-ODIN",
+  "Submenus": "Submenus-ODIN",
+  "Calling Plan": "Calling Plan-ODIN"
 }
