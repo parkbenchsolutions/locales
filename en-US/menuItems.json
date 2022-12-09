@@ -253,5 +253,22 @@
   "Assign Profile": "Assign Profile-ODIN",
   "Feature Access Codes": "Feature Access Codes-ODIN",
   "Basic Call Records": "Basic Call Records-ODIN",
-  "REPORTING": "REPORTING-ODIN"
+  "REPORTING": "REPORTING-ODIN",
+  "After Hour Menu": "After Hour Menu-ODIN",
+  "Business Hour Menu": "Business Hour Menu-ODIN",
+  "Holiday Menu": "Holiday Menu-ODIN",
+  "Submenus": "Submenus-ODIN",
+  "Calling Plan": "Calling Plan-ODIN",
+  "Originators": "Originators-ODIN",
+  "Target": "Target-ODIN",
+  "Guest Association": "Guest Association-ODIN",
+  "Number and Device": "Number and Device-ODIN",
+  "Routing Policies": "Routing Policies-ODIN",
+  "Service Assignment": "Service Assignment-ODIN",
+  "Agents": "Agents-ODIN",
+  "Call Capacity": "Call Capacity-ODIN",
+  "Call Forward": "Call Forward-ODIN",
+  "Stateful Rerouting": "Stateful Rerouting-ODIN",
+  "Unreachable": "Unreachable-ODIN",
+  "Users Hosted": "Users Hosted-ODIN"
 }

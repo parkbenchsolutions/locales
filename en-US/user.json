@@ -26,7 +26,7 @@
   "Email": "Email-ODIN",
   "Address": "Address-ODIN",
   "Password Changed": "Password Changed",
-  "Password expires never": "Password never expires",
+  "Password expires never": "Password expires never-ODIN",
   "Password expires today": "Password expires today",
   "Password expired": "Password expired {{days}} ago",
   "Password expires days": "Password expires in {{days}}",
@@ -220,6 +220,17 @@
   "Speed Code speedCode": "Speed Code {{speedCode}}-ODIN",
   "Are you sure you want to select this Viewable Service Pack?": "Are you sure you want to select this Viewable Service Pack?-ODIN",
   "Are you sure you want to Remove this Alternate User Id?": "Are you sure you want to Remove this Alternate User Id?-ODIN",
+  "No Placed Calls Found": "No Placed Calls Found-ODIN",
+  "No Received Calls Found": "No Received Calls Found-ODIN",
+  "No Missed Calls Found": "No Missed Calls Found-ODIN",
+  "Allow": "Allow-ODIN",
+  "Allow Only If Redirected From Another User": "Allow Only If Redirected From Another User-ODIN",
+  "Disallow": "Disallow-ODIN",
+  "Authorization Code Required": "Authorization Code Required-ODIN",
+  "Transfer To First Transfer Number": "Transfer To First Transfer Number-ODIN",
+  "Transfer To Second Transfer Number": "Transfer To Second Transfer Number-ODIN",
+  "Transfer To Third Transfer Number": "Transfer To Third Transfer Number-ODIN",
+  "Ignore": "Ignore-ODIN"
   "Call Center": "Call Center-ODIN",
   "Call Centers": "Call Centers-ODIN"
 }
