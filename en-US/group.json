@@ -386,7 +386,7 @@
   "Hunt Group Call Policies": "Hunt Group Call Policies-ODIN",
   "Service-assignment": "User Service Assignment-ODIN",
   "Call-feature-settings": "User Service Settings-ODIN",
-  "submenuId Usage" : "{{submenuId}} Usage-ODIN",
+  "submenuId Usage": "{{submenuId}} Usage-ODIN",
   "Phone Numbers": "Phone Numbers-ODIN",
   "Upload Sheet": "Upload Sheet-ODIN",
   "Guest Association": "Guest Association-ODIN",
@@ -396,6 +396,11 @@
   "Incoming Calling Plan": "Incoming Calling Plan-ODIN",
   "Number-and-device": "Number and Device-ODIN",
   "Routing-policies": "Routing Policies-ODIN",
-  "Enterprise" : "Enterprise-ODIN"
-  
+  "Enterprise": "Enterprise-ODIN",
+  "Hunt Group": "Hunt Group-ODIN",
+  "Agents": "Agents-ODIN",
+  "Example CSV File": "Example CSV File-ODIN",
+  "System": "System-ODIN",
+  "External": "External-ODIN",
+  "SETTINGS": "SETTINGS-ODIN"
 }

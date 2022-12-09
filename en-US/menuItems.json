@@ -264,5 +264,11 @@
   "Guest Association": "Guest Association-ODIN",
   "Number and Device": "Number and Device-ODIN",
   "Routing Policies": "Routing Policies-ODIN",
-  "Service Assignment": "Service Assignment-ODIN"
+  "Service Assignment": "Service Assignment-ODIN",
+  "Agents": "Agents-ODIN",
+  "Call Capacity": "Call Capacity-ODIN",
+  "Call Forward": "Call Forward-ODIN",
+  "Stateful Rerouting": "Stateful Rerouting-ODIN",
+  "Unreachable": "Unreachable-ODIN",
+  "Users Hosted": "Users Hosted-ODIN"
 }
