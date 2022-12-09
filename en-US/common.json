@@ -106,7 +106,7 @@
   "First": "First-ODIN",
   "Second": "Second-ODIN",
   "Third": "Third-ODIN",
-  "Fourth":"Fourth-ODIN",
+  "Fourth": "Fourth-ODIN",
   "Last": "Last-ODIN",
   "Phone": "Phone-ODIN",
   "Service Provider": "Service Provider-ODIN",
@@ -2376,5 +2376,6 @@
   "UTILITIES": "UTILITIES-ODIN",
   "Assign Profile": "Assign Profile-ODIN",
   "Basic Call Records": "Basic Call Records-ODIN",
+  "System DN": "System DN-ODIN",
   "REPORTING": "REPORTING-ODIN"
 }
