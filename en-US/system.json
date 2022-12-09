@@ -240,7 +240,7 @@
   "Cluster Host": "Cluster Host-ODIN",
   "Active": "Active-ODIN",
   "Select Callback Type": "Select Callback Type-ODIN",
-  "Odin will connect to your XSP and fetch a pre-authenticated cookie. odin will append /new_session.jsp to the end of the URL you provide.": "'Odin will connect to your XSP and fetch a pre-authenticated cookie. odin will append /new_session.jsp to the end of the URL you provide.-ODIN",
+  "Odin will connect to your XSP and fetch a pre-authenticated cookie. odin will append /new_session.jsp to the end of the URL you provide.": "Odin will connect to your XSP and fetch a pre-authenticated cookie. odin will append /new_session.jsp to the end of the URL you provide.-ODIN",
   "Odin will create App Client Launcher links. For the cookie to work, this URL needs to be a subdomain on the same domain as your odin instance.": "Odin will create App Client Launcher links. For the cookie to work, this URL needs to be a subdomain on the same domain as your odin instance.-ODIN",
   "Add Surgemail Endpoint Settings": "Add Surgemail Endpoint Settings-ODIN",
   "Edit Surgemail Endpoint Settings": "Edit Surgemail Endpoint Settings-ODIN",

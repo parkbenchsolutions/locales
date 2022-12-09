@@ -23,6 +23,7 @@
   "Settings": "Settings-ODIN",
   "Event History": "Event History-ODIN",
   "Branding": "Branding-ODIN",
+  "Hostnames": "Hostnames-ODIN",
   "Support": "Support-ODIN",
   "Users": "Users-ODIN",
   "Schedules": "Schedules-ODIN",
@@ -219,7 +220,6 @@
   "Messaging Server": "Messaging Server-ODIN",
   "Authorization": "Authorization-ODIN",
   "Communication Barring Profiles": "Communication Barring Profiles-ODIN",
-  "Profile": "Profile-ODIN",
   "Service Provider Clone Task": "Service Provider Clone Task-ODIN",
   "Enterprise Trunk Task": "Enterprise Trunk Task-ODIN",
   "Group Clone Task": "Group Clone Task-ODIN",
@@ -244,7 +244,14 @@
   "Department": "Department-ODIN",
   "Contacts": "Contacts-ODIN",
   "Address": "Address-ODIN",
-  "Endpoints": "Endpoints-ODIN"
-
-
+  "Endpoints": "Endpoints-ODIN",
+  "Call Application Policies": "Call Application Policies-ODIN",
+  "Profile": "Profile-ODIN",
+  "COMM BARRING": "COMM BARRING-ODIN",
+  "Call Policies": "Call Policies-ODIN",
+  "UTILITIES": "UTILITIES-ODIN",
+  "Assign Profile": "Assign Profile-ODIN",
+  "Feature Access Codes": "Feature Access Codes-ODIN",
+  "Basic Call Records": "Basic Call Records-ODIN",
+  "REPORTING": "REPORTING-ODIN"
 }

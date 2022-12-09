@@ -135,6 +135,7 @@
   "Call Processing Policy": "Call Processing Policy-ODIN",
   "Enterprise Voice VPN": "Enterprise Voice VPN-ODIN",
   "Schedule": "Schedule-ODIN",
+  "Schedules": "Schedules-ODIN",
   "Password Rules": "Password Rules-ODIN",
   "Dial Plan Policy": "Dial Plan Policy-ODIN",
   "Delete": "Delete-ODIN",
@@ -170,6 +171,7 @@
   "Users": "Users-ODIN",
   "Phone Numbers": "Phone Numbers-ODIN",
   "Groups": "Groups-ODIN",
+  "Meet-Me Conferencing": "Meet-Me Conferencing-ODIN",
   "Alternate User IDs": "Alternate User IDs-ODIN",
   "Profile": "Profile-ODIN",
   "My Account": "My Account-ODIN",
@@ -2226,5 +2228,6 @@
   "Select Numbers (selected length/userCount)": "Select Numbers (selected {{length}}/{{userCount}})-ODIN",
   "Numbers numSelected": "Numbers {{numSelected}}-ODIN",
   "Reset": "Reset-ODIN",
-  "Upload Sheet": "Upload Sheet-ODIN"
+  "Upload Sheet": "Upload Sheet-ODIN",
+  "Edit Profile serviceUserId": "Edit Profile: {{serviceUserId}}-ODIN"
 }
