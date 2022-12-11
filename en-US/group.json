@@ -288,5 +288,13 @@
   "Action": "Action-ODIN",
   "Access Device": "Access Device-ODIN",
   "MAC": "MAC-ODIN",
-  "The announcement file fileName is in incorrect format": "The announcement file {{fileName}} is in incorrect format-ODIN"
+  "The announcement file fileName is in incorrect format": "The announcement file {{fileName}} is in incorrect format-ODIN",
+  "Queue": "Queue-ODIN",
+  "Advanced": "Advanced-ODIN",
+  "Announcement": "Announcement-ODIN",
+  "DNIS": "DNIS-ODIN",
+  "Statistics": "Statistics-ODIN",
+  "Thresholds": "Thresholds-ODIN",
+  "Weighted Call Distribution": "Weighted Call Distribution-ODIN",
+  "CALL CENTER": "CALL CENTER-ODIN"
 }
