@@ -296,5 +296,9 @@
   "Statistics": "Statistics-ODIN",
   "Thresholds": "Thresholds-ODIN",
   "Weighted Call Distribution": "Weighted Call Distribution-ODIN",
-  "CALL CENTER": "CALL CENTER-ODIN"
+  "Current Calls In Queue": "Current Calls In Queue-ODIN",
+  "Longest Waiting Call (seconds)": "Longest Waiting Call (seconds)-ODIN",
+  "Average Estimated Wait Time (seconds)": "Average Estimated Wait Time (seconds)-ODIN",
+  "Average Handling Time (seconds)": "Average Handling Time (seconds)-ODIN",
+  "Average Speed of Answer (seconds)": "Average Speed of Answer (seconds)-ODIN"
 }

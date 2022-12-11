@@ -1448,5 +1448,15 @@
   "Target": "Target-ODIN",
   "Create Users": "Create Users-ODIN",
   "Update User SIP Authentication": "Update User SIP Authentication-ODIN",
-  "Update User Services": "Update User Services-ODIN"
+  "Update User Services": "Update User Services-ODIN",
+  "Queue": "Queue-ODIN",
+  "Advanced": "Advanced-ODIN",
+  "Announcement": "Announcement-ODIN",
+  "DNIS": "DNIS-ODIN",
+  "Statistics": "Statistics-ODIN",
+  "Current Calls In Queue": "Current Calls In Queue-ODIN",
+  "Longest Waiting Call (seconds)": "Longest Waiting Call (seconds)-ODIN",
+  "Average Estimated Wait Time (seconds)": "Average Estimated Wait Time (seconds)-ODIN",
+  "Average Handling Time (seconds)": "Average Handling Time (seconds)-ODIN",
+  "Average Speed of Answer (seconds)": "Average Speed of Answer (seconds)-ODIN"
 }
