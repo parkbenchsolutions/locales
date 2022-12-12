@@ -422,5 +422,7 @@
   "Placed Missed": "Placed Missed-ODIN",
   "Received Missed": "Received Missed-ODIN",
   "Redirect": "Redirect-ODIN",
-  "Other": "Other-ODIN"
+  "Other": "Other-ODIN",
+  "Placed Answered": "Placed Answered-ODIN",
+  "Received Answered": "Received Answered-ODIN"
 }
