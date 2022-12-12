@@ -424,5 +424,12 @@
   "Redirect": "Redirect-ODIN",
   "Other": "Other-ODIN",
   "Placed Answered": "Placed Answered-ODIN",
-  "Received Answered": "Received Answered-ODIN"
+  "Received Answered": "Received Answered-ODIN",
+  "Direction": "Direction-ODIN",
+  "Calling Name": "Calling Name-ODIN",
+  "Answer Indicator": "Answer Indicator-ODIN",
+  "Related Call Id Reason": "Related Call Id Reason-ODIN",
+  "Account Code": "Account Code-ODIN",
+  "Authorization Code": "Authorization Code-ODIN",
+  "User Breakdown": "User Breakdown-ODIN"
 }
