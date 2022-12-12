@@ -106,7 +106,7 @@
   "First": "First-ODIN",
   "Second": "Second-ODIN",
   "Third": "Third-ODIN",
-  "Fourth":"Fourth-ODIN",
+  "Fourth": "Fourth-ODIN",
   "Last": "Last-ODIN",
   "Phone": "Phone-ODIN",
   "Service Provider": "Service Provider-ODIN",
@@ -173,6 +173,7 @@
   "Groups": "Groups-ODIN",
   "Meet-Me Conferencing": "Meet-Me Conferencing-ODIN",
   "Alternate User IDs": "Alternate User IDs-ODIN",
+  "Alternate-users": "Alternate-users-ODIN",
   "Profile": "Profile-ODIN",
   "My Account": "My Account-ODIN",
   "Change Password": "Change Password-ODIN",
@@ -546,6 +547,7 @@
   "Device Details": "Device Details-ODIN",
   "Device Tags": "Device Tags-ODIN",
   "Device Users": "Device Users-ODIN",
+  "Speed Dial 100": "Speed Dial 100-ODIN",
   "Edit Speed Dial 100": "Edit Speed Dial 100-ODIN",
   "Edit Feature Access Code level": "Edit Feature Access Code level-ODIN",
   "Inbound Announcement": "Inbound Announcement-ODIN",
@@ -2376,5 +2378,6 @@
   "UTILITIES": "UTILITIES-ODIN",
   "Assign Profile": "Assign Profile-ODIN",
   "Basic Call Records": "Basic Call Records-ODIN",
+  "System DN": "System DN-ODIN",
   "REPORTING": "REPORTING-ODIN"
 }
