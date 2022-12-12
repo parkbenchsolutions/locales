@@ -324,8 +324,10 @@
   "Redirect URIs": "Redirect URIs-ODIN",
   "Global Token": "Global Token-ODIN",
   "Upload Sheet": "Upload Sheet-ODIN",
+  "Recent History": "Recent History-ODIN",
+  "Edit Module": "Edit Module-ODIN",
 
-"name": "",
+  "name": "",
   "description": "",
   "minimumCoreVersion": "",
   "title": "",

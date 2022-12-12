@@ -408,6 +408,9 @@
   "Simultaneous Setting Updated": "Simultaneous Setting Updated-ODIN",
   "Phone is deleted": "Phone is deleted-ODIN",
   "Resources Updated": "Resources Updated-ODIN",
-  "Resources Saved": "Resources Saved-ODIN"
+  "Resources Saved": "Resources Saved-ODIN",
+  "Authorization Codes Deactivated successfully.": "Authorization Codes Deactivated successfully.-ODIN",
+  "Deleted successfully": "Deleted successfully-ODIN",
+  "Authorization Code Created": "Authorization Code Created-ODIN"
 
 }
