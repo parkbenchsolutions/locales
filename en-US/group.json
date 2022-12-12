@@ -441,5 +441,8 @@
   "Application Version": "Application Version-ODIN",
   "Device Os Type": "Device Os Type-ODIN",
   "Registration Date": "Registration Date-ODIN",
-  "User Agent": "User Agent-ODIN"
+  "User Agent": "User Agent-ODIN",
+  "Network Class of Service": "Network Class of Service-ODIN",
+  "Edit addTitle": "Edit {{addTitle}}-ODIN",
+  "is Authenticated": "is Authenticated-ODIN"
 }

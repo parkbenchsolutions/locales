@@ -2379,5 +2379,11 @@
   "Assign Profile": "Assign Profile-ODIN",
   "Basic Call Records": "Basic Call Records-ODIN",
   "System DN": "System DN-ODIN",
-  "REPORTING": "REPORTING-ODIN"
+  "REPORTING": "REPORTING-ODIN",
+  "Deactivated": "Deactivated-ODIN",
+  "To Assign": "To Assign-ODIN",
+  "To Unassign": "To Unassign-ODIN",
+  "To Activate": "To Activate-ODIN",
+  "To Deactivate": "To Deactivate-ODIN",
+  "Use Group Dialable Caller ID Policy": "Use Group Dialable Caller ID Policy-ODIN"
 }
