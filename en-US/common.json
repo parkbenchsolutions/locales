@@ -1325,7 +1325,7 @@
   "sip": "Emergency Calls-ODIN",
   "Conference-URI: sip": "Conference-URI: sip-ODIN",
   "Media Policy": "Media Policy-ODIN",
-  "Use Supported Media Set": "Use Supported Media Set: {{mediaPolicy}}-ODIN",
+  "Use Supported Media Set": "Use Supported Media Set-ODIN",
   "Network Usage": "Network Usage-ODIN",
   "Enable Enterprise Extension Dialing": "Enable Enterprise Extension Dialing-ODIN",
   "Enforce Group Calling Line Identity Restriction": "Enforce Group Calling Line Identity Restriction-ODIN",
@@ -2385,5 +2385,17 @@
   "To Unassign": "To Unassign-ODIN",
   "To Activate": "To Activate-ODIN",
   "To Deactivate": "To Deactivate-ODIN",
-  "Use Group Dialable Caller ID Policy": "Use Group Dialable Caller ID Policy-ODIN"
+  "Use Group Dialable Caller ID Policy": "Use Group Dialable Caller ID Policy-ODIN",
+  "Use DN": "Use DN-ODIN",
+  "Use Configurable CLID": "Use Configurable CLID-ODIN",
+  "Use Extension": "Use Extension-ODIN",
+  "Use Location Code plus Extension": "Use Location Code plus Extension-ODIN",
+  "Use External Calls Policy": "Use External Calls Policy-ODIN",
+  "Use Uncompressed Codec": "Use Uncompressed Codec-ODIN",
+  "No Restrictions": "No Restrictions-ODIN",
+  "Force All Calls": "Force All Calls-ODIN",
+  "Force All Except Extension and Location Calls": "Force All Except Extension and Location Calls-ODIN",
+  "Do Not Force Enterprise and Group Calls": "Do Not Force Enterprise and Group Calls-ODIN",
+  "Using usingLevel Translation and Routing Policy": "Using {{usingLevel}} Translation and Routing Policy-ODIN",
+  "Edit Communication Barring Profile": "Edit Communication Barring Profile-ODIN"
 }
