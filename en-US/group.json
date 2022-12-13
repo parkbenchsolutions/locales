@@ -434,7 +434,7 @@
   "User Breakdown": "User Breakdown-ODIN",
   "MAC Address": "MAC Address-ODIN",
   "Line Port": "Line Port-ODIN",
-  "Max Appearances":"Max Appearances-ODIN",
+  "Max Appearances": "Max Appearances-ODIN",
   "In Trunk Group": "In Trunk Group-ODIN",
   "Phone Number Activated": "Phone Number Activated-ODIN",
   "Application Id": "Application Id-ODIN",
@@ -444,5 +444,12 @@
   "User Agent": "User Agent-ODIN",
   "Network Class of Service": "Network Class of Service-ODIN",
   "Edit addTitle": "Edit {{addTitle}}-ODIN",
-  "is Authenticated": "is Authenticated-ODIN"
+  "is Authenticated": "is Authenticated-ODIN",
+  "Circular": "Circular-ODIN",
+  "Regular": "Regular-ODIN",
+  "Simultaneous": "Simultaneous-ODIN",
+  "Uniform": "Uniform-ODIN",
+  "Weighted": "Weighted-ODIN",
+  "Reroute": "Reroute-ODIN",
+  "Forward": "Forward-ODIN"
 }
