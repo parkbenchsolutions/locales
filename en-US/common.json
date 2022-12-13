@@ -1365,6 +1365,7 @@
   "Use levelType Phone List Lookup Policy": "Use levelType Phone List Lookup Policy-ODIN",
   "Use levelType Phone List Lookup Policy (Using usingLevel Phone List Lookup Policy)": "Use {{levelType}} Phone List Lookup Policy (Using {{usingLevel}} Phone List Lookup Policy)-ODIN",
   "Use levelType Translation and Routing Policy": "Use {{levelType}} Translation and Routing Policy-ODIN",
+  "Use levelType Translation and Routing Policy (Using usingLevel Translation and Routing Policy)": "Use {{levelType}} Translation and Routing Policy (Using {{usingLevel}} Translation and Routing Policy)-ODIN",
   "Authorization": "Authorization-ODIN",
   "Service Authorized": "Service Authorized-ODIN",
   "Unlimited Licenses": "Unlimited Licenses-ODIN",
@@ -2397,5 +2398,6 @@
   "Force All Except Extension and Location Calls": "Force All Except Extension and Location Calls-ODIN",
   "Do Not Force Enterprise and Group Calls": "Do Not Force Enterprise and Group Calls-ODIN",
   "Using usingLevel Translation and Routing Policy": "Using {{usingLevel}} Translation and Routing Policy-ODIN",
-  "Edit Communication Barring Profile": "Edit Communication Barring Profile-ODIN"
+  "Edit Communication Barring Profile": "Edit Communication Barring Profile-ODIN",
+  "Use Group CLID": "Use Group CLID-ODIN"
 }

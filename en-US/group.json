@@ -455,7 +455,7 @@
   "Reroute To": "Reroute To-ODIN",
   "Comm Barring": "Comm Barring-ODIN",
   "Comm Barring Auth Codes": "Comm Barring Auth Codes-ODIN",
-  "Edit Device deviceName": "Edit Device deviceName-ODIN",
+  "Edit Device deviceName": "Edit Device {{deviceName}}-ODIN",
   "UDP": "UDP-ODIN",
   "TCP": "TCP-ODIN",
   "Allow": "Allow-ODIN",
@@ -465,5 +465,6 @@
   "Restricted": "Restricted-ODIN",
   "Read-Only": "Read-Only-ODIN",
   "Read-Only Profile": "Read-Only Profile-ODIN",
-  "No Profile": "No Profile-ODIN"
+  "No Profile": "No Profile-ODIN",
+  "Download Current File": "Download Current File-ODIN"
 }
