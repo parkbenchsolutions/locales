@@ -457,5 +457,13 @@
   "Comm Barring Auth Codes": "Comm Barring Auth Codes-ODIN",
   "Edit Device deviceName": "Edit Device deviceName-ODIN",
   "UDP": "UDP-ODIN",
-  "TCP": "TCP-ODIN"
+  "TCP": "TCP-ODIN",
+  "Allow": "Allow-ODIN",
+  "Allow Only If Redirected From Another User": "Allow Only If Redirected From Another User-ODIN",
+  "Disallow": "Disallow-ODIN",
+  "Full": "Full-ODIN",
+  "Restricted": "Restricted-ODIN",
+  "Read-Only": "Read-Only-ODIN",
+  "Read-Only Profile": "Read-Only Profile-ODIN",
+  "No Profile": "No Profile-ODIN"
 }
