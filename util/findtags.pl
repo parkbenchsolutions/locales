@@ -4,17 +4,19 @@ use strict;
 
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups/service-settings/*';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk/bulk-enterprise-clone';
-# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/bulk';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/audits/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/system/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/autoAttendant/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/branding/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/call-processing-policy/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/departments/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/events/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/exports/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/service-provider/*';
-my $topdirname = '/Users/kenburcham/code/odinweb/src/components/users/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/system/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/autoAttendant/*';
+my $topdirname = '/Users/kenburcham/code/odinweb/src/components/branding';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/call-processing-policy/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/departments/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/events/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/exports/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/service-provider';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/users';
+# my $topdirname = '/Users/kenburcham/code/odinweb/src/components/groups';
 # my $topdirname = '/Users/kenburcham/code/odinweb/src/components/*';
 
 # opendir(DIR, $dirname) or die $!;
@@ -39,7 +41,7 @@ sub getTags {
       #    $errors{$3} = $3;
       # }
 
-      # # # UiFormField labels
+      # # UiFormField labels
       # while (/UiFormField(.*?)label\s?=\s?("|'|{`)(.*?)("|'|`})/gs) {
       #    $common{$3} = $3;
       # }
@@ -69,6 +71,10 @@ sub getTags {
       #    $common{$2} = $2;
       # }
       #
+      #placeholder="No Service Provider Selected"
+      # while (/\s*placeholder\s?=\s?("|'|{`)(.*)("|'|`})/g) {
+      #    $common{$2} = $2;
+      # }
 
       ####################
 
@@ -79,20 +85,28 @@ sub getTags {
       # }
       #
       # # captures the label in the UiTabs (also in specific namespace like 'group'
-      # while (/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/g) {
-      #    $group{$2} = $2;
-      # }
+      while (/<div\s*label\s*=\s*{t\(('|")(.*)('|")\)}>/g) {
+         $group{$2} = $2;
+      }
       #
       # # <p>{t(' paragraphs that have translate
       # while (/<p>\n?.*\{t\(("|'|{`)(.*?)("|'|`}).*\n?<\/p>/g) {
       #    $group{$2} = $2;
       # }
       #
-      # #naked wrapped strings
-      # while (/{t\(("|'|{`)(.*?)("|'|`})\)}/g) {
+      # #naked wrapped strings (radio buttons, etc.)
+            # while (/\{t\(("|')(.*?)("|')\)\}/g) {
+            # while (/t\(("|')(.*?)("|')\)/g) {
+      # while (/^\s*{t\(('|")(.*?)('|")/gm) {
       #    $group{$2} = $2;
       # }
+
+
       #
+      #label: 'Session Admission'
+      # while (/^\s*label\s?:\s*'(.*?)'/gm) {
+      #    $group{$1} = $1;
+      # }
 
       #other things to do
 
