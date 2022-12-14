@@ -1335,7 +1335,7 @@
  "Press Enter after giving the value of Action": "Presione la tecla Enter Después de Dar El Valor de Acción",
  "Try Again": "Intentar Otra Vez",
  "Auto Attendant Creation Warning": "Advertencia de Creación de Operadora Automática",
- "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.": "Se Creó la Operadora Automática pero su Configuración no se Guardó. Vuelva a la Lista de Operadoras Automáticas Y Actualice la Configuración O Elimine la Operadora Automática Recién Creada".,
+ "The Auto Attendant was created but its configuration was not saved. Go Back to Auto Attendants list and update the configuration or delete your newly created Auto Attendant.": "Se Creó la Operadora Automática pero su Configuración no se Guardó. Vuelva a la Lista de Operadoras Automáticas Y Actualice la Configuración O Elimine la Operadora Automática Recién Creada",
  "Go Back": "Regresar",
  "Trunk Group Call Capacity": "Capacidad de Llamadas de Grupo Troncal",
  "Edit type Call Processing Policy": "Editar {{type}} de Política de Procesamiento de Llamadas",
