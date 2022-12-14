@@ -4,7 +4,7 @@
   "Edit module": "Edit: {{moduleName}}-ODIN",
   "Edit Series Completion Group Name": "Edit Series Completion Group Name: {{groupName}}-ODIN",
   "Series Completion Group Name": "Series Completion Group Name: {{groupName}}-ODIN",
-  "Are you sure you want to Remove this Series Completion Group?": "Are you sure you want to Remove this Series Completion Group: {{groupName}}?--ODIN",
+  "Are you sure you want to Remove this Series Completion Group?": "Are you sure you want to Remove this Series Completion Group: {{groupName}}?-ODIN",
   "Edit num Services": "Edit {{num}} Services-ODIN",
   "Edit title": "Edit: {{title}}-ODIN",
   "Max maxcalls": "(Max: {{maxcalls}})-ODIN",
@@ -483,5 +483,12 @@
   "Associate User With Device": "Associate User With Device-ODIN",
   "Modify-Only": "Modify-Only-ODIN",
   "Full Resources": "Full Resources-ODIN",
-  "Read-Only Resources": "Read-Only Resources-ODIN"
+  "Read-Only Resources": "Read-Only Resources-ODIN",
+  "Parking User Only": "Parking User Only-ODIN",
+  "Parking User Then Alternate User": "Parking User Then Alternate User-ODIN",
+  "Alternate User Only": "Alternate User Only-ODIN",
+  "Normal": "Normal-ODIN",
+  "Long-Long": "Long-Long-ODIN",
+  "Short-Short-Long": "Short-Short-Long-ODIN",
+  "Short-Long-Short": "Short-Long-Short-ODIN"
 }
