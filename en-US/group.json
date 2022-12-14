@@ -478,5 +478,10 @@
   "System Mail Server": "System Mail Server-ODIN",
   "Group Mail Server": "Group Mail Server-ODIN",
   "Hold for time days": "Hold for {{time}} days-ODIN",
-  "minutes": "minutes-ODIN"
+  "minutes": "minutes-ODIN",
+  "Full Profile": "Full Profile-ODIN",
+  "Associate User With Device": "Associate User With Device-ODIN",
+  "Modify-Only": "Modify-Only-ODIN",
+  "Full Resources": "Full Resources-ODIN",
+  "Read-Only Resources": "Read-Only Resources-ODIN"
 }
