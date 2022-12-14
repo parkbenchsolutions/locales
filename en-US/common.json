@@ -1477,5 +1477,11 @@
   "Allow Department Name Override": "Allow Department Name Override-ODIN",
   "Calling Line ID Group Number": "Calling Line ID Group Number-ODIN",
   "Calling Line ID Group Name": "Calling Line ID Group Name-ODIN",
-  "Endpoints": "Endpoints-ODIN"
+  "Endpoints": "Endpoints-ODIN",
+  "Add Endpoint": "Add Endpoint-ODIN",
+  "Original CLID Phone Number": "Original CLID Phone Number-ODIN",
+  "CLID Phone Number": "CLID Phone Number-ODIN",
+  "Alias 1": "Alias 1-ODIN",
+  "Alias 2": "Alias 2-ODIN",
+  "Alias 3": "Alias 3-ODIN"
 }
