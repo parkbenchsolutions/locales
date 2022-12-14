@@ -2404,5 +2404,6 @@
   "No Parent": "No Parent-ODIN",
   "No Department": "No Department-ODIN",
   "Auto Fill": "Auto Fill-ODIN",
-  "Remove All": "Remove All-ODIN"
+  "Remove All": "Remove All-ODIN",
+  "No title Available": "No {{title}} Available-ODIN"
 }
