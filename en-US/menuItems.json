@@ -270,5 +270,8 @@
   "Call Forward": "Call Forward-ODIN",
   "Stateful Rerouting": "Stateful Rerouting-ODIN",
   "Unreachable": "Unreachable-ODIN",
-  "Users Hosted": "Users Hosted-ODIN"
+  "Users Hosted": "Users Hosted-ODIN",
+  "Comm Barring Auth Codes": "Comm Barring Auth Codes-ODIN",
+  "Custom Directory": "Custom Directory-ODIN",
+  "Directory": "Directory-ODIN"
 }

@@ -373,7 +373,7 @@
   "Hoteling Guest Deactivated": "Hoteling Guest Deactivated-ODIN",
   "Do Not Disturb Activated": "Do Not Disturb Activated-ODIN",
   "Do Not Disturb Deactivated": "Do Not Disturb Deactivated-ODIN",
-  "Call Forward Always Activated":"Call Forward Always Activated-ODIN",
+  "Call Forward Always Activated": "Call Forward Always Activated-ODIN",
   "Call Forwarding No Answer Activated": "Call Forwarding No Answer Activated-ODIN",
   "Call Forwarding No Answer Deactivated": "Call Forwarding No Answer Deactivated-ODIN",
   "Call Forward Busy Activated": "Call Forward Busy Activated-ODIN",
@@ -411,6 +411,11 @@
   "Resources Saved": "Resources Saved-ODIN",
   "Authorization Codes Deactivated successfully.": "Authorization Codes Deactivated successfully.-ODIN",
   "Deleted successfully": "Deleted successfully-ODIN",
-  "Authorization Code Created": "Authorization Code Created-ODIN"
-
+  "Authorization Code Created": "Authorization Code Created-ODIN",
+  "Contact Added": "Contact Added-ODIN",
+  "Service Pack Created successfully": "Service Pack Created successfully-ODIN",
+  "Service Pack Updated successfully": "Service Pack Updated successfully-ODIN",
+  "Pack Deleted successfully": "Pack Deleted successfully-ODIN",
+  "Group Deleted successfully": "Group Deleted successfully-ODIN",
+  "Virtual On-net Deleted successfully": "Virtual On-net Deleted successfully-ODIN"
 }
