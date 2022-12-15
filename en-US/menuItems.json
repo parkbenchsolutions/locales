@@ -273,5 +273,13 @@
   "Users Hosted": "Users Hosted-ODIN",
   "Comm Barring Auth Codes": "Comm Barring Auth Codes-ODIN",
   "Custom Directory": "Custom Directory-ODIN",
-  "Directory": "Directory-ODIN"
+  "Directory": "Directory-ODIN",
+  "Queue": "Queue-ODIN",
+  "Advanced": "Advanced-ODIN",
+  "Announcement": "Announcement-ODIN",
+  "DNIS": "DNIS-ODIN",
+  "Statistics": "Statistics-ODIN",
+  "Thresholds": "Thresholds-ODIN",
+  "Weighted Call Distribution": "Weighted Call Distribution-ODIN",
+  "Agent Report": "Agent Report-ODIN"
 }
