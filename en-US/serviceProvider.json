@@ -187,7 +187,8 @@
   "Priority Weighted Routing": "Priority Weighted Routing-ODIN",
   "Ordered Routing": "Ordered Routing-ODIN",
   "Upload Sheet": "Upload Sheet-ODIN",
-  "Delete": "Delete-ODIN"
+  "Delete": "Delete-ODIN",
+  "Edit type Call Processing Policy" : "Edit {{type}} Call Processing Policy-ODIN"
 
 
 }
