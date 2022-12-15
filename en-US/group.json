@@ -289,7 +289,6 @@
   "Access Device": "Access Device-ODIN",
   "MAC": "MAC-ODIN",
   "The announcement file fileName is in incorrect format": "The announcement file {{fileName}} is in incorrect format-ODIN",
-
   "Primary": "Primary-ODIN",
   "Include DTG Identity for Calls to Trunk Group": "Include DTG Identity for Calls to Trunk Group-ODIN",
   "Premium ServicesII": "Premium ServicesII-ODIN",
@@ -490,5 +489,17 @@
   "Normal": "Normal-ODIN",
   "Long-Long": "Long-Long-ODIN",
   "Short-Short-Long": "Short-Short-Long-ODIN",
-  "Short-Long-Short": "Short-Long-Short-ODIN"
+  "Short-Long-Short": "Short-Long-Short-ODIN",
+  "Queue": "Queue-ODIN",
+  "Advanced": "Advanced-ODIN",
+  "Announcement": "Announcement-ODIN",
+  "DNIS": "DNIS-ODIN",
+  "Statistics": "Statistics-ODIN",
+  "Thresholds": "Thresholds-ODIN",
+  "Weighted Call Distribution": "Weighted Call Distribution-ODIN",
+  "Current Calls In Queue": "Current Calls In Queue-ODIN",
+  "Longest Waiting Call (seconds)": "Longest Waiting Call (seconds)-ODIN",
+  "Average Estimated Wait Time (seconds)": "Average Estimated Wait Time (seconds)-ODIN",
+  "Average Handling Time (seconds)": "Average Handling Time (seconds)-ODIN",
+  "Average Speed of Answer (seconds)": "Average Speed of Answer (seconds)-ODIN"
 }
